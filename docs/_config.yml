@@ -5,7 +5,7 @@ description: >
   Make the wild count by adding consistency to your nature watching.
 lang: en-US
 
-baseurl:  # the subpath of your site, e.g. /blog/
+baseurl:  https://wildcounts.org/ # the subpath of your site, e.g. /blog/
 url: https://mjon.github.io/wildcounts # the base hostname & protocol for your site
 git_address: https://mjon.github.io/wildcounts
 git_edit_address: #https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
