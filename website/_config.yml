@@ -1,0 +1,64 @@
+# Site settings
+title: WildCounts
+email: jon.sullivan@lincoln.ac.nz
+description: >
+  Make the wild count by adding consistency to your nature watching.
+lang: en-US
+
+baseurl: /website # the subpath of your site, e.g. /blog/
+url: https://mjon.github.io/wildcounts # the base hostname & protocol for your site
+git_address: https://mjon.github.io/wildcounts
+git_edit_address: #https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+
+# theme options from https://bootswatch.com/3/
+# comment out this to use default Bootstrap
+bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
+
+# Configure the remote_theme plugin with the gh-pages branch
+# or the specific tag
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
+# the above is added by Jon, see https://github.com/aksakalli/jekyll-doc-theme
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+# Plugins (previously gems:)
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  # the above line is added by Jon to avoid a local build error
+  - .idea/
+  - .gitignore
+  - README.md
+timezone: Pacific/Auckland
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true
