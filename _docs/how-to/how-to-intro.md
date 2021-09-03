@@ -1,6 +1,7 @@
 ---
-title: How to count the wild
+title: Introduction
 permalink: /docs/how-to/
+description: An introduction to the wild counts methods.
 ---
 
 ## Introduction

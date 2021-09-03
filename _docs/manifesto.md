@@ -61,7 +61,7 @@ The best time to start counting your local wild, other than yesterday, is **righ
 - Cause no harm to the wild when you’re counting
 - Don't wait for someone else to count your wild
 - Have fun!
-- Share your counts, and do it using standard biodiversity data formats
+- Share your counts, and use standard data formats
 
 ---
 
