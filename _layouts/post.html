@@ -20,8 +20,12 @@ layout: default
         <div class="col-md-8">
             <h1>{{ page.title }}</h1>
             <!-- <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p> -->
-            <!-- Jon modified line below-->
+             <!-- Jon additions begin -->
+            {% if page.sub_title %}
+                <h4>{{ page.sub_title | markdownify | strip_html }}</h4>
+            {% endif %}
             <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • by <a href="https://wildcounts.org/docs/who/">{{ page.author }}</a>{% endif %}{% if page.meta %} • Category: {{ page.meta }}{% endif %}</p>
+             <!-- Jon additions end -->
             <div  id="markdown-content-container">{{ content }}</div>
             <hr>
             <ul class="pager">

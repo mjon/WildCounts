@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Adding some Eco to BioBlitz"
+sub_title: "The Nina Valley EcoBlitz for secondary school students added ecological surveys to a BioBlitz."
 author: Jon Sullivan
 date:   2014-05-12 10:30:00 +1300
 meta: 
   - Wild Watchers
+categorylink:
+  - wild-watchers  
 ---
 
 <figure class="align-center">
