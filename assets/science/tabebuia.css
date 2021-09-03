@@ -1,0 +1,67 @@
+@charset	"iso-8859-1";
+
+BODY
+	{
+	font-family: Palatino, sans-serif;
+	font-size: 0.8em;
+	color: #000000;
+	background-color: #FFFFFF;
+	text-align: left;
+	}
+
+P
+	{
+	margin-left: 2%;
+	margin-right: 2%;
+	}
+
+P.REFERENCE
+	{
+	margin-left: 10%;
+	margin-bottom: 0%;
+	text-indent: -4%;
+	}
+
+P.PLANT_ECOLOGIST
+	{
+	margin-top: 0%;
+	font-style: italic;
+	line-height:0.8em;
+	}
+
+P.LAST_MODIFIED
+	{
+	font-size: 0.7em;
+	font-style: italic;
+	text-align: right;
+	}
+
+H1
+	{
+	margin-left: 2%;
+	margin-right: 2%;
+	font-size:1.2em;
+	font-weight:bold;
+	line-height:1.2em;
+	}
+
+A:link { 
+	font-weight: bold;
+	text-decoration: none;
+	color:#009900; 
+	background-color: transparent;
+	}
+
+A:visited { 
+	font-weight: bold;
+	text-decoration: none;
+	color:#663300;
+	background-color:transparent;
+	}
+	
+A:hover {
+	text-decoration: underline;
+	color:#009900;
+	background-color:transparent;
+	}
+

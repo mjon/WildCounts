@@ -1,11 +1,33 @@
-- title: Getting Started
+- title: Why count the wild
   docs:
-  - home
-  - themes
-  - customization
+  - about
+  - manifesto
+  - who
 
-- title: Examples
+- title: How to count the wild
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - how-to-intro
+
+- title: Decide what to count
+  docs:
+  - what-to-count-intro
+
+- title: Learn the method
+  docs:
+  - method-intro
+
+- title: Improve your ID skills
+  docs:
+  - ID-intro
+
+- title: Gear up
+  docs:
+  - gear-up-intro
+
+- title: Share your counts
+  docs:
+  - share-intro
+
+- title: Find patterns and trends
+  docs:
+  - patterns-trends-intro
