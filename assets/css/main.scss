@@ -19,3 +19,23 @@
   "syntax-highlighting",
   "jekyll-doc-theme"
 ;
+
+
+// Jon additions begin
+// these get added after the official theme css above.
+// they do not replace exisiting lines. To do that, boostrap variables need to be added above, with different values to the defaults
+
+/** Reset the margins and reduce font size for figcaption. */
+/** (the default is the same size as the main text). */
+figcaption {
+  margin: 0.5rem 0; font-size: 80%;
+}
+
+/** Used to shift the figures 5% to the right of the left margin of the article. */
+/** (the default is to float everything right in the article, including figures. */
+.indent {
+  position:relative;
+  left: 5%;
+}
+
+// Jon additions end

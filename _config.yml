@@ -10,6 +10,15 @@ url: https://mjon.github.io/wildcounts # the base hostname & protocol for your s
 git_address: https://mjon.github.io/wildcounts
 git_edit_address: #https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
+# author details added by Jon
+author: 
+  name: Jon Sullivan
+  twitter: joncounts
+  picture: "/assets/img/authors/Jon_small.png"
+twitter_username: joncounts
+github_username: mjon
+inaturalist_username: jon_sullivan
+
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
 bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
@@ -37,7 +46,7 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
-timezone: Pacific/Auckland
+timezone: Pacific/Auckland # modified by Jon
 defaults:
 - scope:
     path: _posts
