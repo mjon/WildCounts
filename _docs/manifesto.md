@@ -27,7 +27,7 @@ The more technology advances, the easier counting the wild has become, yet we st
 As a society, we could have monitored the past century of changes to wild nature, but, for the most part, we didn't. There are some shining exceptions, especially driven by bird and butterfly enthusiasts in Europe and North America. However, most of nature, in most places, has been changing in ways that have gone undocumented and largely unnoticed. 
 
 <figure class="align-center">
-<iframe src="../assets/leaflet_maps/SanGabrielObsMap.html" width="100%" height="500" seamless=""></iframe>
+<iframe src="/assets/leaflet_maps/SanGabrielObsMap.html" width="100%" height="500" seamless=""></iframe>
   <figcaption>Here are the <a href="https://www.inaturalist.org/observations?nelat=33.80469722382091&nelng=-118.084228296557&place_id=any&swlat=33.79489015445072&swlng=-118.09600855855041">observations from iNaturalist</a> of the same stretch of heavily modified San Gabriel River photographed above. You can find wild nature anywhere! The map shows the 55 species that had been recorded by 22 January 2019. Each pin colour is a different species. Click on any pin to link back to its observation page on iNaturalist.org. This is a great start but there are not nearly enough observations, and they've not been counted consistently enough, nor for long enough, to know what the trends are in the species living here.</figcaption>
 </figure>
 
