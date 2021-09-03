@@ -1,6 +1,6 @@
 ---
 title: Identify better, identify more
-permalink: /docs/ID-intro/
+permalink: /docs/id-intro/
 ---
 
 ## Get better at identifying species
