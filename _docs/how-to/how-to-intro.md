@@ -1,6 +1,6 @@
 ---
 title: Introduction
-permalink: /docs/how-to/
+permalink: /docs/how-to-intro/
 description: An introduction to the wild counts methods.
 ---
 
