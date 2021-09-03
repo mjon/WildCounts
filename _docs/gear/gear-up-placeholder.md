@@ -1,6 +1,6 @@
 ---
 title: Gear placeholder
-permalink: /docs/gear-placeholder/
+permalink: /docs/gear-up-placeholder/
 ---
 
 ## Content
