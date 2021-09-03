@@ -42,7 +42,7 @@ Why isn't everybody else? It's just as easy to do for lots of other species. Als
 
 The WildCounts website has two main parts. 
 
-In the [Docs](docs/) section (where you are now), you'll find lots of tips and instructions on how to count the wild. That includes what to do when out looking (and listening) for species, how to enter and store your wild counts data, how to share those online, and how to analyse wild counts for trends and patterns. 
+In the [Docs](/) section (where you are now), you'll find lots of tips and instructions on how to count the wild. That includes what to do when out looking (and listening) for species, how to enter and store your wild counts data, how to share those online, and how to analyse wild counts for trends and patterns. 
 
 In the <a href="{{ site.posts.first.url | relative_url }}">Blog</a> section, there are stories about people making wild counts, the amazing knowledge being uncovered using wild counts, and ways that this knowledge is used to make the wild count in our society. 
 
@@ -51,5 +51,3 @@ In the <a href="{{ site.posts.first.url | relative_url }}">Blog</a> section, the
 <figure class="align-center">
 <img src="/assets/img/banner_images/index_banner_tangle_1680px348px.jpg" width="100%" alt="tangle banner">
 </figure>
-
----

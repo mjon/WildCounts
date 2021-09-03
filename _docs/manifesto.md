@@ -68,5 +68,3 @@ The best time to start counting your local wild, other than yesterday, is **righ
 <figure class="align-center">
 <img src="/assets/img/banner_images/taming-wild-data_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
 </figure>
-
----
