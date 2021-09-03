@@ -4,7 +4,7 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Why Wild Counts
+## Why WildCounts?
 
 The wild natural world is changing. Fast. Because of us. 
 
@@ -14,7 +14,7 @@ Surprisingly, the places where we tend to know the least about these things are 
 
 Sure, there are some fantastic and fanatical birders out there dedicating their lives to bird watching. It’s incredible what they’re achieving with tools like eBird. But what about in **your** neighbourhood? And what about your local butterflies or beetles, mushrooms or mosses? How are **they** doing? **Who is watching your wild?**
 
-**Wild Counts** is about paying more attention to what's changing in the wild. All of the wild. There’s all the "how", "what", and "why" here to help you to count your wild. It's also about celebrating the people who choose to count the wild. And, it explores what we can do with all the extra knowledge that comes from wild counts.
+**WildCounts** is about paying more attention to what's changing in the wild. All of the wild. There’s all the "how", "what", and "why" here to help you to count your wild. It's also about celebrating the people who choose to count the wild. And, it explores what we can do with all the extra knowledge that comes from wild counts.
 
 If more of us count the wild, we’ll all learn more about how nature is changing. If we take more notice, perhaps we'll all value the wild more. Together we can make the wild count!
 
@@ -40,7 +40,7 @@ Why isn't everybody else? It's just as easy to do for lots of other species. Als
 
 ## About the WildCounts website
 
-The Wild Counts website has two main parts. 
+The WildCounts website has two main parts. 
 
 In the [Docs](docs/) section (where you are now), you'll find lots of tips and instructions on how to count the wild. That includes what to do when out looking (and listening) for species, how to enter and store your wild counts data, how to share those online, and how to analyse wild counts for trends and patterns. 
 

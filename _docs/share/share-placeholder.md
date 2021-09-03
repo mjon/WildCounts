@@ -1,6 +1,6 @@
 ---
-title: Methods placeholder
-permalink: /docs/methods-placeholder/
+title: Share placeholder
+permalink: /docs/share-placeholder/
 ---
 
 ## Content

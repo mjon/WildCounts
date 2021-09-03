@@ -1,6 +1,6 @@
 ---
 title: How-to placeholder
-permalink: /docs/howto-placeholder/
+permalink: /docs/how-to-placeholder/
 ---
 
 ## Content

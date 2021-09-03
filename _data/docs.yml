@@ -7,27 +7,34 @@
 - title: How to count the wild
   docs:
   - how-to-intro
+  - how-to-placeholder
 
 - title: Decide what to count
   docs:
   - what-to-count-intro
+  - what-to-count-placeholder
 
 - title: Learn the method
   docs:
-  - method-intro
+  - methods-intro
+  - methods-placeholder
 
 - title: Improve your ID skills
   docs:
-  - ID-intro
+  - id-intro
+  - id-placeholder
 
 - title: Gear up
   docs:
   - gear-up-intro
+  - gear-up-placeholder
 
 - title: Share your counts
   docs:
   - share-intro
+  - share-placeholder
 
 - title: Find patterns and trends
   docs:
   - patterns-trends-intro
+  - patterns-trends-placeholder
