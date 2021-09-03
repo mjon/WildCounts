@@ -1,6 +1,6 @@
 ---
-title: Welcome to Wild Counts
-permalink: /docs/about/
+title: Welcome to WildCounts
+permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
@@ -38,7 +38,7 @@ There is one group of naturalists that have been collecting wild counts data for
 
 Why isn't everybody else? It's just as easy to do for lots of other species. Also, you don't need to be a mad skills birder to make wild counts of birds. You can just pick one bird species that you like, and that you can reliably identify, and you can just make wild counts of that.
 
-## About the Wild Counts website
+## About the WildCounts website
 
 The Wild Counts website has two main parts. 
 
@@ -49,7 +49,7 @@ In the <a href="{{ site.posts.first.url | relative_url }}">Blog</a> section, the
 ---
 
 <figure class="align-center">
-<img src="/assets/img/banner_images/index_banner_tangle_1680px348px.jpg" width="90%" alt="tangle banner">
+<img src="/assets/img/banner_images/index_banner_tangle_1680px348px.jpg" width="100%" alt="tangle banner">
 </figure>
 
 ---

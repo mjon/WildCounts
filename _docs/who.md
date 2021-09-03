@@ -18,7 +18,7 @@ I’m always keeping an keen eye on the rest of the world. Please get in touch i
 ---
 
 <figure class="align-center">
-<img src="/assets/img/banner_images/index_banner_tangle_1680px200px.jpg" width="90%" alt="tangle banner">
+<img src="/assets/img/banner_images/index_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
 </figure>
 
 ---
