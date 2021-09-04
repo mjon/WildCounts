@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A kahikatea in the head is worth two in the bush"
-sub_title: "Wild forests are just a wall of green to most people, which is a shame, becuase forests are a wild tangle of amazing stories if you know the species."
+sub_title: "Wild forests are just a wall of green to most people, which is a shame, because forests are a wild tangle of amazing stories if you know the species."
 author: Jon Sullivan
 date:   2014-01-15 10:30:00 +1300
 meta: 
