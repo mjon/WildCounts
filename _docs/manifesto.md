@@ -7,10 +7,12 @@ We live in an age of rapid environmental change: global warming, ocean acidifica
 
 It's all because we, humans, are the most amazingly successful big animal the Earth has ever known. We dominate the planet. Our success has big consequences for all the other wild species with which we share the planet. There’s now a *lot* less world for them to be wild in. The consequences of that can have consequences for us.
 
-<figure class="align-center">
+<div class="indent">
+<figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/27867921914/" title="San Gabriel River"><img src="https://farm9.staticflickr.com/8651/27867921914_43cf5761e5_k.jpg" width="2048" height="1367" alt="San Gabriel River, California"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  <figcaption>Many natural landscapes have been modified massively by human development, like this view north up the San Gabriel River in Long Beach, Southern California. It's amazing how many wild species can still be found, and counted, in heavily modified places like this. How these species are faring remains largely unknown for most places.</figcaption>
+<figcaption>Many natural landscapes have been modified massively by human development, like this view north up the San Gabriel River in Long Beach, Southern California. It's amazing how many wild species can still be found, and counted, in heavily modified places like this. How these species are faring remains largely unknown for most places.</figcaption>
 </figure>
+</div>
 
 WildCounts is built on the belief that we all have a duty to watch our wild. The essential first step to becoming stewards of our local patches of the planet is getting to know the wild species living with us. How are they faring in the face of all these changes? To know that, we need long-term monitoring of the wild.
 
@@ -26,10 +28,12 @@ The more technology advances, the easier counting the wild has become, yet we st
 
 As a society, we could have monitored the past century of changes to wild nature, but, for the most part, we didn't. There are some shining exceptions, especially driven by bird and butterfly enthusiasts in Europe and North America. However, most of nature, in most places, has been changing in ways that have gone undocumented and largely unnoticed. 
 
-<figure class="align-center">
+<div class="indent">
+<figure>
 <iframe src="/assets/leaflet_maps/SanGabrielObsMap.html" width="100%" height="500" seamless=""></iframe>
-  <figcaption>Here are the <a href="https://www.inaturalist.org/observations?nelat=33.80469722382091&nelng=-118.084228296557&place_id=any&swlat=33.79489015445072&swlng=-118.09600855855041">observations from iNaturalist</a> of the same stretch of heavily modified San Gabriel River photographed above. You can find wild nature anywhere! The map shows the 55 species that had been recorded by 22 January 2019. Each pin colour is a different species. Click on any pin to link back to its observation page on iNaturalist.org. This is a great start but there are not nearly enough observations, and they've not been counted consistently enough, nor for long enough, to know what the trends are in the species living here.</figcaption>
+<figcaption>Here are the <a href="https://www.inaturalist.org/observations?nelat=33.80469722382091&nelng=-118.084228296557&place_id=any&swlat=33.79489015445072&swlng=-118.09600855855041">observations from iNaturalist</a> of the same stretch of heavily modified San Gabriel River photographed above. You can find wild nature anywhere! The map shows the 55 species that had been recorded by 22 January 2019. Each pin colour is a different species. Click on any pin to link back to its observation page on iNaturalist.org. This is a great start but there are not nearly enough observations, and they've not been counted consistently enough, nor for long enough, to know what the trends are in the species living here.</figcaption>
 </figure>
+</div>
 
 WildCounts says **enough already**! We shouldn't wait for cheap gadgets to do it all for us. We shouldn't wait for political and institutional stars to align. We shouldn't be constrained by tightly prescribed research questions and current funding fashions. Our natural world, *your* world, is changing **now**!  
 
@@ -65,6 +69,6 @@ The best time to start counting your local wild, other than yesterday, is **righ
 
 ---
 
-<figure class="align-center">
+<figure>
 <img src="/assets/img/banner_images/taming-wild-data_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
 </figure>
