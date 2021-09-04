@@ -44,7 +44,7 @@ What surprised us though was the inability of most Riccarton gardeners to identi
 </figure>
 </div>
 
-Brendan also asked people to say whether each of a list of 16 tree species "were in New Zealand before people arrived".  They could say yes, no, or be not sure. We chose a selection of common species from Riccarton Bush and from Christchurch gardens and parks, and listed them by common name and scientific name. Here are the results of the 85 surveys, taken from <a href="http://hdl.handle.net/10182/865">Brendan's thesis</a>.
+Brendan also asked people to say whether each of a list of 16 tree species "were in New Zealand before people arrived".  They could say yes, no, or be not sure. We chose a selection of common species from Riccarton Bush and from Christchurch gardens and parks, and listed them by the English common name and scientific name. Here are the results of the 85 surveys, taken from <a href="http://hdl.handle.net/10182/865">Brendan's thesis</a>.
 
 <table>
 	<tr>
@@ -60,13 +60,13 @@ Brendan also asked people to say whether each of a list of 16 tree species "were
 		<td>Kahikatea/white pine (<a href="https://inaturalist.nz/taxa/52390" title="iNaturalist NZ taxon page"><em>Dacrycarpus dacrydioides</em></a>)</td> <td>76</td> <td>7</td> <td>16</td>
 	</tr>
  	<tr>
-		<td>Lemonwood (horoeka, <a href="https://inaturalist.nz/taxa/200847" title="iNaturalist NZ taxon page"><em>Pittosporum eugenioides</em></a>)</td> <td>60</td> <td>14</td> <td>26</td>
+		<td>Lemonwood (tarata, <a href="https://inaturalist.nz/taxa/200847" title="iNaturalist NZ taxon page"><em>Pittosporum eugenioides</em></a>)</td> <td>60</td> <td>14</td> <td>26</td>
 	</tr>
  	<tr>
-		<td>Lancewood <a href="https://inaturalist.nz/taxa/54629" title="iNaturalist NZ taxon page"><em>(Pseudopanax crassifolius</em></a>)</td> <td>49</td> <td>12</td> <td>39</td>
+		<td>Lancewood (horoeka, <a href="https://inaturalist.nz/taxa/54629" title="iNaturalist NZ taxon page"><em>(Pseudopanax crassifolius</em></a>)</td> <td>49</td> <td>12</td> <td>39</td>
 	</tr>
  	<tr>
-		<td>Broadleaf (Kapuka, <a href="https://inaturalist.nz/taxa/200843" title="iNaturalist NZ taxon page"><em>Griselinia littoralis</em></a>)</td> <td>38</td> <td>18</td> <td>45</td>
+		<td>Broadleaf (kapuka, <a href="https://inaturalist.nz/taxa/200843" title="iNaturalist NZ taxon page"><em>Griselinia littoralis</em></a>)</td> <td>38</td> <td>18</td> <td>45</td>
 	</tr>
  	<tr>
 		<td>Wineberry (makomako, <a href="https://inaturalist.nz/taxa/70230" title="iNaturalist NZ taxon page"><em>Aristotelia serrata</em></a>)</td> <td>22</td> <td>22</td> <td>55</td>
