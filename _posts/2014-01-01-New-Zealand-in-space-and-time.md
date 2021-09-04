@@ -29,7 +29,7 @@ Check them out. It surprised me, when I made them, just how big and isolated we 
 <div class="indent">
 <figure>
 <a href="/assets/img/New Zealand in the Northern Hemisphere-North Pacific.jpg" title="New Zealand in the northern Pacific"><img src="/assets/img/New Zealand in the Northern Hemisphere-North Pacific_s.jpg" width="800" alt="New Zealand in the northern Pacific"></a>
-<figcaption>New Zealand in the northern Pacific off the western coast of North America. That's tiny Hawaii is down in the bottom left. </figcaption>
+<figcaption>New Zealand in the northern Pacific off the western coast of North America. That's tiny Hawaii down in the bottom left. </figcaption>
 </figure>
 </div>
 
