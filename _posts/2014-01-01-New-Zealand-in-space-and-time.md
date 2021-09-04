@@ -20,30 +20,30 @@ I was at a party in Philadelphia, USA, back in the 1990s, and was asked where I 
 
 To my surprise, if the party goers had any idea about where New Zealand was, it was that it might be somewhere near Greenland, or maybe Finland. Some bright spark thought it was part of Australia. That was as close as they got.
 
-So when I lecture visiting international  students about New Zealand ecology, I'm very careful to first set the scene: New Zealand is big, old, isolated, and temperate. These four things explain a lot about the strange ecology we have.
+So when I lecture visiting international students about New Zealand ecology, I'm very careful to first set the scene: New Zealand is big, old, isolated, and temperate. These four things explain a lot about the strange ecology we have.
 
-To help emphasise New Zealand being big, isolated, and temperate, I made some maps. I took a nice <a href="http://visibleearth.nasa.gov/view.php?id=73909">NASA composite satellite image of the world</a> and cut New Zealand out from the southern hemisphere and pasted it into the northern hemisphere at the equivalent latitudes. I placed it as far from the nearest continent as New Zealand is from Australia.
+To help emphasise New Zealand being big, isolated, and temperate, I made some maps. I took a nice <a href="http://visibleearth.nasa.gov/view.php?id=73909">NASA composite satellite image of the world</a> and cut New Zealand out from the southern hemisphere and pasted it into the northern hemisphere at the equivalent latitudes. I placed it as far from the nearest continent as New Zealand is from Australia. And, yes, the closest land mass to New Zealand is Australia, but that's still over 2,100 km (1,300 miles) away to the northwest.
 
-Check them out. It surprised me, when I made them, just how big and isolated we really are.
+Check out the maps. It surprised me, when I made them, just how big and isolated New Zealand really is.
 
 <div class="indent">
 <figure>
 <a href="/assets/img/New Zealand in the Northern Hemisphere-North Pacific.jpg" title="New Zealand in the northern Pacific"><img src="/assets/img/New Zealand in the Northern Hemisphere-North Pacific_s.jpg" width="800" alt="New Zealand in the northern Pacific"></a>
-<figcaption>New Zealand in the northern Pacific off the western coast of North America. That's tiny Hawaii down in the bottom left. </figcaption>
+<figcaption>New Zealand, if it was in the northern Pacific off the western coast of North America. That's tiny Hawaii down in the bottom left. </figcaption>
 </figure>
 </div>
 
 <div class="indent">
 <figure>
 <a href="/assets/img/New Zealand in the Northern Hemisphere-Asia.jpg" title="New Zealand in the northern Pacific"><img src="/assets/img/New Zealand in the Northern Hemisphere-Asia_s.jpg" width="800" alt="New Zealand in the northern Pacific"></a>
-<figcaption>New Zealand in the northern Pacific off the eastern coast of Asia.</figcaption>
+<figcaption>New Zealand, if it was in the northern Pacific off the eastern coast of Asia.</figcaption>
 </figure>
 </div>
 
 <div class="indent">
 <figure>
 <a href="/assets/img/New Zealand in the Northern Hemisphere-Atlantic.jpg" title="New Zealand in the northern Atlantic"><img src="/assets/img/New Zealand in the Northern Hemisphere-Atlantic_s.jpg" width="800" alt="New Zealand in the northern Atlantic"></a>
-<figcaption>New Zealand in the northern Atlantic between eastern North America and western Europe.</figcaption>
+<figcaption>New Zealand, if it was in the northern Atlantic between eastern North America and western Europe.</figcaption>
 </figure>
 </div>
 
