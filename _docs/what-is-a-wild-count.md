@@ -1,5 +1,11 @@
 ---
 title: What is a "wild count"?
+sub_title: "Wild counts data are vastly more useful than casual observations for uncovering changes in nature."
+author: Jon Sullivan
+date:   2018-01-08 10:30:00 +1300
+last_modified_at:   2021-09-05 10:30:00 +1300
+meta: 
+  - Why count
 permalink: /docs/what-is-a-wild-count/
 ---
 
