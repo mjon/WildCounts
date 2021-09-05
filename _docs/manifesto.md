@@ -1,7 +1,9 @@
 ---
-title: Manifesto
+title: WildCounts Manifesto
 permalink: /docs/manifesto/
 ---
+
+### Change is all around us
 
 We live in an age of rapid environmental change: global warming, ocean acidification, wild habitat loss, extensive and intensive land use changes, pollution, widespread pesticide use, species invasions, over-hunting and harvesting. Phew! Pretty much everything about the natural environment is being changed.
 
@@ -16,17 +18,25 @@ It's all because we, humans, are the most amazingly successful big animal the Ea
 
 WildCounts is built on the belief that we all have a duty to watch our wild. The essential first step to becoming stewards of our local patches of the planet is getting to know the wild species living with us. How are they faring in the face of all these changes? To know that, we need long-term monitoring of the wild.
 
+### Long-term ecological monitoring
+
 Formal long-term monitoring of wild nature has been described as a [Cinderella science](https://dx.doi.org/10.1038/450789a). It's not glamorous, it rarely makes articles in top science journals, and it takes effort and expertise applied over decades to reveal patterns and trends. In short, it's no way to get ahead in science, and so very little of it gets done. Formal long-term monitoring also requires institutional commitment beyond the usual funding and political cycles. It's always vulnerable to the criticism, "Why?".  "Why are we doing it?"
 
 Many have claimed, and with some good reasons, that it is irresponsible to spend public, or private, money on long-term ecological monitoring, except when there is a clear question to be answered and a clear time frame for answering it. Not the general "how are things changing?" kinds of questions, but much more targeted questions with foreseeable applications or implications. In some scenarios, that can make sense. 
 
 However, this kind of targeted monitoring has not typically given us the necessary breadth and depth of knowledge of how nature is changing. It is poor at revealing the surprise changes that nobody anticipated. We should expect a lot of those surprises as we steer the planet into unchartered environmental conditions.
 
+### Technology is making it easier
+
 Others look to the near horizon of technological advances to bring us cheap, ubiquitous monitoring of nature. Environmental DNA! Drones! Camera traps! Microphone arrays! As costs come down, our gadgets can do more. Perhaps in a decade or two, we won't need people to do monitoring at all; there will be arrays of clever gadgets installed everywhere watching nature for us. (That is, if our privacy policies allow it. Would you or your neighbours be OK with a government microphone or camera constantly recording in your home gardens and local parks?)
 
 The more technology advances, the easier counting the wild has become, yet we still do very little of it. Counting became much easier with the invention of the internet as it swung the doors open to the world’s taxonomy, and the knowledge in the world’s museums and science journals. Counting became much more powerful with the invention of GPS and digital cameras and digital microphones. It became much more accessible when smart phones put all that tech into everybody’s pockets. Every technological advance has underscored that the reason why we're not counting the wild is not technology. It's social. It's us.
 
+### Enough already!
+
 As a society, we could have monitored the past century of changes to wild nature, but, for the most part, we didn't. There are some shining exceptions, especially driven by bird and butterfly enthusiasts in Europe and North America. However, most of nature, in most places, has been changing in ways that have gone undocumented and largely unnoticed. 
+
+WildCounts says **enough already**! We shouldn't wait for cheap gadgets to do it all for us. We shouldn't wait for political and institutional stars to align. We shouldn't be constrained by tightly prescribed research questions and current funding fashions. Our natural world, *your* world, is changing **now**!
 
 <div class="indent">
 <figure>
@@ -35,13 +45,13 @@ As a society, we could have monitored the past century of changes to wild nature
 </figure>
 </div>
 
-WildCounts says **enough already**! We shouldn't wait for cheap gadgets to do it all for us. We shouldn't wait for political and institutional stars to align. We shouldn't be constrained by tightly prescribed research questions and current funding fashions. Our natural world, *your* world, is changing **now**!  
-
 We have no time machine. Most of what we don't count today can never be counted. A lot of the wild is cheap, easy, and fun(!), to count. We don't need to wait for politicians and big institutions to invest in long term ecological monitoring networks and DNA barcode libraries (although they most certainly should). 
 
 We can count everything that can be easily counted and we can do it today. Lots of species are easy to find and identify, sometimes after a little practise. Crowds of naturalists in online communities, especially at [iNaturalist](https://www.inaturalist.org), are just an app tap away to help you identify just about any species. Anyone can now adopt a favourite species and become the local expert on how it is faring in their area. 
 
 If we have fun sharing our counts, we can easily learn how a lot of our local wild is changing. When that happens in lots of local places, we can also understand how our wild planet is responding to our actions. 
+
+### Counting the wild is fun and important
 
 And, counting the wild **is** fun. Connecting into the natural rhythms of wild nature around us can be immensely satisfying, and humbling, and quietly exhilarating. It's not one of the giddy instant rewards that modern life demands that we all need. Instead, counting the wild can pull us out of the stresses of daily life and root us deeply into a local sense of place. It adds an extra sense of meaning, and perspective, to busy days.
 
@@ -51,21 +61,66 @@ The best time to start counting your local wild, other than yesterday, is **righ
 
 **Nature is changing. Count the wild!**
 
-**WildCounts** principles:
-- Always record the What-Why-Where-When-How-Who when you count nature
-- Use simple, easy, consistent counting methods
-- Where possible, use counting methods that others use
-- Count what’s simple to count and what you’re interested in
-- Repeatedly and regularly recount the same sites
-- Always decide what you’ll count, how you’ll count, and when you'll stop counting, *before* you start counting
-- Always record every count, even when and where you searched but found nothing
-- Never guess and never intepret: record exactly what you see or hear, including your uncertainty when you're not sure
-- Intermittently take photos and audio-recordings of some of your counts to document how good you are at identifications (nobody is perfect)
-- You don’t need to photograph and audio-record all your counts. Once you’ve demonstrated that you can reliably identify a species, focus on counting.
-- Cause no harm to the wild when you’re counting
-- Don't wait for someone else to count your wild
-- Have fun!
-- Share your counts, and use standard data formats
+### **WildCounts** principles:
+
+<table class="table table-striped table-hover ">
+  <tbody>
+    <tr class="info">
+      <td>1</td>
+      <td><strong>Always record What-Why-Where-When-How-Who when you count nature.</strong></td>
+    </tr>
+    <tr class="success">
+      <td>2</td>
+      <td><strong>It's OK to only count what’s simple to count and what you’re interested in.</strong></td>
+    </tr>
+    <tr class="warning">
+      <td>3</td>
+      <td><strong>Use simple, easy, consistent counting methods, and, whenever possible, use counting methods that others use.</strong></td>
+    </tr>
+    <tr class="info">
+      <td>4</td>
+      <td><strong>Repeatedly and frequently recount the same sites.</strong></td>
+    </tr>
+    <tr class="success">
+      <td>5</td>
+      <td><strong>Always decide what you’ll count, how you’ll count, and when you'll stop counting, <i>before</i> you start counting.</strong></td>
+    </tr>
+    <tr class="warning">
+      <td>6</td>
+      <td><strong>Always record every count, even when and where you searched but found nothing.</strong></td>
+    </tr>
+    <tr class="info">
+      <td>7</td>
+      <td><strong>Never guess and never intepret; record exactly what you see or hear, including your uncertainty when you're not sure.</strong></td>
+    </tr>
+    <tr class="success">
+      <td>8</td>
+      <td><strong>Intermittently take photos and audio-recordings of some of your counts to document how good you are at identifications (nobody is perfect).</strong></td>
+    </tr>
+    <tr class="warning">
+      <td>9</td>
+      <td><strong>You don’t need to photograph and audio-record all your counts. Once you’ve demonstrated that you can reliably identify a species, focus on counting.</strong></td>
+    </tr>
+    <tr class="info">
+      <td>10</td>
+      <td><strong>Cause no harm to the wild when you’re counting.</strong></td>
+    </tr>
+    <tr class="success">
+      <td>11</td>
+      <td><strong>Don't wait for someone else to count your wild.</strong></td>
+    </tr>
+    <tr class="warning">
+      <td>12</td>
+      <td><strong>Have fun!</strong></td>
+    </tr>
+    <tr class="info">
+      <td>13</td>
+      <td><strong>Share your counts, and use standard data formats</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ---
 
