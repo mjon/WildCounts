@@ -92,4 +92,9 @@ When I count the wild I’m focused on noticing every individual of my chosen gr
 
 Counting the wild is so much more than just doing something that's important. It makes every day more unique and filled with drama. There's a quiet pleasure to be found in doing something so rich in meaning. You'll find it waiting in the wild around you.
 
+---
+
+<figure>
+<img src="/assets/img/banner_images/taming-wild-data_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
+</figure>
 

@@ -39,4 +39,11 @@ There is one group of naturalists that has been collecting wild counts data for 
 
 Why isn't everybody else doing this? It's just as easy to do for lots of other species. Also, you don't need to be a mad skills birder to make wild counts of birds. You can just pick one bird species that you like, and that you can reliably identify, and you can just make wild counts of that.
 
-Choose some species, learn the method here that's most suitable for you and your species, and you can start making wild counts. 
+Choose some species, learn the method here that's most suitable for you and your species, and you can start making wild counts.
+
+---
+
+<figure>
+<img src="/assets/img/banner_images/index_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
+</figure>
+
