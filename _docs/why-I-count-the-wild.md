@@ -95,6 +95,6 @@ Counting the wild is so much more than just doing something that's important. It
 ---
 
 <figure>
-<img src="/assets/img/banner_images/taming-wild-data_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
+<img src="/assets/img/banner_images/index_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
 </figure>
 

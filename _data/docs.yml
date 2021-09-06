@@ -3,13 +3,14 @@
   - home
   - what-is-a-wild-count
   - manifesto
+  - wildcounts-principles
   - who
   - why-I-count-the-wild
 
 - title: How to count the wild
   docs:
   - how-to-intro
-  - how-to-placeholder
+  - how-to-decisions
 
 - title: Decide what to count
   docs:

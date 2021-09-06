@@ -37,5 +37,5 @@ The WildCounts website went live in September 2021, but includes plenty of older
 ---
 
 <figure>
-<img src="/assets/img/banner_images/index_banner_tangle_1680px348px.jpg" width="100%" alt="tangle banner">
+<img src="/assets/img/banner_images/index_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
 </figure>

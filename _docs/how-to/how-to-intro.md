@@ -7,7 +7,6 @@ last_modified_at:   2021-09-06 10:30:00 +1300
 meta: 
   - How to count
 permalink: /docs/how-to-intro/
-description: 
 ---
 
 # First steps
@@ -15,6 +14,8 @@ description:
 So you’ve decided to get started counting your wild. Great! What’s next?
 
 Below are the steps to make sure that you, and the world, get the most out of your wild counting. Each of these steps is explored in more detail in its own set of pages.
+
+You can either jump right in to the section your're interested in, or try out the <a href="../how-to-decisions">flow chart guide</a> for getting started with wild counts.
 
 ## 1. Decide what to count
 
