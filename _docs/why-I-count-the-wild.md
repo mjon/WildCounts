@@ -16,13 +16,25 @@ tags:
 permalink: /docs/why-I-count-the-wild/  
 ---
 
+### Biking and counting
+
 I bike to work, even when it rains. I do that by choice; it adds adventure to my day and focuses me on the moment. I know this is puzzling to most people, driving their comfy cars to work. Yet, once you're hooked on commuter cycling, it can be the most satisfying way to travel. Counting the wild is similar. 
 
 To most people, counting the wild is at best a useful thing for other people to do. At worst, it's a quaint, old fashioned hobby similar to train spotting and stamp collecting. Yet, for those of us counting the wild, it's hard to imagine not doing it. It connects us to a much larger world.
 
+### Importance isn't enough
+
 I've been thinking lately about how I promote wild counting and casual nature watching. My standard pitch to my ecologist colleagues and students has always been that they should do it because it's important. We don't know how nature is responding to the many human-driven environmental changes (with few exceptions). Long-term monitoring is fundamental to detecting and reacting to changes in nature. We'd know much more about changes in nature if more of us were counting our pieces of the wild.
 
 I've come to realize that importance by itself is not a big motivator. The acknowledged importance of long term monitoring hasn't resulted in professional ecologists all personally counting the wild. Most just like to analyse other poeples' long-term counts. In the same way, everyone’s increasing awareness of rapid global warming hasn’t caused a massive shift from cars to bikes. Importance, alone, is just a recipe for wanting others to do it.
+
+### Counting the wild is satisfying
+
+What’s not widely known is that counting the wild, like biking, can be immensely satisfying. Paying close attention to the wild things around me puts my life in a much bigger perspective. There's magic and mystery, and drama, all around when I pay close attention to nature. Every place is filled with stories, from an urban wasteland or a back garden to a national park. Counting the wild both puts me in the moment and connects me to the changing seasons and years. 
+
+The Christchurch City Council in New Zealand last year advertised commuter cycling on their bus fleet with the slogan, ["Feel More. Ride More."](https://www.nzta.govt.nz/safety/our-advertising/our-current-advertising/cycling-advertising/feel-more-ride-more/) That captures it really well. Both commuter cycling and counting the wild have the benefits of feeling more, and making more of the moment. 
+
+This is all something I stumbled onto by accident. I didn't know any of it when I started counting.
 
 <div class="indent">
 <figure>
@@ -31,11 +43,7 @@ I've come to realize that importance by itself is not a big motivator. The ackno
 </figure>
 </div>
 
-What’s not widely known is that counting the wild, like biking, can be immensely satisfying. Paying close attention to the wild things around me puts my life in a much bigger perspective. There's magic and mystery, and drama, all around when I pay close attention to nature. Every place is filled with stories, from an urban wasteland or a back garden to a national park. Counting the wild both puts me in the moment and connects me to the changing seasons and years. 
-
-The Christchurch City Council in New Zealand last year advertised commuter cycling on their bus fleet with the slogan, ["Feel More. Ride More."](https://www.nzta.govt.nz/safety/our-advertising/our-current-advertising/cycling-advertising/feel-more-ride-more/) That captures it really well. Both commuter cycling and counting the wild have the benefits of feeling more, and making more of the moment. 
-
-This is all something I stumbled onto by accident. I didn't know any of it when I started counting.
+### How I started counting the wild
 
 I started counting the wild back in 2003, on my bike rides to work, when I returned to my home town of Christchurch to start a job at [Lincoln University](https://lincoln.ac.nz). I started counting because I knew it was important. By then I was already aware of how little knowledge there was of the long term changes to nature, how quickly the environment was changing, and how simple and  consistent counting can be useful. 
 
@@ -47,8 +55,8 @@ I started by consistently noting observations of a few species on a piece of pap
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51428927060/" title="the old days of wild counting"><img src="https://live.staticflickr.com/65535/51428927060_7e4cb2ccb3_z.jpg" width="2048" height="1367" alt="the old days of wild counting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>My home office desk littered with the many (many) days of bike route bird notes waiting to be entered. This was before I figured out how to enter my observations directly onto my iPhone while biking.</figcaption>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51429598145/" title="counting the wild from a bike, using paper and pen"><img src="https://live.staticflickr.com/65535/51429598145_fae9999c40_z.jpg" width="2048" height="1367" alt="counting the wild from a bike, using paper and pen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<figcaption>This is how I initially counted the wild from my bike, starting in 2003 on my bike ride to work. <a href="https://www.flickr.com/photos/mollivan_jon/51429370499/">Get a closer look</a> at that piece of paper and what it means.</figcaption>
 </figure>
 </div>
 
@@ -56,16 +64,20 @@ Then I got hooked. I've since expanded the species I count as I've increased my 
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51427945171/" title="heading home"><img src="https://live.staticflickr.com/65535/51427945171_796a5e0070_z.jpg" width="2048" height="1367" alt="heading home"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51427945171/" title="heading home counting the wild using my iPhone"><img src="https://live.staticflickr.com/65535/51427945171_796a5e0070_z.jpg" width="2048" height="1367" alt="heading home counting the wild using my iPhone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>My iPhone mounted on my bike handlebars on my evening ride home from work. Open is my FileMaker Go database that I use to count assorted wild species along my route.</figcaption>
 </figure>
 </div>
+
+### Counting the wild is a personal journey
 
 Counting the wild has become a personal journey of increasing awareness of the wild stories at play around me. The more skills I’ve gained, and the more species I’ve learned, the deeper has grown my sense of place. 
 
 At every place I go now, the wild species now tell me stories. They tell of recent hardships and successes and of alliances and enemies. They tell stories of their landscape and how it's changing, and of grand histories, both recent and ancient. Some of those stories are vibrant and optimistic. Others are of struggle and decline. Everywhere I go today the wild speaks of winners, of losers, and change. Always change.
 
 Recording these wild stories is a privilege, and it is something I'm now happy to regard as my personal responsibility. It's also great fun connecting together with others doing the same, both in New Zealand and around the world, through iNaturalist and natural history societies. I've discovered that there are amateur naturalists in many places quietly noting down the changes in their local wild. In most places this happens under the radar of environmental institutions and without their support. As a result, there is also little standardisation of methods or data entry. I see huge potential for us to all do better.
+
+### Feel more, count more
 
 Counting the wild is more than just casual nature watching, where you hunt about for interesting living things. It's quite different from specimen collecting where you seek out good specimens of new things you've not found before in an area. It's also very different to ["forest bathing"](https://en.wiktionary.org/wiki/shinrinyoku), where you soak up the natural green ambience and relax. 
 
@@ -74,7 +86,7 @@ When I count the wild I’m focused on noticing every individual of my chosen gr
 <div class="indent">
 <figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51428420093/" title="Tawhairaunui track"><img src="https://live.staticflickr.com/65535/51428420093_360a551505_z.jpg" width="2048" height="1367" alt="Tawhairaunui track"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>A forest track is more than a pretty wall of green or an interesting place to find natural curiousities. It is a library of natural stories, some ancient and some modern. It's great fun learning how to read those stories. They're also very much still being written, and you can use wild counts to tell nature's stories of change where you live.</figcaption>
+<figcaption>A forest track is more than a pretty wall of green or an interesting place to find natural curiousities. It is a library of natural stories, some ancient and some modern. It's great fun learning how to read those stories. They're also very much still being written, and you can use wild counts to tell these stories of nature's change where you live.</figcaption>
 </figure>
 </div>
 
