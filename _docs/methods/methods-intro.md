@@ -44,7 +44,9 @@ Got an iPhone? Speak WildCounts vocab into [the FileMaker Go app](../wildcounts-
 
 ## Levels of wild counting
 
-You can keep things simple or go deep into detail. Which works best depends on your time and motivation, how many places you go to count the wild, and how abundant and easy to find are your core species.   
+You can keep things simple or go deep into detail. Which works best depends on your time and motivation, how many places you go to count the wild, and how abundant and easy to find are your core species. 
+
+You can also mix these up in your wild counts. For example, you might count your favourite fruit-eating bird species but just note the simple abundance of the plants that it likes to feed on (and whether or not they're fruiting).
 
 ### Presence/absence
 
@@ -60,7 +62,7 @@ If you're busy and go to lots of places at a lot of times, just noting the prese
 
 ### Simple abundance
 
-If your busy and some of your core species are often abundant, simple abundance can be sufficient. It's one step up in detail from presence/absence.
+If you're busy and some of your core species are often abundant, simple abundance can be sufficient. It's one step up in detail from presence/absence.
 
 `gorse abundant`
 
