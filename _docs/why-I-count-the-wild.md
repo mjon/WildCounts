@@ -38,7 +38,7 @@ This is all something I stumbled onto by accident. I didn't know any of it when 
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/38478330305/" title="Advertising biking"><img src="https://live.staticflickr.com/4733/38478330305_79d097c4d3_z.jpg" width="2048" height="1367" alt="Advertising biking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/38478330305/" title="Advertising biking"><img src="https://live.staticflickr.com/4733/38478330305_79d097c4d3_z.jpg" width="640" alt="Advertising biking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>"Feel more Ride more" says a Christchurch bus, encouraging people to ride their bikes.</figcaption>
 </figure>
 </div>
@@ -55,7 +55,7 @@ I started by consistently noting observations of a few species on a piece of pap
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51429598145/" title="counting the wild from a bike, using paper and pen"><img src="https://live.staticflickr.com/65535/51429598145_fae9999c40_z.jpg" width="2048" height="1367" alt="counting the wild from a bike, using paper and pen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51429598145/" title="counting the wild from a bike, using paper and pen"><img src="https://live.staticflickr.com/65535/51429598145_fae9999c40_z.jpg" width="640"  alt="counting the wild from a bike, using paper and pen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>This is how I initially counted the wild from my bike, starting in 2003 on my bike ride to work. <a href="https://www.flickr.com/photos/mollivan_jon/51429370499/">Get a closer look</a> at that piece of paper and what it means.</figcaption>
 </figure>
 </div>
@@ -64,7 +64,7 @@ Then I got hooked. I've since expanded the species I count as I've increased my 
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51427945171/" title="heading home counting the wild using my iPhone"><img src="https://live.staticflickr.com/65535/51427945171_796a5e0070_z.jpg" width="2048" height="1367" alt="heading home counting the wild using my iPhone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51427945171/" title="heading home counting the wild using my iPhone"><img src="https://live.staticflickr.com/65535/51427945171_796a5e0070_z.jpg" width="640"  alt="heading home counting the wild using my iPhone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>My iPhone mounted on my bike handlebars on my evening ride home from work. Open is my FileMaker Go database that I use to count assorted wild species along my route.</figcaption>
 </figure>
 </div>
@@ -85,7 +85,7 @@ When I count the wild I’m focused on noticing every individual of my chosen gr
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51428420093/" title="Tawhairaunui track"><img src="https://live.staticflickr.com/65535/51428420093_360a551505_z.jpg" width="2048" height="1367" alt="Tawhairaunui track"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51428420093/" title="Tawhairaunui track"><img src="https://live.staticflickr.com/65535/51428420093_360a551505_z.jpg" width="640"  alt="Tawhairaunui track"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>A forest track is more than a pretty wall of green or an interesting place to find natural curiousities. It is a library of natural stories, some ancient and some modern. It's great fun learning how to read those stories. They're also very much still being written, and you can use wild counts to tell these stories of nature's change where you live.</figcaption>
 </figure>
 </div>

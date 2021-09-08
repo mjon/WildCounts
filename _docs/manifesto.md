@@ -17,7 +17,7 @@ It's all because we, humans, are the most amazingly successful big animal the Ea
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/27867921914/" title="San Gabriel River"><img src="https://farm9.staticflickr.com/8651/27867921914_43cf5761e5_k.jpg" width="2048" height="1367" alt="San Gabriel River, California"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/27867921914/" title="San Gabriel River"><img src="https://farm9.staticflickr.com/8651/27867921914_43cf5761e5_k.jpg" width="640" alt="San Gabriel River, California"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>Many natural landscapes have been modified massively by human development, like this view north up the San Gabriel River in Long Beach, Southern California. It's amazing how many wild species can still be found, and counted, in heavily modified places like this. How these species are faring remains largely unknown for most places.</figcaption>
 </figure>
 </div>

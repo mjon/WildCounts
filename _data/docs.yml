@@ -20,7 +20,9 @@
 - title: Learn the method
   docs:
   - methods-intro
-  - methods-placeholder
+  - wildcounts-shorthand-intro
+  - wildcounts-shorthand-vocab
+  - wildcounts-app-FilemakerGo
 
 - title: Improve your ID skills
   docs:
