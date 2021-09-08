@@ -25,7 +25,7 @@ You can type (or write) your counts using the quick **WildCounts shorthand**, or
 
 ### Type your counts with **WildCounts shorthand**
 
-Do you see two monarch butterflies flying? Save time by writing `m 2f`.
+Do you see two monarch butterflies flying? Save time by typing `m 2f`.
 
 [Introduction to WildCounts shorthand](../wildcounts-shorthand-intro/)
 
@@ -48,19 +48,31 @@ You can keep things simple or go deep into detail. Which works best depends on y
 
 ### Presence/absence
 
-If your busy and go to lots of places, just presence/absence of one or a few core species works well.
+If you're busy and go to lots of places at a lot of times, just noting the presence/absence of one or a few core species will still reveal nature's changes.
+
+`gorse yes`
+
+`ragwort no`
+
+`cicada song yes`
 
 (type type type...)
 
 ### Simple abundance
 
-For abundant species, simple abundance may be sufficient.
+If your busy and some of your core species are often abundant, simple abundance can be sufficient. It's one step up in detail from presence/absence.
+
+`gorse abundant`
+
+`ragwort rare`
 
 (type type type...)
 
 ### Pacing the wild
 
-Counting in paces works well for species that grow in clumps and where is not always easy to separate one individual from another.
+Counting your routes in 10 metre long patches (approximately 10 paces) works well for species that are not wildly abundant and grow in clumps where it is not always easy to separate one individual from another.
+
+`ragwort rc1p` = one patch of ragwort close (within 5 m) on the right.
 
 (type type type...)
 
@@ -73,6 +85,10 @@ Are there four blackbirds? `blkb 4` is your count. But what about if there's abo
 ### Distance-counting the wild
 
 If you get serious about your counting, it's useful to count in distance bands away from you. 
+
+With distance-sampling, some clever statistical methods can estimate how many individiuals of your species you missed (e.g., because they were obscured from view and didn't make noise when you passed). All it takes to do that is the assumption that you're less likely to miss organisms that are closer to you, and you won't miss any that are right on top of you. This statistics can then estimate the likely true density of your species at your sites, including the things you missed. That makes for more powerful comparisons of wild counts data among different places, times, and observers.
+
+`blkb ln4` = four blackbirds on the left in the near distance band (5--20 m).
 
 (type type type...)
 
