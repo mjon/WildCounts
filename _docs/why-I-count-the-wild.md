@@ -65,7 +65,7 @@ Then I got hooked. I've since expanded the species I count as I've increased my 
 <div class="indent">
 <figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51427945171/" title="heading home counting the wild using my iPhone"><img src="https://live.staticflickr.com/65535/51427945171_796a5e0070_z.jpg" width="640"  alt="heading home counting the wild using my iPhone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>My iPhone mounted on my bike handlebars on my evening ride home from work. Open is my FileMaker Go database that I use to count assorted wild species along my route.</figcaption>
+<figcaption>My iPhone mounted on my bike handlebars on my evening ride home from work. Open is my <a href="../wildcounts-app-FilemakerGo/">FileMaker Go database</a> that I use to count assorted wild species along my route.</figcaption>
 </figure>
 </div>
 
@@ -73,7 +73,7 @@ Then I got hooked. I've since expanded the species I count as I've increased my 
 
 Counting the wild has become a personal journey of increasing awareness of the wild stories at play around me. The more skills I’ve gained, and the more species I’ve learned, the deeper has grown my sense of place. 
 
-At every place I go now, the wild species now tell me stories. They tell of recent hardships and successes and of alliances and enemies. They tell stories of their landscape and how it's changing, and of grand histories, both recent and ancient. Some of those stories are vibrant and optimistic. Others are of struggle and decline. Everywhere I go today the wild speaks of winners, of losers, and change. Always change.
+At every place I go now, the wild species now tell me stories. They tell of recent hardships and successes and of alliances and enemies. They tell stories of their landscape and how it's changing, and of grand histories, both recent and ancient. Some of those stories are vibrant and optimistic. Too many others are of struggle and decline. Everywhere I go today the wild speaks of winners, of losers, and change. Always change.
 
 Recording these wild stories is a privilege, and it is something I'm now happy to regard as my personal responsibility. It's also great fun connecting together with others doing the same, both in New Zealand and around the world, through iNaturalist and natural history societies. I've discovered that there are amateur naturalists in many places quietly noting down the changes in their local wild. In most places this happens under the radar of environmental institutions and without their support. As a result, there is also little standardisation of methods or data entry. I see huge potential for us to all do better.
 

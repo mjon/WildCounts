@@ -16,7 +16,7 @@ categorylink:
 
 ---
 
-In my recent blog, [Native forest birds need forest in Christchurch city](https://wildcounts.org/blog/2013/12/05/Native-forest-birds-need-forest-in-Christchurch-city/)," I summarised some of my results from bird counts in southwestern Christchurch that clearly show the dependence, or at least strong preference, of native forest birds for the few patches of forest-like habitat in the city. 
+In my recent blog, [Native forest birds need forest in Christchurch city](https://wildcounts.org/blog/2013/12/05/Native-forest-birds-need-forest-in-Christchurch-city/), I summarised some of my results from bird counts in southwestern Christchurch that clearly show the dependence, or at least strong preference, of native forest birds for the few patches of forest-like habitat in the city. 
 
 <a href="/assets/science/SW Christchurch birds.pdf">Here is a report</a> I prepared in 2010 for Spreydon-Heathcote Community Board on the same topic as background for decisions on the management of <a href="https://inaturalist.nz/projects/ernle-clark-reserve">Ernle Clark reserve</a> and adjacent land. In it, I summarise some of the results of my bird counts in this area, which highlight the importance of small areas of relatively dense woody vegetation, like Ernle Clark Reserve, for native forest birds in Christchurch city. 
 

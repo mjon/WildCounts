@@ -11,7 +11,7 @@ permalink: /docs/wildcounts-principles/
 
 Here are 13 principles of wild counting. They ensure that your wild counting is unbiased and useful for revealing patterns and trends in nature.
 
-If you're not sure what one means, or are sure why it's important, each is elaborated on in more detail later.
+If you're not sure what one means, or are not sure why it's important, each is elaborated on in more detail later.
 
 <table class="table table-striped table-hover ">
   <tbody>

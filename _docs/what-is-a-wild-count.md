@@ -23,11 +23,11 @@ This can be as simple as
 
 >"I went out for a walk alone along my usual route, on this day between these times, without any special equipment, and looked for my favourite butterfly."
 
-That's it! You're making What-Why-Where-When-How-Who counts when when you write that down each time you're out walking. You just need to it each walk, regardless of whether or not you find any of your favourite butterfly.
+That's it! You're making What-Why-Where-When-How-Who counts when when you write that down each time you're out walking. You just need to do it each walk, regardless of whether or not you find any of your favourite butterfly.
 
 It's silly to keep saying What-Why-Where-When-How-Who counts, so we call them **wild counts**. Wild counts are complete and consistent What-Why-Where-When-How-Who counts of living organisms. They are counts designed to be clicked together to document patterns and trends in natures. It's best if they're stored and shared in a consistent, standard format. 
 
-In universities and research institutes, this kind of data is also called ecological survey data. However, only some ecological survey data are complete wild counts, and others are wild counts plus a lot of additional complexity. Ecological survey datasets tend to be in wildly different data structures and formats, since they comes from projects designed for a diversity purposes to answer a wide range of questions. This can make it difficult data to connect together to tell bigger stories of change.
+In universities and research institutes, this kind of data is also called ecological survey data. However, only some ecological survey data are complete wild counts, and others are wild counts plus a lot of additional complexity. Ecological survey datasets tend to be in wildly different data structures and formats, since they comes from projects designed for a diversity of purposes to answer a wide range of questions. This can make it difficult data to connect together to tell bigger stories of change.
 
 **Wild counts data are vastly more useful than casual observations for uncovering changes in nature.** That's because they're comparable in space and time, and they include all the times and places where people looked for species but didn't find them. All of this makes wild counts excellent for documenting trends and patterns in nature.
 
