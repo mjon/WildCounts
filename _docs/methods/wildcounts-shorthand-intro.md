@@ -80,10 +80,6 @@ Let's start with some examples. Each of the following is a complete line of Wild
 </figure>
 </div>
 
-I built a [Filemaker Go app](../wildcounts-app-FilemakerGo/) for my iPhone that automatically stores the time, date, and location for every one of these shorthand observations. I then import that file into my computer and everything gets automatically translated out into separate fields in my database.
-
-That tech stuff is optional though. When I first started developing this shorthand, it was written on paper, as observations made along standard routes between timed landmarks. Writing down shorthand code like this was also the quickest way I'd found to do things with paper.
-
 I use a few other letters and keyboard characters to code for other important features of my observations. 
 
 <table class="table table-striped table-hover ">
@@ -123,8 +119,11 @@ I use a few other letters and keyboard characters to code for other important fe
   </tbody>
 </table>
 
+I built a [Filemaker Go app](../wildcounts-app-FilemakerGo/) for my iPhone that automatically stores the time, date, and location for every one of these shorthand observations. I then import that file into my computer and everything gets automatically translated out into separate fields in my database.
 
-That introduced my **count shorthand**. But wait, there's more!
+That tech stuff is optional though. When I first started developing this shorthand, it was written on paper, as observations made along standard routes between timed landmarks. Writing down shorthand code like this was also the quickest way I'd found to do things with paper.
+
+That's introduced my **count shorthand**. But wait, there's more!
 
 ---
 
@@ -136,9 +135,9 @@ Here's an example.
 
 `kowhai; n_sw1i$; fb-FL-im;`
 
-That's a kowhai tree near to the southwest of me, with flower buds, mostly flowers, and some immature fruit. The capitalised **FL** means that flowering was the most common stage on the plant, and it also had flower buds (<code>fb</code>) and finished flowers/immature fruit (<code>im</code>).
+That's a [kowhai tree](https://inaturalist.nz/taxa/70037-Sophora) near to the southwest of me, with flower buds, mostly flowers, and some immature fruit. The capitalised `FL` means that flowering was the most common stage on the plant, and it also had flower buds (<code>fb</code>) and finished flowers/immature fruit (<code>im</code>).
 
-The <code>$</code> indicates that it was cultivated. The other options are <code>$^</code> for "possibly cultivated" and <code>^</code> for "definitely wild" (wild is assumed when I don't include any of these codes). As with my earlier bellbird example, the <code>i</code> in "n_sw1i$" indicates that I made an image (photo).
+The <code>$</code> indicates that it was cultivated. The other options are <code>$^</code> for "possibly cultivated" and <code>^</code> for "definitely wild" (wild is assumed when I don't include any of these codes). As with my earlier bellbird example, the <code>i</code> in `n_sw1i$` indicates that I made an image (photo).
 
 <div class="indent">
 <figure>
@@ -176,9 +175,9 @@ Each line of WildCounts shorthand is always restricted to the observation of one
 `*flo`<br />
 `kowhai; n_sw1$; fb-FL-im;`
 
-This is an adult male bellbird, seen near to the southwest, and a cultivated kowhai tree that is flowering (and has flower buds and finished flowers/immature fruit). The bellbird is associated with (`*`) the kowhai tree as a flower visitor (`fl`) of (`o`) the kowhai tree. Hence `*fl_o`.
+These are two observations, the first of an adult male bellbird, seen near to the southwest, and the second, of a cultivated kowhai tree that is flowering (and has flower buds and finished flowers/immature fruit). The bellbird is associated with (`*`) the kowhai tree as a flower visitor (`fl`) of (`o`) the kowhai tree. Hence `*fl_o`.
 
-Interactions have a direction, specified by "**of**" (`o`) and "**by**" (`b`). In above example, the bellbird visits the flowers **of** (`o`) the kowhai tree. The same interaction could have also been written in the opposite order.
+Interactions have a direction, specified by "**of**" (`o`) and "**by**" (`b`). In above example, the bellbird visits the flowers **of** (`o`) the kowhai tree. The same interaction could have also been written with the species in the opposite order.
 
 `kowhai; n_sw1i$; fb-FL-im;`<br />
 `*flb`<br />
@@ -195,17 +194,17 @@ In this case, the kowhai tree has flowers visited **by** (`b`) the bellbird. So 
 
 Several interaction types are available, all of which are abbreviated by two letters. These  are decomposer (`de`), epihyte (`ep`), flower visitor (`fl`), frugivory (`fr`), hemiparasite (`hp`), herbivory (`he`), infection (`in`), parasite (`pa`), parasitoid (`pd`), predation (`pr`), and seed predation (`se`). Pathogens are included in "infection"". For cases when the type of interaction isn't clear, there's also host (`ht`). 
 
-Note that these abbrevations are the first two letters of a word, except when that second letter is "o" or "b", or when two interaction types would otherwise have the same code (so only parasite is `pa` and parasitoid is instead be `pd`).
+Note that these abbrevations are the first two letters of a word, except when two interaction types would otherwise have the same code (so only parasite is `pa` and parasitoid is instead be `pd`), or when that second letter is "o" or "b" (to reduce the chances of an unrecoverable typo).
 
 --- 
 
-I maintain a list of my shorthand codes for each of the species I regularly record. You've already seen that <code>bellb</code> is bellbird and <code>hh</code> is hedgehog. <code>kowhai</code> means [*Sophora*](https://inaturalist.nz/taxa/70037-Sophora) species. Kowhai means only the genus, since cultivated kowhai can be a jumble of species and hybrids that can need detailed examination to identify to species. 
+I maintain a list of all my abbreviations for each of the species I regularly record. You've already seen that <code>bellb</code> is bellbird and <code>hh</code> is hedgehog. <code>kowhai</code> means [*Sophora*](https://inaturalist.nz/taxa/70037-Sophora) species. Kowhai means only the genus, since cultivated kowhai can be a jumble of species and hybrids that can need detailed examination to identify to species. 
 
-For plant species that I often count, I typically use the botanical six-letter code of the first three letters of the genus and species names. For example, I use **SOPmic** for [*Sophora microphylla*](https://inaturalist.nz/taxa/210947-Sophora-microphylla), Canterbury’s native tree kowhai, which is easy to identify when it's in wild places far from gardens. 
+For plant species that I often count, I often use the botanical six-letter code of the first three letters of the genus and species names. For example, I use **SOPmic** for [*Sophora microphylla*](https://inaturalist.nz/taxa/210947-Sophora-microphylla), Canterbury’s native tree kowhai, which is easy to identify when it's in wild places far from gardens. 
 
-Each species needs a short name that's unique in your shorthand and is easy to remember and quick to type. It's also important to maintain an up-to-date list mapping each short name onto a full scientific name. I keep that in my database, but a simple spreadsheet would suffice.
+Each species needs a short name that's unique in your shorthand and is easy to remember and quick to type. It doesn't need to be universally unique as it gets expanded out to the full species name before the data is shared. It's important to maintain an up-to-date list mapping each short name onto a full scientific name.
 
-This shorthand, plus my [Filemaker Go WildCounts app](../wildcounts-app-FilemakerGo/) that lets me datetime-stamp and geotag each line of shorthand, has allowed me to turn my life into one big transect. Those counts are recorded in a combination of typed shorthand and spoken audio notes (which then need transcription, but that's another method). This lets me average over 3,000 observations a week. I am now the stenographer of my local wild.
+The WildCounts shorthand, plus my [Filemaker Go WildCounts app](../wildcounts-app-FilemakerGo/) that lets me datetime-stamp and geotag each line of shorthand, has allowed me to turn my life into one big transect. Those counts are recorded in a combination of typed shorthand and spoken audio notes (which then need transcription, but that's another method). This lets me average over 3,000 observations a week. I am now the stenographer of my local wild.
 
 I imagine this might all seem a little overwhelming at first, but you don't need to use all of the compexity, especially at first. What's important is that it's very fast to enter. Just like a court stenographer, I've been doing this for long enough that my fingers know it all and I can quickly enter in wild counts as I go.
 
