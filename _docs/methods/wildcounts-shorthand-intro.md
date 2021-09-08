@@ -168,7 +168,7 @@ That's an old squashed [hedgehog](https://inaturalist.nz/taxa/501363-Erinaceus-e
 
 ---
 
-Each line of WildCounts shorthand is always restricted to the observation of one species, at one place and time. The example above, `bellb 1xma*1j`, showed how to connect together different individuals of the same species when found at once. In this case, that was an adult male and a juvenile bellbird. 
+Each line of WildCounts shorthand is always restricted to the observation of one species, at one place and time. The earlier example, `bellb 1xma*1j`, showed how to connect together different individuals of the same species when found at once. In this case, that was an adult male and a juvenile bellbird. 
 
 **Associated observations** of two different species can be connected using a connecting line. For example,
 
