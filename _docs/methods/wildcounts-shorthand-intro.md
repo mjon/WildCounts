@@ -170,7 +170,7 @@ That's an old squashed [hedgehog](https://inaturalist.nz/taxa/501363-Erinaceus-e
 
 Each line of WildCounts shorthand is always restricted to the observation of one species, at one place and time. The earlier example, `bellb 1xma*1j`, showed how to connect together different individuals of the same species when found at once. In this case, that was an adult male bellbird with a juvenile bellbird. 
 
-**Associated observations** of two different species can be connected using a connecting line. For example,
+**Associated observations** of two different species can be connected using a separate connecting line. For example,
 
 `bellb n_sw1xma`<br />
 `*flo`<br />
@@ -178,13 +178,13 @@ Each line of WildCounts shorthand is always restricted to the observation of one
 
 This is an adult male bellbird, seen near to the southwest, and a cultivated kowhai tree that is flowering (and has flower buds and finished flowers/immature fruit). The bellbird is associated with (`*`) the kowhai tree as a flower visitor (`fl`) of (`o`) the kowhai tree. Hence `*fl_o`.
 
-Interactions have a direction, specified by of (`o`) and by (`b`). In the example, the bellbird visits the flowers of (`o`) the kowhai tree. The same interaction could have also been written in the opposite order.
+Interactions have a direction, specified by "**of**" (`o`) and "**by**" (`b`). In above example, the bellbird visits the flowers **of** (`o`) the kowhai tree. The same interaction could have also been written in the opposite order.
 
 `kowhai; n_sw1i$; fb-FL-im;`<br />
 `*flb`<br />
 `bellb n_sw1xma`
 
-In this case, the kowhai tree has flowers visited by (`b`) the bellbird. So it's `*flb` and not `*flo`.
+In this case, the kowhai tree has flowers visited **by** (`b`) the bellbird. So it's `*flb` and not `*flo`.
 
 <div class="indent">
 <figure>
@@ -193,9 +193,9 @@ In this case, the kowhai tree has flowers visited by (`b`) the bellbird. So it's
 </figure>
 </div>
 
-Several interaction types are available, all of which are abbreviated by two letters. These  are decomposer (`de`), epihyte (`ep`), flower visitor (`fl`), frugivory (`fr`), hemiparasite (`hp`), herbivory (`he`), infection (`in`), parasite (`pa`), parasitoid (`pd`), predation (`pr`), and seed predation (`se`). Pathogens are included in infection. For cases when the type of interaction isn't clear cut, there's also host (`ht`). 
+Several interaction types are available, all of which are abbreviated by two letters. These  are decomposer (`de`), epihyte (`ep`), flower visitor (`fl`), frugivory (`fr`), hemiparasite (`hp`), herbivory (`he`), infection (`in`), parasite (`pa`), parasitoid (`pd`), predation (`pr`), and seed predation (`se`). Pathogens are included in "infection"". For cases when the type of interaction isn't clear, there's also host (`ht`). 
 
-Note that these abbrevations are the first two letters of a word, except when that second letter is 'o' or 'b', or when two interaction types would otherwise have the same code (so only parasite is `pa` and parasitoid is instead be `pd`).
+Note that these abbrevations are the first two letters of a word, except when that second letter is "o" or "b", or when two interaction types would otherwise have the same code (so only parasite is `pa` and parasitoid is instead be `pd`).
 
 --- 
 
@@ -206,6 +206,8 @@ For plant species that I often count, I typically use the botanical six-letter c
 Each species needs a short name that's unique in your shorthand and is easy to remember and quick to type. It's also important to maintain an up-to-date list mapping each short name onto a full scientific name. I keep that in my database, but a simple spreadsheet would suffice.
 
 This shorthand, plus my [Filemaker Go WildCounts app](../wildcounts-app-FilemakerGo/) that lets me datetime-stamp and geotag each line of shorthand, has allowed me to turn my life into one big transect. Those counts are recorded in a combination of typed shorthand and spoken audio notes (which then need transcription, but that's another method). This lets me average over 3,000 observations a week. I am now the stenographer of my local wild.
+
+I imagine this might all seem a little overwhelming at first, but you don't need to use all of the compexity, especially at first. What's important is that it's very fast to enter. Just like a court stenographer, I've been doing this for long enough that my fingers know it all and I can quickly enter in wild counts as I go.
 
 To dive in to the complete WildCounts shorthand vocabulary, see [wildcounts shorthand](../wildcounts-shorthand-vocab/).
 
