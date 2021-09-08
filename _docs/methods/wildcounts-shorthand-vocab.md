@@ -16,4 +16,4 @@ permalink: /docs/wildcounts-shorthand-vocab/
 ---
 
 
-All of it.
+Stay tuned for all of it (it won't be short).
