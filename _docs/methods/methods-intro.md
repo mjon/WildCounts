@@ -19,6 +19,10 @@ You'll also learn quick methods for counting species that are easy and hard to f
 
 Decide on a method that works for you, one that meets all of the [simple principles](../wildcounts-principles/) of wild counting. Then, get into the habit of doing it, consistently and frequently. Counting the wild is easy once you start. Starting a new habit is the hardest part.
 
+<div class="well">
+This page outlines your different options and links through to pages explaining each option in more depth.
+</div>
+
 ## Ways to record your wild counts
 
 You can type (or write) your counts using the quick **WildCounts shorthand**, or, if your hands are busy, you can speak your counts using the **WildCounts vocab**. These are the quickest, least intrusive, ways of making many counts while out and about.
@@ -27,19 +31,28 @@ You can type (or write) your counts using the quick **WildCounts shorthand**, or
 
 Do you see two monarch butterflies flying? Save time by typing `m 2f`.
 
-[Introduction to WildCounts shorthand](../wildcounts-shorthand-intro/)
+<div class="panel panel-warning">
+    <div class="panel-heading">
+        <h3 class="panel-title">Learn more</h3>
+    </div>
+    <div class="panel-body">
+        <a href="../wildcounts-shorthand-intro/">Introduction to WildCounts shorthand</a>
+    </div>
+    <div class="panel-body">
+        <a href="../wildcounts-shorthand-vocab/">Complete WildCounts shorthand vocabulary</a>
+    </div>
+    <div class="panel-body">
+        Got an iPhone? Enter WildCounts shorthand into <a href="../wildcounts-app-FilemakerGo/">the FileMaker Go app</a>.
+    </div>
+</div>
 
-[Complete WildCounts shorthand vocabulary](../wildcounts-shorthand-vocab/)
+### Speak your counts with **WildCounts spoken**
 
-Got an iPhone? Enter WildCounts shorthand into [the FileMaker Go app](../wildcounts-app-FilemakerGo/).
-
-### Speak your counts with **WildCounts vocab**
-
-Do you see two monarch butterflies flying? Just say `two monarchs flying`.
+Do you see two monarch butterflies flying? Just say "`two monarchs flying`".
 
 (type type type...)
 
-Got an iPhone? Speak WildCounts vocab into [the FileMaker Go app](../wildcounts-app-FilemakerGo/).
+Got an iPhone? Speak "WildCounts spoken" into [the FileMaker Go app](../wildcounts-app-FilemakerGo/).
 
 
 ## Levels of wild counting
@@ -52,10 +65,8 @@ You can also mix these up in your wild counts. For example, you might count your
 
 If you're busy and go to lots of places at a lot of times, just noting the presence/absence of one or a few core species will still reveal nature's changes.
 
-`gorse yes`
-
-`ragwort no`
-
+`gorse yes`<br />
+`ragwort no`<br />
 `cicada song yes`
 
 (type type type...)
@@ -64,8 +75,7 @@ If you're busy and go to lots of places at a lot of times, just noting the prese
 
 If you're busy and some of your core species are often abundant, simple abundance can be sufficient. It's one step up in detail from presence/absence.
 
-`gorse abundant`
-
+`gorse abundant`<br />
 `ragwort rare`
 
 (type type type...)

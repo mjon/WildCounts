@@ -28,21 +28,21 @@ Check out the maps. It surprised me, when I made them, just how big and isolated
 
 <div class="indent">
 <figure>
-<a href="/assets/img/New Zealand in the Northern Hemisphere-North Pacific.jpg" title="New Zealand in the northern Pacific"><img src="/assets/img/New Zealand in the Northern Hemisphere-North Pacific_s.jpg" width="800" alt="New Zealand in the northern Pacific"></a>
+<a href="/assets/img/New Zealand in the Northern Hemisphere-North Pacific.jpg" title="New Zealand in the northern Pacific"><img src="/assets/img/New Zealand in the Northern Hemisphere-North Pacific_s.jpg" width="90%" alt="New Zealand in the northern Pacific"></a>
 <figcaption>New Zealand, if it was in the northern Pacific off the western coast of North America. That's tiny Hawaii down in the bottom left. </figcaption>
 </figure>
 </div>
 
 <div class="indent">
 <figure>
-<a href="/assets/img/New Zealand in the Northern Hemisphere-Asia.jpg" title="New Zealand in the northern Pacific"><img src="/assets/img/New Zealand in the Northern Hemisphere-Asia_s.jpg" width="800" alt="New Zealand in the northern Pacific"></a>
+<a href="/assets/img/New Zealand in the Northern Hemisphere-Asia.jpg" title="New Zealand in the northern Pacific"><img src="/assets/img/New Zealand in the Northern Hemisphere-Asia_s.jpg" width="90%" alt="New Zealand in the northern Pacific"></a>
 <figcaption>New Zealand, if it was in the northern Pacific off the eastern coast of Asia.</figcaption>
 </figure>
 </div>
 
 <div class="indent">
 <figure>
-<a href="/assets/img/New Zealand in the Northern Hemisphere-Atlantic.jpg" title="New Zealand in the northern Atlantic"><img src="/assets/img/New Zealand in the Northern Hemisphere-Atlantic_s.jpg" width="800" alt="New Zealand in the northern Atlantic"></a>
+<a href="/assets/img/New Zealand in the Northern Hemisphere-Atlantic.jpg" title="New Zealand in the northern Atlantic"><img src="/assets/img/New Zealand in the Northern Hemisphere-Atlantic_s.jpg" width="90%" alt="New Zealand in the northern Atlantic"></a>
 <figcaption>New Zealand, if it was in the northern Atlantic between eastern North America and western Europe.</figcaption>
 </figure>
 </div>

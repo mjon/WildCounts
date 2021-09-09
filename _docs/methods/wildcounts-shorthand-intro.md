@@ -1,6 +1,6 @@
 ---
 title:  "Introducing WildCounts shorthand"
-sub_title: "I'm like a stenographer of the wild. Court stenographers transcribe everything happening in a court case, except I do it with the wild. Here's how."
+sub_title: "I'm like a stenographer of the wild. Court stenographers transcribe everything happening in a court case; I do it with the wild. Here's how."
 author: Jon Sullivan
 date:   2018-05-18 17:30:00 +1300
 last_modified_at:   2021-09-08 10:30:00 +1300
@@ -175,7 +175,7 @@ Each line of WildCounts shorthand is always restricted to the observation of one
 `*flo`<br />
 `kowhai; n_sw1$; fb-FL-im;`
 
-These are two observations, the first of an adult male bellbird, seen near to the southwest, and the second, of a cultivated kowhai tree that is flowering (and has flower buds and finished flowers/immature fruit). The bellbird is associated with (`*`) the kowhai tree as a flower visitor (`fl`) of (`o`) the kowhai tree. Hence `*fl_o`.
+These are two observations, the first of an adult male bellbird, seen near to the southwest, and the second, of a cultivated kowhai tree that is flowering (and has flower buds and finished flowers/immature fruit). The bellbird is associated with (`*`) the kowhai tree as a flower visitor (`fl`) of (`o`) the kowhai tree. Hence `*flo`.
 
 Interactions have a direction, specified by "**of**" (`o`) and "**by**" (`b`). In above example, the bellbird visits the flowers **of** (`o`) the kowhai tree. The same interaction could have also been written with the species in the opposite order.
 
@@ -188,7 +188,7 @@ In this case, the kowhai tree has flowers visited **by** (`b`) the bellbird. So 
 <div class="indent">
 <figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/9989178473/" title="Male bellbird visiting kowhai flowers"><img src="https://live.staticflickr.com/7359/9989178473_84a5871f61_z.jpg" height="640" alt="Male bellbird visiting kowhai flowers"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>A male bellbird visiting kowhai flowers. Note that we just say "visiting flowers", not "pollinating". Demonstrating that pollination is happening requires a lot more careful observations. In this case, the bird is accessing nectar from holes in the base of the flowers without getting any pollen on its head. In kowhai flowers, those holes are often made by silvereyes and bumblebees. See <a href="https://inaturalist.nz/observations/972695">iNaturalist</a> for more on this observation.</figcaption>
+<figcaption>A male bellbird visiting kowhai flowers. Note that we just say "visiting flowers", not "pollinating". Demonstrating that pollination is happening requires a lot more care. In this case, the bird is accessing nectar from holes in the base of the flowers without getting any pollen on its head, meaning that it's not pollinating these flowers. In kowhai flowers, those holes are often made by silvereyes and bumblebees. See <a href="https://inaturalist.nz/observations/972695">iNaturalist</a> for more on this observation.</figcaption>
 </figure>
 </div>
 
@@ -198,17 +198,21 @@ Note that these abbrevations are the first two letters of a word, except when tw
 
 --- 
 
-I maintain a list of all my abbreviations for each of the species I regularly record. You've already seen that <code>bellb</code> is bellbird and <code>hh</code> is hedgehog. <code>kowhai</code> means [*Sophora*](https://inaturalist.nz/taxa/70037-Sophora) species. Kowhai means only the genus, since cultivated kowhai can be a jumble of species and hybrids that can need detailed examination to identify to species. 
+I maintain a list of all my abbreviations for each of the species I regularly record. You've already seen that <code>bellb</code> is bellbird and <code>hh</code> is hedgehog. <code>kowhai</code> means [*Sophora*](https://inaturalist.nz/taxa/70037-Sophora) species. That's the genus, not a species, since cultivated kowhai can be a jumble of species and hybrids that can need detailed examination to identify to species. 
 
-For plant species that I often count, I often use the botanical six-letter code of the first three letters of the genus and species names. For example, I use **SOPmic** for [*Sophora microphylla*](https://inaturalist.nz/taxa/210947-Sophora-microphylla), Canterbury’s native tree kowhai, which is easy to identify when it's in wild places far from gardens. 
+For plant species that I count a lot, I often use the botanical six-letter code of the first three letters of the genus and species names. For example, I use **SOPmic** for [*Sophora microphylla*](https://inaturalist.nz/taxa/210947-Sophora-microphylla), Canterbury’s native tree kowhai, which is easy to identify when it's in wild places far from gardens. 
 
-Each species needs a short name that's unique in your shorthand and is easy to remember and quick to type. It doesn't need to be universally unique as it gets expanded out to the full species name before the data is shared. It's important to maintain an up-to-date list mapping each short name onto a full scientific name.
+Each species needs a short name that's unique in your shorthand and is easy to remember and quick to type. Your short names don't need to be universally unique, as they gets expanded out to the full species name before the data is shared. It's important to maintain an up-to-date list mapping each short name onto a full scientific name.
 
-The WildCounts shorthand, plus my [Filemaker Go WildCounts app](../wildcounts-app-FilemakerGo/) that lets me datetime-stamp and geotag each line of shorthand, has allowed me to turn my life into one big transect. Those counts are recorded in a combination of typed shorthand and spoken audio notes (which then need transcription, but that's another method). This lets me average over 3,000 observations a week. I am now the stenographer of my local wild.
+--- 
+
+The WildCounts shorthand, plus my [Filemaker Go WildCounts app](../wildcounts-app-FilemakerGo/) that datetime-stamps and geotags each shorthand line, has allowed me to turn my life into one big transect. My counts are recorded in a combination of typed shorthand and spoken audio notes (which then need transcription, but that's another method). This lets me average over 3,000 observations a week. I am now the stenographer of my local wild.
 
 I imagine this might all seem a little overwhelming at first, but you don't need to use all of the compexity, especially at first. What's important is that it's very fast to enter. Just like a court stenographer, I've been doing this for long enough that my fingers know it all and I can quickly enter in wild counts as I go.
 
 To dive in to the complete WildCounts shorthand vocabulary, see [wildcounts shorthand](../wildcounts-shorthand-vocab/).
+
+--- 
 
 [8 Sept. 2021: I have R scripts that expand WildCounts shorthand into data in CSV and JSON formats. I'm working on cleaning them up for general use. Once I'm done, I'll make them available on the site.]
 
