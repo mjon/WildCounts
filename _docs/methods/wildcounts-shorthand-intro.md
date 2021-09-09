@@ -177,7 +177,7 @@ Each line of WildCounts shorthand is always restricted to the observation of one
 
 These are two observations, the first of an adult male bellbird, seen near to the southwest, and the second, of a cultivated kowhai tree that is flowering (and has flower buds and finished flowers/immature fruit). The bellbird is associated with (`*`) the kowhai tree as a flower visitor (`fl`) of (`o`) the kowhai tree. Hence `*flo`.
 
-Interactions have a direction, specified by "**of**" (`o`) and "**by**" (`b`). In above example, the bellbird visits the flowers **of** (`o`) the kowhai tree. The same interaction could have also been written with the species in the opposite order.
+Interactions have a direction, specified by "**of**" (`o`) and "**by**" (`b`). In above example, the bellbird is a flower visitor **of** (`o`) the kowhai tree. The same interaction could have also been written with the species in the opposite order.
 
 `kowhai; n_sw1i$; fb-FL-im;`<br />
 `*flb`<br />
@@ -192,7 +192,7 @@ In this case, the kowhai tree has flowers visited **by** (`b`) the bellbird. So 
 </figure>
 </div>
 
-Several interaction types are available, all of which are abbreviated by two letters. These  are decomposer (`de`), epihyte (`ep`), flower visitor (`fl`), frugivory (`fr`), hemiparasite (`hp`), herbivory (`he`), infection (`in`), parasite (`pa`), parasitoid (`pd`), predation (`pr`), and seed predation (`se`). Pathogens are included in "infection"". For cases when the type of interaction isn't clear, there's also host (`ht`). 
+Several interaction types are available, all of which are abbreviated by two letters. These  are decomposition (`de`), epihyte (`ep`), flower visit (`fl`), frugivory (`fr`), hemiparasitism (`hp`), herbivory (`he`), infection (`in`), parasitism (`pa`), parasitoid (`pd`), predation (`pr`), and seed predation (`se`). Pathogens are included in "infection"". For cases when the type of interaction isn't clear, there's also host (`ht`). 
 
 Note that these abbrevations are the first two letters of a word, except when two interaction types would otherwise have the same code (so only parasite is `pa` and parasitoid is instead be `pd`), or when that second letter is "o" or "b" (to reduce the chances of an unrecoverable typo).
 
