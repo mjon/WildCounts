@@ -2,13 +2,26 @@
 permalink: search.json
 ---
 [
-{% for section in site.data.docs %}
-  {% for item in section.docs %}
-    {% assign item_url = item | prepend:"/docs/" | append:"/" %}
-    {% assign p = site.docs | where:"url", item_url | first %}
+{% for section in site.data.count %}
+  {% for item in section.count %}
+    {% assign item_url = item | prepend:"/count/" | append:"/" %}
+    {% assign p = site.count | where:"url", item_url | first %}
     {
       "title": "{{ p.title }}",
       "url": "{{ p.url | relative_url }}"
+      "sub_title": "{{ p.sub_title | escape }}"
+    },
+  {% endfor %}
+{% endfor %}
+
+{% for section in site.data.datapage %}
+  {% for item in section.datapage %}
+    {% assign item_url = item | prepend:"/datapage/" | append:"/" %}
+    {% assign p = site.datapage | where:"url", item_url | first %}
+    {
+      "title": "{{ p.title }}",
+      "url": "{{ p.url | relative_url }}"
+      "sub_title": "{{ p.sub_title | escape }}"
     },
   {% endfor %}
 {% endfor %}
@@ -17,6 +30,7 @@ permalink: search.json
   {
   "title": "{{ post.title | escape }}",
   "url": "{{ post.url | relative_url }}"
+  "sub_title": "{{ post.sub_title | escape }}"
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
