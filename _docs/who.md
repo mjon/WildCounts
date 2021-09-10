@@ -1,6 +1,6 @@
 ---
 title: Who
-sub_title: "WildCounts is made in New Zealand with eyes on the world."
+sub_title: "WildCounts is made in Aotearoa New Zealand with eyes on the world."
 author: Jon Sullivan
 date:   2018-01-08 10:30:00 +1300
 last_modified_at:   2021-09-05 10:30:00 +1300

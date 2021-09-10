@@ -1,6 +1,6 @@
 ---
 title: WildCounts Manifesto
-sub_title: "We all have a duty to watch our wild. We can count everything that can be easily counted and we can do it today."
+sub_title: "We all have a duty to watch our wild. We can count everything that can be easily counted, and we can do it today."
 author: Jon Sullivan
 date:   2018-01-08 10:30:00 +1300
 last_modified_at:   2021-09-05 10:30:00 +1300
