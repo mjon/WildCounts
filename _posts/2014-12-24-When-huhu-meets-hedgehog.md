@@ -22,7 +22,7 @@ While stoats and possums are well entrenched in the public eye as enemies of New
 <div class="indent">
 <figure>
 <a href="http://www.flickr.com/photos/mollivan_jon/12040577215" title="a young hedgehog in our garden by Jon Sullivan, on Flickr"><img src="https://farm6.staticflickr.com/5484/12040577215_e57f773e1c_z.jpg" width="640" height="480" alt="a young hedgehog in our garden"></a>
-<figcaption><br />A young hedgehog in our garden, Christchurch, January 2014 (view observation on <a href="https://inaturalist.nz/observations/983911">iNaturalist NZ</a>).</figcaption>
+<figcaption>A young hedgehog in our garden, Christchurch, January 2014 (view observation on <a href="https://inaturalist.nz/observations/983911">iNaturalist NZ</a>).</figcaption>
 </figure>
 </div>
 
