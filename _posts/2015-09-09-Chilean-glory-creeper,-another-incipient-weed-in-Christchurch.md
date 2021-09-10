@@ -25,7 +25,7 @@ Even the worst weeds begin as a small scattering of wild plants here and there i
 </figure>
 </div>
 
-Chilean glory creeper is a rapidly growing vine that is listed on New Zealand's <a href="http://www.biosecurity.govt.nz/files/pests/plants/nppa/nppa-accord-manual.pdf">National Plant Pest Accord</a>, the list of the worst weeds that are banned from sale and distribution. It's a weed that we don't want to become widespread.  Weedbusters NZ, the government's weed website, has a useful <a href="http://www.weedbusters.org.nz/weed-information/eccremocarpus-scaber/59/">weed information sheet</a> for the species.
+Chilean glory creeper is a rapidly growing vine that is listed on New Zealand's [National Plant Pest Accord](https://www.mpi.govt.nz/biosecurity/how-to-find-report-and-prevent-pests-and-diseases/partnerships-programmes-and-accords/national-pest-plant-accord-for-preventing-the-sale-of-invasive-weeds-in-nz/), the list of the worst weeds that are banned from sale and distribution. It's a weed that we don't want to become widespread.  Weedbusters NZ, the government's weed website, has a useful <a href="http://www.weedbusters.org.nz/weed-information/eccremocarpus-scaber/59/">weed information sheet</a> for the species.
 
 I saw my first wild Chilean glory creeper in Christchurch on Monday, growing in a wooded corner of Cashmere Primary School, where my son goes to school. It was about to flower. I posted an observation with photos on <a href="https://inaturalist.nz/observations/1924011">iNaturalist NZ</a>, took a sample for my herbarium, and alerted the city council botanist Trevor Partridge. And next time I'm at the school I'll dig it out. It most likely came from a nearby garden so I'll be keeping a close eye out for more.
 
