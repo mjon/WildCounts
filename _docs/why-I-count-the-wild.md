@@ -18,9 +18,9 @@ permalink: /docs/why-I-count-the-wild/
 
 ### Biking and counting
 
-I bike to work, even when it rains. I do that by choice; it adds adventure to my day and focuses me on the moment. I know this is puzzling to most people, driving their comfy cars to work. Yet, once you're hooked on commuter cycling, it can be the most satisfying way to travel. Counting the wild is similar. 
+I bike to work, even when it rains. I do that by choice; it adds adventure to my day and focuses me on the moment (and it's low carbon). I know this is puzzling to most people, driving their comfy cars to work. Yet, once you're hooked on commuter cycling, it can be the most satisfying way to travel. Counting the wild is similar. 
 
-To most people, counting the wild is at best a useful thing for other people to do. At worst, it's a quaint, old fashioned hobby similar to train spotting and stamp collecting. Yet, for those of us counting the wild, it's hard to imagine not doing it. It connects us to a much larger world.
+To most people, counting the wild is at best a useful thing for other people to do. At worst, people misunderstand that [it's important](../manifesto/). They instead equate it with what they see as quaint, old fashioned hobbies like train spotting and stamp collecting. Yet, for those of us counting the wild, it's hard to imagine not doing it. It connects us to a much larger world.
 
 ### Importance isn't enough
 
@@ -73,7 +73,7 @@ Then I got hooked. I've since expanded the species I count as I've increased my 
 
 Counting the wild has become a personal journey of increasing awareness of the wild stories at play around me. The more skills I’ve gained, and the more species I’ve learned, the deeper has grown my sense of place. 
 
-At every place I go now, the wild species now tell me stories. They tell of recent hardships and successes and of alliances and enemies. They tell stories of their landscape and how it's changing, and of grand histories, both recent and ancient. Some of those stories are vibrant and optimistic. Too many others are of struggle and decline. Everywhere I go today the wild speaks of winners, of losers, and change. Always change.
+At every place I go, the wild species now tell me stories. They tell of recent hardships and successes and of alliances and enemies. They tell stories of their landscape and how it's changing, and of grand histories, both recent and ancient. Some of those stories are vibrant and optimistic. Too many others are of struggle and decline. Everywhere I go today the wild speaks of winners, of losers, and change. Always change.
 
 Recording these wild stories is a privilege, and it is something I'm now happy to regard as my personal responsibility. It's also great fun connecting together with others doing the same, both in New Zealand and around the world, through iNaturalist and natural history societies. I've discovered that there are amateur naturalists in many places quietly noting down the changes in their local wild. In most places this happens under the radar of environmental institutions and without their support. As a result, there is also little standardisation of methods or data entry. I see huge potential for us to all do better.
 
@@ -86,7 +86,7 @@ When I count the wild I’m focused on noticing every individual of my chosen gr
 <div class="indent">
 <figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51428420093/" title="Tawhairaunui track"><img src="https://live.staticflickr.com/65535/51428420093_360a551505_z.jpg" width="640"  alt="Tawhairaunui track"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>A forest track is more than a pretty wall of green or an interesting place to find natural curiousities. It is a library of natural stories, some ancient and some modern. It's great fun learning how to read those stories. They're also very much still being written, and you can use wild counts to tell these stories of nature's change where you live.</figcaption>
+<figcaption>A forest track is more than a pretty wall of green or an interesting place to find natural curiousities. It is a library of natural stories, some ancient and some modern. With study and practice, you can learn how to read those stories. These stories are also still being written, especially as the world is steered into unprecedented environmental conditions. You can use wild counts to tell these stories of nature's change where you live.</figcaption>
 </figure>
 </div>
 
