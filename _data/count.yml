@@ -1,0 +1,40 @@
+- title: Why count the wild
+  count:
+  - home
+  - what-is-a-wild-count
+  - manifesto
+  - wildcounts-principles
+  - who
+  - why-I-count-the-wild
+
+- title: How to count the wild
+  count:
+  - how-to-intro
+  - how-to-decisions
+
+- title: Decide what to count
+  count:
+  - what-to-count-intro
+  - what-to-count-placeholder
+
+- title: Learn the method
+  count:
+  - methods-intro
+  - wildcounts-shorthand-intro
+  - wildcounts-shorthand-vocab
+  - wildcounts-app-FilemakerGo
+
+- title: Improve your ID skills
+  count:
+  - id-intro
+  - id-placeholder
+
+- title: Gear up
+  count:
+  - gear-up-intro
+  - gear-up-placeholder
+
+- title: Share your counts
+  count:
+  - share-intro
+  - share-placeholder

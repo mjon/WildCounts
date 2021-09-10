@@ -110,13 +110,13 @@ Grey warblers, while sharing the same winter-peaking seasonality as bellbirds, h
 <div class="indent">
 <figure>
 <a href="/assets/img/BurnsBuldingGreywarblers.png" title="Grey warbler (riorio) trends from my office window"><img src="/assets/img/BurnsBuldingGreywarblers.png" width="90%" alt="Grey warbler (riorio) trends from my office window"></a>
-<figcaption>My office counts show an ongoing decline in grey warblers, starting before the university began removing trees from around the building. I'm also more likely to hear grey warblers singing in winter than summer months.</figcaption>
+<figcaption>My office counts show an ongoing decline in grey warblers, starting years before the university began removing trees from around the building. I'm also more likely to hear grey warblers singing in winter than summer months.</figcaption>
 </figure>
 </div>
 
 ---
 
-So, with three birds there were three different trends: bellbirds only present in the winter months and rising then falling, fantails with a weak seasonal trend and rising then falling, and grey warblers declining. At this stage, I have not curated and analysed enough of my other Lincoln counts to know if these trends are consistent across Lincoln town. There has definitely been a local decline in recent years associated with the felling of most nearby large trees. However, there was already a significant declining trend in grey warblers before the tree felling. Like most long-term monitoring, these trends raise more questions than they answer.
+So, with three birds there were three different trends: bellbirds only present in the winter months and rising then falling, fantails with a weak seasonal trend and rising then falling, and grey warblers steadily declining. At this stage, I have not curated and analysed enough of my other Lincoln counts to know if these trends are consistent across Lincoln town. There has definitely been a local decline in recent years associated with the felling of most nearby large trees. However, there was already a significant declining trend in grey warblers before the tree felling. Like most long-term monitoring, these trends raise more questions than they answer.
 
 Despite how easy it was to make these observations, I'm not aware of any other datasets that reveal what's been happening with these birds in Lincoln. That is, besides other counts I've done myself and with students (those still need a fair amount of curation before they’ll be ready for analysis). There's no official long-term monitoring of terrestrial biodiversity in Lincoln. That's despite Lincoln marketing itself as an Envirotown and being the location of a university and several government research institutes.
 

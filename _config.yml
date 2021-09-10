@@ -45,6 +45,8 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
+  - Modifications_to_Jekyll_Count_theme.md
+  # the above line is added by Jon to keep my notes off the built website
 timezone: Pacific/Auckland # modified by Jon
 defaults:
 - scope:
@@ -55,16 +57,28 @@ defaults:
     sectionid: blog
 
 - scope:
-    path: _docs
-    type: docs
+    path: _count
+    type: count
   values:
-    layout: docs
-    sectionid: docs
+    layout: count
+    sectionid: count
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _datapage
+    type: datapage
+  values:
+    layout: datapage
+    sectionid: datapage
     seo:
       type: "WebPage"
 
 collections:
-  docs:
+  count:
+    permalink: /:collection/:path/
+    output: true
+  datapage:
     permalink: /:collection/:path/
     output: true
   posts:

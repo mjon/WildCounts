@@ -24,7 +24,7 @@ layout: default
             {% if page.sub_title %}
                 <h4>{{ page.sub_title | markdownify | strip_html }}</h4>
             {% endif %}
-            <p>written {{ page.date | date: "%b %-d, %Y" }}{% if page.last_modified_at %} (last updated {{ page.last_modified_at | date: "%b %-d, %Y" }}){% endif %}{% if page.author %} • by <a href="https://wildcounts.org/docs/who/">{{ page.author }}</a>{% endif %}{% if page.meta %} • Category: {{ page.meta }}{% endif %}</p>
+            <p>written {{ page.date | date: "%b %-d, %Y" }}{% if page.last_modified_at %} (last updated {{ page.last_modified_at | date: "%b %-d, %Y" }}){% endif %}{% if page.author %} • by <a href="https://wildcounts.org/count/who/">{{ page.author }}</a>{% endif %}{% if page.meta %} • Category: {{ page.meta }}{% endif %}</p>
              <!-- Jon additions end -->
             <div  id="markdown-content-container">{{ content }}</div>
             <hr>

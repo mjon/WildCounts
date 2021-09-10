@@ -31,4 +31,4 @@ The species I've been seeing on flax was first named by Rosa in her 2011 Fauna S
 
 These city flax plants might well question Rosa's conclusion that endemic Diaspididae do no serious damage. No ecological study has been done to quantify how much they reduce the vigour and reproductive output of their host plants. Given how abundant these insects are on flax at places like Travis Wetland, I expect there is some impact on some plants.
 
-This is not one of the insects in my [core wild counts species list](../../../../../docs/what-to-count-intro/), so I have not been accumilating data to show where it's found and how it's changing in abundance. That would be interesting to do though.
+This is not one of the insects in my [core wild counts species list](../../../../../count/what-to-count-intro/), so I have not been accumilating data to show where it's found and how it's changing in abundance. That would be interesting to do though.
