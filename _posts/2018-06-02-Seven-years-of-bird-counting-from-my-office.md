@@ -27,7 +27,7 @@ categorylink:
 
 Some long-term monitoring of nature can be quick and easy, but good habits are hard to start. Despite my interest in monitoring, it wasn't until eight years after I joined the staff at [Lincoln University](https://www.lincoln.ac.nz), New Zealand, that I started monitoring from my office. After that slow start, I’ve been consistently noting down native forest birds, butterflies, and cicada calls. It's simple, easy, and has revealed surprising changes in the local species that everyone would otherwise have overlooked. That's good monitoring in a nutshell: simple, easy, and reveals surprises.
 
-I crack my window open and use my [5 in 20 minute method](../../../../2013/01/01/Counting-birds-in-real-time/), recording the minimum and maximum number of each of my focal species seen or heard every 20 minutes. I also note how many were observed in the first five minutes. That allows for comparison with NZ five-minute bird count datasets. (See the example below.)
+I crack my window open and use my [5 in 20 minute method](../../../../2013/01/01/Counting-birds-in-real-time/), recording the presence/absence, or minimum and maximum number, of each of my focal species seen or heard every 20 minutes. I separate off the observations made in the first five minutes of each interval. That allows for comparison with NZ five-minute bird count datasets. (See the example below.)
 
 For birds, I’ve been noting just the native forest species that were present in NZ before people. These are a good indicator of our progress towards towns and farms becoming more suitable for NZ’s original species. All these birds are currently rare to absent from most of the wider Lincoln landscape. That makes most of my counts zeros, which is why they're so easy to count.
 
@@ -46,7 +46,7 @@ bellb song |yes
 gw song yes|
 /16:20- [winoa]
 /16:40- [winoa]
-fts |yes
+ft song |yes
 /17:00- [winoa]
 ft song yes|
 /-17:05
@@ -80,7 +80,7 @@ In the last three years, my bellbird encounters halved. At the same time, the ad
 
 ---
 
-Unlike bellbirds, fantails are resident in Lincoln with some birds successfully breeding here. The seasonal effect on fantail numbers is much weaker than for bellbirds. The overall trend is similar to the bellbirds with fantail numbers gradually increased over the first four years before decreasing in recent years. Again, I expect this is a local effect of the tree removal around the building rather than a campus wide effect.
+Unlike bellbirds, fantails are resident in Lincoln with some birds successfully breeding here. The seasonal effect on fantail numbers is much weaker than for bellbirds. The overall trend is similar to the bellbirds with fantail numbers gradually increasing over the first four years before decreasing in recent years. Again, I expect this is a local effect of the tree removal around the building rather than a campus wide effect.
 
 <div class="indent">
 <figure>
@@ -103,7 +103,7 @@ Grey warblers, while sharing the same winter-peaking seasonality as bellbirds, h
 <div class="indent">
 <figure>
 <a href="https://www.flickr.com/photos/mollivan_jon/24789164005/" title="grey warbler"><img src="https://live.staticflickr.com/1557/24789164005_4a1f0284fa_z.jpg" width="60%" alt="grey warbler"></a>
-<figcaption>Grey warblers are one of NZ's two smallest birds, and they're more often heard than seen, have a loud and distinctive song.</figcaption>
+<figcaption>Grey warblers are one of NZ's two smallest birds. They're more often heard than seen, having a loud and distinctive song.</figcaption>
 </figure>
 </div>
 
