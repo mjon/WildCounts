@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is the best way to document the impacts of biocontrol agents on weeds?"
+title:  "What's the best way to document the impacts of biocontrol agents on weeds?"
 sub_title: "It's a smackdown contest between monitoring and population modelling. Spoiler alert: they're both important."
 author: Jon Sullivan
 date:   2014-08-31 10:30:00 +1300
