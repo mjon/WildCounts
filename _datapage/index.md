@@ -1,41 +1,23 @@
 ---
-title: Welcome
-sub_title: "Nature is changing. Count the wild!"
+title: Using wild counts data
+sub_title: "Finding, wrangling, and analysing wild counts data"
 author: Jon Sullivan
 date:   2018-01-08 10:30:00 +1300
 last_modified_at:   2021-09-05 10:30:00 +1300
 meta: 
-  - Why count
+  - Wildcounts data
 permalink: /datapage/home/
 redirect_from: /datapage/index.html
 ---
 
-## Why WildCounts?
+## Introduction
 
-The wild natural world is changing. Fast. Because of us. 
+These pages are all about finding wild counts data and using it to understand nature.
 
-Yet we know very little about **how** wild nature is changing. Which species are declining? Which are increasing? How fast? Where? How are their behaviours changing? Which species are adapting to the changes? What are the **consequences** of all these changes? For all nature. For us!
-
-Surprisingly, the places where we tend to know the least about these things are our cities, towns, and farms. The places where we live and work. There is wild all around us, making our planet tick. Making it amazing! But, for the most part, we're not taking notice.
-
-Sure, there are some fantastic and fanatical birders out there dedicating their lives to bird watching. It’s incredible what they’re achieving with tools like eBird. But what about in **your** neighbourhood? And what about your local butterflies or beetles, mushrooms or mosses? How are **they** doing? **Who is watching your wild?**
-
-**WildCounts** is about paying more attention to what's changing in the wild. All of the wild. There’s all the "how", "what", and "why" here to help you to count your wild. It's also about celebrating the people who choose to count the wild. And, it explores what we can do with all the extra knowledge that comes from wild counts.
-
-If more of us count the wild, we’ll all learn more about how nature is changing. If we take more notice, perhaps we'll all value the wild more. Together we can make the wild count!
-
-## About the WildCounts website
-
-The WildCounts website has two main parts. 
-
-In the [Count](https://wildcounts.org/count/home/) section (where you are now), you'll find lots of tips and instructions on how to count the wild. That includes what to do when out looking (and listening) for species, how to enter and store your wild counts data, how to share those online, and how to analyse wild counts for trends and patterns. 
-
-In the <a href="{{ site.posts.first.url | relative_url }}">Blog</a> section, there are stories about people making wild counts, the amazing knowledge being uncovered using wild counts, and ways that this knowledge is used to make the wild count in our society.
-
-The WildCounts website went live in September 2021, but includes plenty of older content that's previously only been offline. It's a work in progress and content will be regularly added and improved. Your feedback and suggestions are welcome (see [Who](https://wildcounts.org/count/who/)).
+Stay tuned for information about finding wild counts data on data websites, wrangling it into the shape you want, crunching the numbers to uncover patterns and trends, and making graphs and maps.
 
 ---
 
 <figure>
-<img src="/assets/img/banner_images/index_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
+<img src="/assets/img/banner_images/wild-data-wrangling_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
 </figure>
