@@ -12,6 +12,8 @@ permalink: /count/gear-up-intro/
 
 These days, you can do it all with a modern smart phone. It can be your camera and microphone and GPS, all in one, plus a database to enter your counts. I currently use an iPhone with Filemaker Go as my database. There are other database apps that you could set up to do the job (for example, [Airtable](https://www.airtable.com/), [Fulcrum](https://www.fulcrumapp.com/), [Tapforms](https://www.tapforms.com/)). I like FileMaker Go because you can enter text, audio, and drawings into its fields, and it works well offline. The downside is that you need access to the expensive FileMaker Pro on a computer to create a new database. One of these days I’d like to build and share a small stand-alone app all setup for wild counting using my method. In the meantime, [my Filemaker Go solution is online](https://github.com/mjon/WildCounts-Filemaker-Go-app).
 
+[Head here](../gear-up-good-apps) for a selection of good apps for wild counting.
+
 ### Plastic bag
 
 Before I list some of my optional extra tech, I’ll note my one absolutely essential device: a clear plastic bag. It needs to be big enough to fit my phone with plenty of extra space. I use it to continue counting when it rains. That’s because I can’t accurately use the screen of a smart phone when it’s wet, even if the phone is waterproof. Wet fingers on wet touch screens don’t work. 
@@ -38,7 +40,7 @@ On my bike, I speak my observations into a Sony Bluetooth microphone (the [ECM-A
 
 ### A better microphone with wind protection
 
-I also carry a small microphone with a wind protector (a [RØDE microvideo](https://www.rode.com/microphones/videomicro)), which I can plug into my iPhone to get better quality audio recordings of species singing and calling. I use that when I run to get better quality audio notes, especially when it’s windy (and Christchurch is often windy). That improves the accuracy of the voice transcription later and allows me to get higher quality recordings of animals singing and calling.
+I also carry a small microphone with a wind protector (a [R&Oslash;DE microvideo](https://www.rode.com/microphones/videomicro)), which I can plug into my iPhone to get better quality audio recordings of species singing and calling. I use that when I run to get better quality audio notes, especially when it’s windy (and Christchurch is often windy). That improves the accuracy of the voice transcription later and allows me to get higher quality recordings of animals singing and calling.
 
 ### Bags and vials for collecting
 
