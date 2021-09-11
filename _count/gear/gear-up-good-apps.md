@@ -65,7 +65,7 @@ I have no use for all the filters and fancy photo modification tools but they're
 
 #### **Alternative** Camera
 
-Apple’s Camera app is fine for most situations, as is the default Android camera. Just watch your autofocus and autoexposure. The iNaturalist app also connects into your devices camera, but lacks the controls of a camera app like Camera+.
+Apple’s Camera app is fine for most situations, as is the default Android camera. Just watch your autofocus and autoexposure. The iNaturalist app also connects into your device's camera, but lacks the controls of a camera app like Camera+.
 
 ---
 
