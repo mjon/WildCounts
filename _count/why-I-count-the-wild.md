@@ -81,7 +81,9 @@ Recording these wild stories is a privilege, and it is something I'm now happy t
 
 Counting the wild is more than just casual nature watching, where you hunt about for interesting living things. It's quite different from specimen collecting where you seek out good specimens of new things you've not found before in an area. It's also very different to ["forest bathing"](https://en.wiktionary.org/wiki/shinrinyoku), where you soak up the natural green ambience and relax. 
 
-When I count the wild I’m focused on noticing every individual of my chosen group of species. My mind isn't drifting in a green leafy blur or hunting for curiosities; it's focused on capturing the moment. I notice the individuals, what they're doing, and the species they're interacting with. It's this consistency and completeness of my counting that reveals robust patterns and trends, something that's difficult to do from casual nature observations. I appreciate the way it forces me into the moment.
+When I count the wild, I’m focused on noticing every individual of my chosen group of species. My mind isn't drifting in a green leafy blur or hunting for curiosities; it's focused on capturing the moment. I notice the individuals, what they're doing, and the species they're interacting with. It's this consistency and completeness of my counting that reveals robust patterns and trends, something that's difficult to do from casual nature observations. I appreciate the way it forces me into the moment.
+
+Counting the wild is so much more than just doing something that's important. It makes every day more unique and filled with drama. There's a quiet pleasure to be found in doing something so rich in meaning. You'll find it waiting in the wild around you.
 
 <div class="indent">
 <figure>
@@ -89,8 +91,6 @@ When I count the wild I’m focused on noticing every individual of my chosen gr
 <figcaption>A forest track is more than a pretty wall of green or an interesting place to find natural curiousities. It is a library of natural stories, some ancient and some modern. With study and practice, you can learn how to read those stories. These stories are also still being written, especially as the world is steered into unprecedented environmental conditions. You can use wild counts to tell these stories of nature's change where you live.</figcaption>
 </figure>
 </div>
-
-Counting the wild is so much more than just doing something that's important. It makes every day more unique and filled with drama. There's a quiet pleasure to be found in doing something so rich in meaning. You'll find it waiting in the wild around you.
 
 ---
 
