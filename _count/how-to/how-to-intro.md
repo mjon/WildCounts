@@ -57,4 +57,3 @@ The WildCounts data format is built to be compatible with international biodiver
 
 Once you've made lots of counts, it will be time to head over to the <a href="../../datapage/home/">Data</a> section to make sense of the patterns and trends emerging from your counts.
 
----
