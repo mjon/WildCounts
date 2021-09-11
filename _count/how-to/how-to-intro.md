@@ -47,7 +47,7 @@ If you want to do more, there’s some extra gear that will help.
 
 ## 6. Share your counts
 
-Wild counts get really useful when they’re shared and combined with others’ counts to uncover much larger patterns and trends. WildCounts.org is not (yet) able to store all your wild counts, but you can freely put them on big data sharing platforms like **Figshare** and **Github**. Label them the right way and researchers can find them and weave them together with other data to describe how the natural world is changing.
+Wild counts get really useful when they’re shared and combined with others’ counts to uncover much larger patterns and trends. WildCounts.org is not (yet) able to store all your wild counts, but you can freely put them on big data sharing platforms like [**Figshare**](https://figshare.com/) and [**Github**](https://github.com/). Label them the right way and researchers can find them and weave them together with other data to describe how the natural world is changing.
 
 The WildCounts data format is built to be compatible with international biodiversity data standards and is GBIF compatible (that’s the [Global Biodiversity Information Facility](https://gbif.org)). (Uploading biodiversity survey data to GBIF is, at the moment, very difficult unless you work for a biodiversity institution that maintains an authorised data pipe into GBIF. Watch this space.)
 
