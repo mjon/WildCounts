@@ -24,9 +24,9 @@ To most people, counting the wild is at best a useful thing for other people to 
 
 ### Importance isn't enough
 
-I've been thinking lately about how I promote wild counting and casual nature watching. My standard pitch to my ecologist colleagues and students has always been that they should do it because it's important. We don't know how nature is responding to the many human-driven environmental changes (with few exceptions). Long-term monitoring is fundamental to detecting and reacting to changes in nature. We'd know much more about changes in nature if more of us were counting our pieces of the wild.
+I've been thinking lately about how I promote wild counting and casual nature watching. My standard pitch to my ecologist colleagues, and students, has always been that they should do it because it's important. We don't know how nature is responding to the many human-driven environmental changes (with few exceptions). Long-term monitoring is fundamental to detecting and reacting to changes in nature. We'd know much more about changes in nature if more of us were counting our pieces of the wild.
 
-I've come to realize that importance by itself is not a big motivator. The acknowledged importance of long term monitoring hasn't resulted in professional ecologists all personally counting the wild. Most just like to analyse other poeples' long-term counts. In the same way, everyone’s increasing awareness of rapid global warming hasn’t caused a massive shift from cars to bikes. Importance, alone, is just a recipe for wanting others to do it.
+I've come to realize that importance by itself is not a big motivator. The acknowledged importance of long term monitoring hasn't resulted in professional ecologists all personally counting the wild. Most just like to analyse other people's' long-term counts. In the same way, everyone’s increasing awareness of rapid global warming hasn’t caused a massive shift from cars to bikes. Importance, alone, is just a recipe for wanting others to do it.
 
 ### Counting the wild is satisfying
 
