@@ -53,10 +53,8 @@ The WildCounts data format is built to be compatible with international biodiver
 
 <a href="../share-intro/">Learn more.</a>
 
-## 7. Look for patterns and trends
+## Later
 
-As WildCounts grows, there will be more tools developed for analyzing and visualizing the stories inside the data. The initial tools are built for people with some data skills, using the free data app [R](https://www.r-project.org), but easier visual push-button options are possible in the future.
-
-<a href="../patterns-trends-intro/">Learn more.</a>
+Once you've made lots of counts, it will be time to head over to the <a href="../../datapage/home/">Data</a> section to make sense of the patterns and trends emerging from your counts.
 
 ---

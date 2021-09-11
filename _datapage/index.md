@@ -16,6 +16,8 @@ These pages are all about finding wild counts data and using it to understand na
 
 Stay tuned for information about finding wild counts data on data websites, wrangling it into the shape you want, crunching the numbers to uncover patterns and trends, and making graphs and maps.
 
+As WildCounts grows, there will be more tools developed for analyzing and visualizing the stories inside the data. The initial tools are built for people with some data skills, using the free data app [R](https://www.r-project.org), but easier visual push-button options are possible in the future.
+
 ---
 
 <figure>
