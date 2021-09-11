@@ -25,7 +25,7 @@ This page outlines your different options and links through to pages explaining 
 
 ## Ways to record your wild counts
 
-You can type (or write) your counts using the quick **WildCounts shorthand**, or, if your hands are busy, you can speak your counts using the **WildCounts vocab**. These are the quickest, least intrusive, ways of making many counts while out and about.
+You can type (or write) your counts using the quick **WildCounts shorthand**, or, if your hands are busy, you can speak your counts using the **WildCounts spoken**. These are the quickest, least intrusive, ways of making many counts while out and about.
 
 ### Type your counts with **WildCounts shorthand**
 

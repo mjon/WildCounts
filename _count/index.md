@@ -42,7 +42,7 @@ In the [**Count**](https://wildcounts.org/count/home/) section (where you are no
 
 In the <a href="{{ site.posts.first.url | relative_url }}">**Blog**</a> section, there are stories about people making wild counts, the amazing knowledge being uncovered using wild counts, and ways that this knowledge is used to make the wild count in our society.
 
-In the [**Data**](https://wildcounts.org/datapage/home/) section, you'll find out where to get wild counts data,and how to wrangle it into the shape you want, crunch the numbers to uncover patterns and trends, and make graphs and maps.
+In the [**Data**](https://wildcounts.org/datapage/home/) section, you'll find out where to get wild counts data, and how to wrangle it into the shape you want, crunch the numbers to uncover patterns and trends, and make graphs and maps.
 
 **WildCounts** went live in September 2021, but includes plenty of older content that's previously only been offline. It's a work in progress and content will be regularly added and improved. Your feedback and suggestions are welcome (see [Who](https://wildcounts.org/count/who/)).
 

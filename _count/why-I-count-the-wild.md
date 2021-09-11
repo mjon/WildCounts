@@ -20,7 +20,7 @@ permalink: /count/why-I-count-the-wild/
 
 I bike to work, even when it rains. I do that by choice; it adds adventure to my day and focuses me on the moment (and it's low carbon). I know this is puzzling to most people, driving their comfy cars to work. Yet, once you're hooked on commuter cycling, it can be the most satisfying way to travel. Counting the wild is similar. 
 
-To most people, counting the wild is at best a useful thing for other people to do. At worst, people misunderstand that [it's important](../manifesto/). They instead equate it with what they see as quaint, old fashioned hobbies like train spotting and stamp collecting. Yet, for those of us counting the wild, it's hard to imagine not doing it. It connects us to a much larger world.
+To most people, counting the wild is at best a useful thing for other people to do. At worst, people do not understand that [it's important](../manifesto/). They instead equate it with what they see as quaint, old fashioned hobbies like train spotting and stamp collecting. Yet, for those of us counting the wild, it's hard to imagine not doing it. It connects us to a much larger world.
 
 ### Importance isn't enough
 

@@ -1,6 +1,6 @@
 ---
-title:  "WildCounts shorthand vocab"
-sub_title: "A complete vocubulary for WildCounts shorthand."
+title:  "WildCounts Shorthand vocab"
+sub_title: "A complete vocubulary for WildCounts Shorthand."
 author: Jon Sullivan
 date:   2021-09-08 10:30:00 +1300
 last_modified_at:   2021-09-08 10:30:00 +1300

@@ -1,5 +1,5 @@
 ---
-title:  "Introducing WildCounts shorthand"
+title:  "Introducing WildCounts Shorthand"
 sub_title: "I'm like a stenographer of the wild. Court stenographers transcribe everything happening in a court case; I do it with the wild. Here's how."
 author: Jon Sullivan
 date:   2018-05-18 17:30:00 +1300

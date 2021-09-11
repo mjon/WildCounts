@@ -27,13 +27,13 @@ You’ll still be able nature watch for other species when you’re out and abou
 
 ## 2. Learn the method
 
-Look at nature, not your screen. Your counting needs to be quick and easy and not get in your way. The best way to do that is to learn the WildCounts shorthand, whether you’re typing or speaking your counts.
+Look at nature, not your screen. Your counting needs to be quick and easy and not get in your way. The best ways to do that are to type in <a href="../wildcounts-shorthand-intro/">WildCounts shorthand</a>, or talk notes into your phone with <a href="../wildcounts-spoken-intro/">WildCounts spoken</a>.
 
 <a href="../methods-intro/">Learn more.</a>
 
 ## 3. Work on your ID skills
 
-If you’re going to count a piece of the wild, you’ll need to be good at identifying your core species. The best place to build up, and demonstrate, your species ID skills is iNaturalist. You can upload your own identified photos and audio recording to see if you’ve got your IDs correct, and you can help others to identify the species in their observations. Both are excellent ways to sharpen your species identification skills.
+If you’re going to count a piece of the wild, you’ll need to be good at identifying your core species. The best place to build up, and demonstrate, your species ID skills is [iNaturalist](https://www.inaturalist.org). You can upload your own identified photos and audio recording to see if you’ve got your IDs correct, and you can help others to identify the species in their observations. Both are excellent ways to sharpen your species identification skills.
 
 <a href="../id-intro/">Learn more.</a>
 
@@ -49,7 +49,7 @@ If you want to do more, there’s some extra gear that will help.
 
 Wild counts get really useful when they’re shared and combined with others’ counts to uncover much larger patterns and trends. WildCounts.org is not (yet) able to store all your wild counts, but you can freely put them on big data sharing platforms like **Figshare** and **Github**. Label them the right way and researchers can find them and weave them together with other data to describe how the natural world is changing.
 
-The WildCounts data format is built to be compatible with international biodiversity data standards and is GBIF compatible (that’s the [Global Biodiversity Information Facility](https://gbif.org)). Uploading biodiversity survey data to GBIF is, at the moment, very difficult unless you work for a biodiversity institution that maintains an authorised data pipe into GBIF. Watch this space.
+The WildCounts data format is built to be compatible with international biodiversity data standards and is GBIF compatible (that’s the [Global Biodiversity Information Facility](https://gbif.org)). (Uploading biodiversity survey data to GBIF is, at the moment, very difficult unless you work for a biodiversity institution that maintains an authorised data pipe into GBIF. Watch this space.)
 
 <a href="../share-intro/">Learn more.</a>
 
