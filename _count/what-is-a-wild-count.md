@@ -9,6 +9,10 @@ meta:
 permalink: /count/what-is-a-wild-count/
 ---
 
+<figure>
+<img src="/assets/img/banner_images/index_banner_tangle2_1680px200px.jpg" width="100%" alt="tangle banner">
+</figure>
+
 ### Wild counts are not casual observations
 
 For centuries amateur and professional naturalists have been documenting the wild. Museums and herbaria are filled with the specimens they've collected, and now modern equivalents like [iNaturalist](https://www.inaturalist.org) are filling fast with millions of photos and audio recordings of wild species. Almost all of these observations were made in a haphazard way, where someone found a particular species at a particular place and time, and they were interested enough that they chose to record it. 
@@ -44,6 +48,6 @@ Choose some species, learn the method here that's most suitable for you and your
 ---
 
 <figure>
-<img src="/assets/img/banner_images/index_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
+<img src="/assets/img/banner_images/index_banner_tangle4_1680px200px.jpg" width="100%" alt="tangle banner">
 </figure>
 
