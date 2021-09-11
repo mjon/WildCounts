@@ -1,6 +1,6 @@
 ---
 title: Gear up
-sub_title: "You can do an enormous amount with a smartphone at the right apps. You can do even more with a few extra gadgets."
+sub_title: "You can do an enormous amount with a smartphone and the right apps. You can do even more with a few extra gadgets."
 author: Jon Sullivan
 date:   2021-05-14 10:30:00 +1300
 meta: 
