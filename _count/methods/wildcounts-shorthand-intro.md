@@ -21,7 +21,7 @@ I've spent the last 15 years refining a method I can use to quickly count a stan
 
 I'm now like a [court stenographer](https://en.m.wikipedia.org/wiki/Stenotype), transcribing everything happening in a court case. Instead, I do it outside with the wild. 
 
-This shorthand has become the **WildCounts shorthand**. Here's an introduction on how it works. 
+This shorthand has become the [**WildCounts shorthand**](../wildcounts-shorthand-vocab). Here's an introduction on how it works. 
 
 Let's start with some examples. Each of the following is a complete line of WildCounts shorthand, with the first examples containing fewer details than the later examples.
 
