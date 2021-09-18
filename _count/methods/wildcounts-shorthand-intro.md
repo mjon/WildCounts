@@ -25,7 +25,7 @@ This shorthand has become the **WildCounts shorthand**. Here's an introduction o
 
 Let's start with some examples. Each of the following is a complete line of WildCounts shorthand, with the first examples containing fewer details than the later examples.
 
-<table class="table table-striped table-hover ">
+<table class="table table-striped table-hover">
   <thead>
     <tr class="warning">
       <td><strong>Shorthand</strong></td>
