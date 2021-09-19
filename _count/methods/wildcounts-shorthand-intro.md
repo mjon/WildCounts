@@ -76,7 +76,7 @@ Let's start with some examples. Each of the following is a complete line of Wild
 <div class="indent">
 <figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/22514203919/" title="Male bellbird at sugar water feeder"><img src="https://live.staticflickr.com/5676/22514203919_76438b6dc0_z.jpg" height="640" alt="Male bellbird at sugar water feeder"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>I hear then see a male bellbird, first at mid-distance then near-distance, to the southwest of me, where it stops to feed from a sugar water feeder and I photograph it and record its song. Rather than write out that whole sentence, I can just write <code>bellb mn_sw1vsxmir</code>.</figcaption>
+<figcaption>I hear then see a male bellbird, first at mid-distance then near-distance, to the southwest of me, where it stops to feed from a sugar water feeder and I photograph it and record its song. Rather than write out that whole sentence, I can just write <code>bellb mn_sw1vsxmir(fed from sugar water feeder)</code>.</figcaption>
 </figure>
 </div>
 
