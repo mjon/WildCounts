@@ -3,7 +3,7 @@ title:  "WildCounts Shorthand vocab"
 sub_title: "A complete vocubulary for WildCounts Shorthand."
 author: Jon Sullivan
 date:   2021-09-14 10:30:00 +1300
-last_modified_at:   2021-09-18 10:30:00 +1300
+last_modified_at:   2021-09-19 10:30:00 +1300
 meta: 
   - Count methods
 categorylink:
@@ -21,7 +21,7 @@ Having said that, do keep a close eye on your smart phone's spellchecker. When y
 
 WildCounts Shorthand syntax below is divided into five categories. **Count** is the general syntax for counting individual organisms. **Observation connector** is the syntax for connecting together organisms of different species, which is useful when you see species interacting. **Phenology** is the syntax specifically for recording the reproductive stages present on plants. **Roadkill**, as the name suggests, is the syntax for counting roadkill, and its condition and location on roads. Lastly, **Survey** is the syntax used for describing the environment at the time of your count.
 
-Within each category are **types**, **values**, and **syntax**. **Types** are the different concepts, like "taxon name", "age", and "initial position compass bearing". Within each type are one or more **values**. For example, the type "age" has the values "adult", "juvenile", and "baby". Within each value is then one, or sometimes several, shorthand syntax options for entering that value. For example, the shorthand syntax for "adult" is `a`. 
+Within each category are **types**, **values**, and **syntax**. **Types** are the different concepts, like "taxon name", "age", and "initial position compass bearing". Within each type are one or more **values**. For example, the type "age" has the values "adult", "juvenile", "baby", and "egg". Within each value is then one, or sometimes several, shorthand syntax options for entering that value. For example, the shorthand syntax for "adult" is `a`. 
 
 The types are listed in the order that they appear in a line of **WildCounts Shorthand**, starting with the taxon name. The exact position of each type in the shorthand is also indicated. All syntax is case insensitive unless specified.
 
@@ -107,7 +107,7 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
    1. Type: [**age**](#type-age)
 
-      * Values: [adult](#value-adult), [baby](#value-baby), [juvenile](#value-juvenile), 
+      * Values: [adult](#value-adult), [baby](#value-baby), [egg](#value-egg), [juvenile](#value-juvenile), 
 
    1. Type: [**same or different individual**](#type-same-or-different-individual)
 
@@ -1233,6 +1233,12 @@ baby/chick. For birds, these are passerines pre-fledgling or baby birds like duc
 
 **Syntax**: `b`
 
+#### Value: <span style="color:purple">**egg**</span>
+
+baby/chick. For birds, these are passerines pre-fledgling or baby birds like ducklings before their moult into juvenile plumage.
+
+**Syntax**: `e`
+
 #### Value: <span style="color:purple">**juvenile**</span>
 
 juvenile
@@ -1241,7 +1247,7 @@ juvenile
 
 ### Type: **same or different individual**
 
-The "at" symbol (@) is used to indicate that the same observed individual(s) have previously been observed already within the same survey. Note that "same" (@) differs in meaning from "usual". "Usual" (u) means that an individual has been observed in previous surveys.
+The "at" symbol (@) is used to indicate that the same observed individual(s) have previously been observed already within the same survey. (Note that "same" differs in meaning from "usual". "Usual" is a different type meaning that an individual has been observed in previous surveys.)
 
 **Position in shorthand**: c07 count suffix
 
@@ -1280,13 +1286,13 @@ The individuals observed may be the same as individuals previously observed with
 
 #### Value: <span style="color:purple">**same again**</span>
 
-The individual observed in a previous route section of the same survey is now recorded again (typically in the next route section). (Until now, I have been inconsistent about whether I should use "same" or "usual", usually I use "same", but it's really a third concept.)
+The individual observed in a previous route section, or previous time interval, of the same survey is now recorded again. This allows you to record an accurate count of how many individuals of a species you detect in a route section or time interval, within a survey, while still tracking how many of these individuals you already counted in a previous section or interval. (I used to be be inconsistent here about whether I used "same" or "usual", usually I used "same", but it's really a third concept.)
 
 **Syntax**: `@@`
 
 #### Value: <span style="color:purple">**possibly same again**</span>
 
-Possibly the same individual observed in a previous route section of the same survey is now recorded again (typically in the next route section).
+Possibly the same individual observed in a previous route section, or time intervale, of the same survey is now recorded again.
 
 **Syntax**: `@@!`
 
@@ -2842,7 +2848,7 @@ Simplified syntax for when the observed animals that are heard vocalising (but n
 
 ### Type: **same or different individual**
 
-The "at" symbol (@) is used to indicate that the same observed individual(s) have previously been observed already within the same survey. Note that "same" (@) differs in meaning from "usual". "Usual" (u) means that an individual has been observed in previous surveys.
+The "at" symbol (@) is used to indicate that the same observed individual(s) have previously been observed already within the same survey. (Note that "same" differs in meaning from "usual". "Usual" is a different type meaning that an individual has been observed in previous surveys.)
 
 **Position in shorthand**: p07 phenology abundance suffix
 
@@ -2881,13 +2887,13 @@ The individuals observed may be the same as individuals previously observed with
 
 #### Value: <span style="color:purple">**same again**</span>
 
-The individual observed in a previous route section of the same survey is now recorded again (typically in the next route section). (Until now, I have been inconsistent about whether I should use "same" or "usual", usually I use "same", but it's really a third concept.)
+The individual observed in a previous route section, or previous time interval, of the same survey is now recorded again. This allows you to record an accurate count of how many individuals of a species you detect in a route section or time interval, within a survey, while still tracking how many of these individuals you already counted in a previous section or interval. (I used to be be inconsistent here about whether I used "same" or "usual", usually I used "same", but it's really a third concept.)
 
 **Syntax**: `@@`
 
 #### Value: <span style="color:purple">**possibly same again**</span>
 
-Possibly the same individual observed in a previous route section of the same survey is now recorded again (typically in the next route section).
+Possibly the same individual observed in a previous route section, or time intervale, of the same survey is now recorded again.
 
 **Syntax**: `@@!`
 
