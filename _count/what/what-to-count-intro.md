@@ -120,6 +120,6 @@ It's up to us to monitor these species for at least the next few decades.
 
 ## Your wild counts portfolio
 
-When you think all these things through, you'll come up with a watch list of species that are well worth counting in your neighbourhood. It's like investing in the stock market, where you want a mix of low risk and higher risk stocks. With species, you want a few common easy species that you're keen on, plus a few species they interact with, plus some rarer species you hardly ever see. 
+When you think all these things through, you'll come up with a watch list of species that are well worth counting in your neighbourhood. It's like investing in the stock market, where you want a mix of low risk and higher risk stocks. With species, you want a few common, easy species that you're keen on, plus a few species they interact with, plus some rarer species you hardly ever see. 
 
 How many species are on your watch list is entirely your choice. I recommend you start small, perhaps just with one species, and gradually add more species as your skills and interest grow. A small investment in counting the wild each day will grow into irreplaceable knowledge of how wild nature is changing.
