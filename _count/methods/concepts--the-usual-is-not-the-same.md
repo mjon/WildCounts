@@ -93,7 +93,7 @@ In the case of stationary organisms like plants and roadkill, often the location
 
 ### The Same
 
-**The same** in my wild counts doesn't work like this. The same means something different to the usual.
+**The same** in wild counts doesn't work like this. The same means something different to the usual.
 
 "The same" means that I've definitely just re-counted an individual animal, plant, or fungus, one that I've already observed before in the same survey. For example, I'm now doing another bird count in my garden, and I see the usual banded bellbird, and then, a minute later, I see the same banded bellbird back again.
 
