@@ -3,7 +3,7 @@ title:  "WildCounts Shorthand vocab"
 sub_title: "A complete vocubulary for WildCounts Shorthand."
 author: Jon Sullivan
 date:   2021-09-14 10:30:00 +1300
-last_modified_at:   2021-09-19 10:30:00 +1300
+last_modified_at:   2021-09-23 10:30:00 +1300
 meta: 
   - Count methods
 categorylink:
@@ -111,7 +111,7 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
    1. Type: [**same or different individual**](#type-same-or-different-individual)
 
-      * Values: [different](#value-different), [same](#value-same), [possibly the same](#value-possibly-the-same), [same again](#value-same-again), [possibly same again](#value-possibly-same-again), 
+      * Values: [different](#value-different), [same](#value-same), [possibly the same](#value-possibly-the-same), 
 
    1. Type: [**seen song call**](#type-seen-song-call)
 
@@ -137,6 +137,10 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
       * Values: [wild](#value-wild), [possibly wild](#value-possibly-wild), [captive/cultivated](#value-captive/cultivated), 
 
+   1. Type: [**same individual again**](#type-same-individual-again)
+
+      * Values: [same again](#value-same-again), [possibly same again](#value-possibly-same-again), 
+
    1. Type: [**taxon uncertain added to count**](#type-taxon-uncertain-added-to-count)
 
       * Values: [question mark](#value-question-mark), 
@@ -153,9 +157,9 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
       * Values: [semi-colon](#value-semi-colon), 
 
-   1. Type: [**usual individual(s)**](#type-usual-individual(s))
+   1. Type: [**usual individual**](#type-usual-individual)
 
-      * Values: [usual](#value-usual), 
+      * Values: [usual](#value-usual), [unsure if usual](#value-unsure-if-usual), 
 
    1. Type: [**vocalisation keyword**](#type-vocalisation-keyword)
 
@@ -243,7 +247,7 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
    1. Type: [**same or different individual**](#type-same-or-different-individual)
 
-      * Values: [different](#value-different), [same](#value-same), [possibly the same](#value-possibly-the-same), [same again](#value-same-again), [possibly same again](#value-possibly-same-again), 
+      * Values: [different](#value-different), [same](#value-same), [possibly the same](#value-possibly-the-same), 
 
    1. Type: [**seen song call**](#type-seen-song-call)
 
@@ -261,6 +265,10 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
       * Values: [wild](#value-wild), [possibly wild](#value-possibly-wild), [captive/cultivated](#value-captive/cultivated), 
 
+   1. Type: [**same individual again**](#type-same-individual-again)
+
+      * Values: [same again](#value-same-again), [possibly same again](#value-possibly-same-again), 
+
    1. Type: [**count connector**](#type-count-connector)
 
       * Values: [departed](#value-departed), [count separator](#value-count-separator), [with](#value-with), [joined by](#value-joined-by), [after first five minutes](#value-after-first-five-minutes), 
@@ -277,9 +285,9 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
       * Values: [semi-colon](#value-semi-colon), 
 
-   1. Type: [**usual individual(s)**](#type-usual-individual(s))
+   1. Type: [**usual individual**](#type-usual-individual)
 
-      * Values: [usual](#value-usual), 
+      * Values: [usual](#value-usual), [unsure if usual](#value-unsure-if-usual), 
 
    1. Type: [**comma environment code separator**](#type-comma-environment-code-separator)
 
@@ -311,9 +319,9 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
       * Values: [roadkill decomposed](#value-roadkill-decomposed), [roadkill eaten](#value-roadkill-eaten), [roadkill exposed](#value-roadkill-exposed), [roadkill feathers](#value-roadkill-feathers), [roadkill fragment](#value-roadkill-fragment), [roadkill fur](#value-roadkill-fur), [roadkill intact](#value-roadkill-intact), [roadkill squashed](#value-roadkill-squashed), 
 
-   1. Type: [**usual individual(s)**](#type-usual-individual(s))
+   1. Type: [**usual individual**](#type-usual-individual)
 
-      * Values: [usual](#value-usual), 
+      * Values: [usual](#value-usual), [unsure if usual](#value-unsure-if-usual), 
 
    1. Type: [**comma environment code separator**](#type-comma-environment-code-separator)
 
@@ -1251,6 +1259,8 @@ The "at" symbol (@) is used to indicate that the same observed individual(s) hav
 
 **Position in shorthand**: c07 count suffix
 
+**Fixed position**: right of same again
+
 <table class="table table-striped table-hover">
 		  <thead>
 		    <tr class="warning">
@@ -1261,7 +1271,7 @@ The "at" symbol (@) is used to indicate that the same observed individual(s) hav
 		  <tbody>
 		    <tr>
 		      <td><code>blkb 1@</code></td>
-		      <td>One blackbird seen, definitely a re-sighting of an individual seen/heard earlier in the same survey.</td>
+		      <td>One blackbird seen, definitely a re-sighting of an individual seen/heard earlier in the same survey interval/route section.</td>
 		    </tr>
 		   </tbody>
 		   </table>
@@ -1283,18 +1293,6 @@ The same observed individual(s) have previously been observed already within the
 The individuals observed may be the same as individuals previously observed within the same survey, but perhaps not. This is inferred for all stationary surveys.
 
 **Syntax**: `@!`
-
-#### Value: <span style="color:purple">**same again**</span>
-
-The individual observed in a previous route section, or previous time interval, of the same survey is now recorded again. This allows you to record an accurate count of how many individuals of a species you detect in a route section or time interval, within a survey, while still tracking how many of these individuals you already counted in a previous section or interval. (I used to be be inconsistent here about whether I used "same" or "usual", usually I used "same", but it's really a third concept.)
-
-**Syntax**: `@@`
-
-#### Value: <span style="color:purple">**possibly same again**</span>
-
-Possibly the same individual observed in a previous route section, or time intervale, of the same survey is now recorded again.
-
-**Syntax**: `@@!`
 
 ### Type: **seen song call**
 
@@ -1708,6 +1706,43 @@ The individual(s) were definitely cultivated.
 
 **Syntax**: `$`
 
+### Type: **same individual again**
+
+"Same again" refers to individuals that were observed in a **different** interval or route section within the current survey. 
+
+This is a separate concept from "same or different individual" ("@" and "!"), which only refers to the current interval or route section within the survey. When both concepts are used, "same or different individual" should always follow "same again" in the syntax. 
+
+Note that there is no need to use "same again" when a survey is not subdivided into intervals and/or route sections.
+
+**Position in shorthand**: c07 count suffix
+
+<table class="table table-striped table-hover">
+		  <thead>
+		    <tr class="warning">
+		      <td width="40%"><strong>Example</strong></td>
+		      <td width="60%"><strong>Explanation</strong></td>
+		    </tr>
+		  </thead>
+		  <tbody>
+		    <tr>
+		      <td><code>blkb 1@@</code></td>
+		      <td>One blackbird seen, definitely a re-sighting of an individual seen/heard earlier in a different interval or route section within the same survey.</td>
+		    </tr>
+		   </tbody>
+		   </table>
+
+#### Value: <span style="color:purple">**same again**</span>
+
+The individual observed in a previous route section, or previous time interval, of the same survey is now recorded again. This allows you to record an accurate count of how many individuals of a species you detect in a route section or time interval, within a survey, while still tracking how many of these individuals you already counted in a previous section or interval. (I used to be be inconsistent here about whether I used "same" or "usual", usually I used "same", but it's really a third concept.)
+
+**Syntax**: `@@`
+
+#### Value: <span style="color:purple">**possibly same again**</span>
+
+Possibly the same individual observed in a previous route section, or time intervale, of the same survey is now recorded again.
+
+**Syntax**: `@@!`
+
 ### Type: **taxon uncertain added to count**
 
 A question mark (?) can be added after a count to indicate that the ID is uncertain.
@@ -1842,9 +1877,9 @@ used to separate comment text referring to different individual(s) indicated in 
 
 **Syntax**: `;`
 
-### Type: **usual individual(s)**
+### Type: **usual individual**
 
-The individual(s) observed are the usual individuals that have been observed  in previous surveys (typically on previous days).
+The individual(s) observed are the **usual** individuals that have also been observed in previous surveys (typically on previous days). These are notable individuals that are tracked across multiple surveys (e.g., flowering times of individual plants).
 
 **Position in shorthand**: c12 comment keyword
 
@@ -1858,7 +1893,7 @@ The individual(s) observed are the usual individuals that have been observed  in
 		  <tbody>
 		    <tr>
 		      <td><code>hh rr old sq (usual)</code></td>
-		      <td>The usual squashed hedgehog carcass on the right side of the road.</td>
+		      <td>The usual squashed hedgehog carcass on the right side of the road. This carcass has been counted on previous surveys.</td>
 		    </tr>
 		   </tbody>
 		   </table>
@@ -1868,6 +1903,12 @@ The individual(s) observed are the usual individuals that have been observed  in
 The observed individual has been observed in past surveys (e.g., a plant in the same location, or a banded bird).
 
 **Syntax**: `u`
+
+#### Value: <span style="color:purple">**unsure if usual**</span>
+
+The observed individual may have been observed in past surveys (e.g., a plant in the same location, or a banded bird) but it's not immediately clear at the time of counting whether this is the case (eg it's been a while and the observer has forgotten).
+
+**Syntax**: `un`
 
 ### Type: **vocalisation keyword**
 
@@ -2852,6 +2893,8 @@ The "at" symbol (@) is used to indicate that the same observed individual(s) hav
 
 **Position in shorthand**: p07 phenology abundance suffix
 
+**Fixed position**: right of same again
+
 <table class="table table-striped table-hover">
 		  <thead>
 		    <tr class="warning">
@@ -2862,7 +2905,7 @@ The "at" symbol (@) is used to indicate that the same observed individual(s) hav
 		  <tbody>
 		    <tr>
 		      <td><code>blkb 1@</code></td>
-		      <td>One blackbird seen, definitely a re-sighting of an individual seen/heard earlier in the same survey.</td>
+		      <td>One blackbird seen, definitely a re-sighting of an individual seen/heard earlier in the same survey interval/route section.</td>
 		    </tr>
 		   </tbody>
 		   </table>
@@ -2884,18 +2927,6 @@ The same observed individual(s) have previously been observed already within the
 The individuals observed may be the same as individuals previously observed within the same survey, but perhaps not. This is inferred for all stationary surveys.
 
 **Syntax**: `@!`
-
-#### Value: <span style="color:purple">**same again**</span>
-
-The individual observed in a previous route section, or previous time interval, of the same survey is now recorded again. This allows you to record an accurate count of how many individuals of a species you detect in a route section or time interval, within a survey, while still tracking how many of these individuals you already counted in a previous section or interval. (I used to be be inconsistent here about whether I used "same" or "usual", usually I used "same", but it's really a third concept.)
-
-**Syntax**: `@@`
-
-#### Value: <span style="color:purple">**possibly same again**</span>
-
-Possibly the same individual observed in a previous route section, or time intervale, of the same survey is now recorded again.
-
-**Syntax**: `@@!`
 
 ### Type: **seen song call**
 
@@ -3152,6 +3183,43 @@ The individual(s) were definitely cultivated.
 **Conditional**: ``
 
 **Syntax**: `$`
+
+### Type: **same individual again**
+
+"Same again" refers to individuals that were observed in a **different** interval or route section within the current survey. 
+
+This is a separate concept from "same or different individual" ("@" and "!"), which only refers to the current interval or route section within the survey. When both concepts are used, "same or different individual" should always follow "same again" in the syntax. 
+
+Note that there is no need to use "same again" when a survey is not subdivided into intervals and/or route sections.
+
+**Position in shorthand**: p07 phenology abundance suffix
+
+<table class="table table-striped table-hover">
+		  <thead>
+		    <tr class="warning">
+		      <td width="40%"><strong>Example</strong></td>
+		      <td width="60%"><strong>Explanation</strong></td>
+		    </tr>
+		  </thead>
+		  <tbody>
+		    <tr>
+		      <td><code>blkb 1@@</code></td>
+		      <td>One blackbird seen, definitely a re-sighting of an individual seen/heard earlier in a different interval or route section within the same survey.</td>
+		    </tr>
+		   </tbody>
+		   </table>
+
+#### Value: <span style="color:purple">**same again**</span>
+
+The individual observed in a previous route section, or previous time interval, of the same survey is now recorded again. This allows you to record an accurate count of how many individuals of a species you detect in a route section or time interval, within a survey, while still tracking how many of these individuals you already counted in a previous section or interval. (I used to be be inconsistent here about whether I used "same" or "usual", usually I used "same", but it's really a third concept.)
+
+**Syntax**: `@@`
+
+#### Value: <span style="color:purple">**possibly same again**</span>
+
+Possibly the same individual observed in a previous route section, or time intervale, of the same survey is now recorded again.
+
+**Syntax**: `@@!`
 
 ### Type: **count connector**
 
@@ -3423,9 +3491,9 @@ used to separate comment text referring to different individual(s) indicated in 
 
 **Syntax**: `;`
 
-### Type: **usual individual(s)**
+### Type: **usual individual**
 
-The individual(s) observed are the usual individuals that have been observed  in previous surveys (typically on previous days).
+The individual(s) observed are the **usual** individuals that have also been observed in previous surveys (typically on previous days). These are notable individuals that are tracked across multiple surveys (e.g., flowering times of individual plants).
 
 **Position in shorthand**: p13 phenology comment keyword
 
@@ -3439,7 +3507,7 @@ The individual(s) observed are the usual individuals that have been observed  in
 		  <tbody>
 		    <tr>
 		      <td><code>hh rr old sq (usual)</code></td>
-		      <td>The usual squashed hedgehog carcass on the right side of the road.</td>
+		      <td>The usual squashed hedgehog carcass on the right side of the road. This carcass has been counted on previous surveys.</td>
 		    </tr>
 		   </tbody>
 		   </table>
@@ -3449,6 +3517,12 @@ The individual(s) observed are the usual individuals that have been observed  in
 The observed individual has been observed in past surveys (e.g., a plant in the same location, or a banded bird).
 
 **Syntax**: `u`
+
+#### Value: <span style="color:purple">**unsure if usual**</span>
+
+The observed individual may have been observed in past surveys (e.g., a plant in the same location, or a banded bird) but it's not immediately clear at the time of counting whether this is the case (eg it's been a while and the observer has forgotten).
+
+**Syntax**: `un`
 
 ### Type: **comma environment code separator**
 
@@ -3823,9 +3897,9 @@ Carcass squashed.
 
 **Syntax**: `sq`
 
-### Type: **usual individual(s)**
+### Type: **usual individual**
 
-The individual(s) observed are the usual individuals that have been observed  in previous surveys (typically on previous days).
+The individual(s) observed are the **usual** individuals that have also been observed in previous surveys (typically on previous days). These are notable individuals that are tracked across multiple surveys (e.g., flowering times of individual plants).
 
 **Position in shorthand**: r07 roadkill comment keyword
 
@@ -3839,7 +3913,7 @@ The individual(s) observed are the usual individuals that have been observed  in
 		  <tbody>
 		    <tr>
 		      <td><code>hh rr old sq (usual)</code></td>
-		      <td>The usual squashed hedgehog carcass on the right side of the road.</td>
+		      <td>The usual squashed hedgehog carcass on the right side of the road. This carcass has been counted on previous surveys.</td>
 		    </tr>
 		   </tbody>
 		   </table>
@@ -3849,6 +3923,12 @@ The individual(s) observed are the usual individuals that have been observed  in
 The observed individual has been observed in past surveys (e.g., a plant in the same location, or a banded bird).
 
 **Syntax**: `u`
+
+#### Value: <span style="color:purple">**unsure if usual**</span>
+
+The observed individual may have been observed in past surveys (e.g., a plant in the same location, or a banded bird) but it's not immediately clear at the time of counting whether this is the case (eg it's been a while and the observer has forgotten).
+
+**Syntax**: `un`
 
 ### Type: **comma environment code separator**
 
