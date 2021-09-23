@@ -59,7 +59,7 @@ What am I on about?
 
 ### The Usual
 
-**The usual** is a particular individual animal, plant, or fungus that I've observed before in a **different** survey. It could be a banded bird I've seen in our garden on a previous day. It could be a plant I pass each day on my way to work, that I observe when it's flowering. It could be a the usual roadkill that I also passed yesterday. It might be the first time I’ve seen it today, but I have seen it before. It's the usual.
+**The usual** is a particular individual animal, plant, or fungus that I've observed before in a **different survey**. It could be a banded bird I've seen in our garden on a previous day. It could be a plant I pass each day on my way to work, that I observe when it's flowering. It could be a the usual roadkill that I also passed yesterday. It might be the first time I’ve seen it today, but I have seen it before. It's the usual.
 
 It's useful to repeatedly re-count the usuals. Knowing where and when I re-sight banded birds tells me about their territory size and dispersal and, eventually, how long they live for. It also lets me use [mark-recapture analysis](https://en.wikipedia.org/wiki/Mark_and_recapture) to estimate total abundance. 
 
@@ -80,7 +80,7 @@ In that example,  I've still seen two bellbirds in my count, one of which happen
 
 Any unique identifier of a usual individual is added in the comment of an observation. Here, it's the name "Dobby" (the person who banded bellbirds in our garden was a fan of Harry Potter). Dobby corresponds to a particular colour band combination on his legs, plus a unique banding code printed onto a metal band. These are included in my first observation of Dobby, but, after that, typing "Dobby" is quicker, and easier to remember, than the code or band colour combination.
 
-In the case of stationary organisms like plants and roadkill, often the location alone is sufficient to know which usual organism it is. When there are two or three usual plants at one location, the identifier can also be as simple as "eastern plant" and "western plant".
+In the case of stationary organisms, like plants and roadkill, often the location alone is sufficient to know which usual organism it is. When there are two or three usual plants at one location, the identifier can also be as simple as "eastern plant" and "western plant".
 
 <div class="indent">
 <figure>
@@ -95,7 +95,7 @@ In the case of stationary organisms like plants and roadkill, often the location
 
 **The same** in wild counts doesn't work like this. The same means something different to the usual.
 
-"The same" means that I've definitely just re-counted an individual animal, plant, or fungus, one that I've already observed before in the same survey. For example, I'm now doing another bird count in my garden, and I see the usual banded bellbird, and then, a minute later, I see the same banded bellbird back again.
+"The same" means that I've definitely just re-counted an individual animal, plant, or fungus, one that I've already observed before in the **same survey**. For example, I'm now doing another bird count in my garden, and I see the usual banded bellbird, and then, a minute later, I see the same banded bellbird back again.
 
 ```
 Bellb 1xmsu(Dobby)
