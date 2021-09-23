@@ -98,7 +98,7 @@ Are there four blackbirds? `blkb 4` is your count. But what about if there's abo
 
 If you get serious about your counting, it's useful to count in distance bands away from you. 
 
-With distance-sampling, some clever statistical methods can estimate how many individiuals of your species you missed (e.g., because they were obscured from view and didn't make noise when you passed). All it takes to do that is the assumption that you're less likely to miss organisms that are closer to you, and you won't miss any that are right on top of you. This statistics can then estimate the likely true density of your species at your sites, including the things you missed. That makes for more powerful comparisons of wild counts data among different places, times, and observers.
+With [distance-sampling](https://en.wikipedia.org/wiki/Distance_sampling), some clever statistical methods can estimate how many individiuals of your species you missed (e.g., because they were obscured from view and didn't make noise when you passed). All it takes to do that is the assumption that you're less likely to miss organisms that are closer to you, and you won't miss any that are right on top of you. This statistics can then estimate the likely true density of your species at your sites, including the things you missed. That makes for more powerful comparisons of wild counts data among different places, times, and observers.
 
 `blkb ln4` = four blackbirds on the left in the near distance band (5--20 m).
 
