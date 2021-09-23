@@ -178,7 +178,7 @@ To keep the syntax straight, these are always interpreted in the order of "is it
 <div class="indent">
 <figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/15737547095/" title="bellbird"><img src="https://live.staticflickr.com/7468/15737547095_dbfe9c5e40_z.jpg" width="640"  alt="bellbird"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>You don't need colour bands to know that you've seen the same individual already in your survey. In this case, this male bellbird has his forehead capped with orange pollen from New Zealand flax flowers. That acts as a useful marker for me to be able to be certain that I'm counting the a bird that I already counted in a previous survey interval. In other words, he's the same again.</figcaption>
+<figcaption>You don't need colour bands to know that you've seen the same individual already in your survey. In this case, this male bellbird has his forehead capped with orange pollen from New Zealand flax flowers. That acts as a useful marker for me to be able to be certain that I'm counting the same bird that I already counted in a previous survey interval. In other words, he's the same again.</figcaption>
 </figure>
 </div>
 
