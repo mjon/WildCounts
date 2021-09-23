@@ -139,7 +139,7 @@ So there you have it. The usual is really not the same. Both are exceptionally u
 
 ### The Same Again
 
-But wait, there's more! There's one extra special case here that you may also find useful in your counts. It's **the same again**. Just like the usual is not the same, then the same is not the same again. The concept of "same again" only applies when you're running a survey subdivided into separate route sections or time intervals. 
+But wait, there's more! There's one extra special case here that you may also find useful in your counts. It's **the same again**. Just like the usual is not the same, then the same is not the same again. The concept of "same again" only applies when you're running a survey **subdivided** into separate route sections or time intervals. 
 
 I find that it's often useful to separate my standard routes into sections, based on landmarks and  divisions between habitat types. Similarly, I divide my stationary and site exploring surveys into 20 minute intervals, to capture how nature is changing throughout the day.
 
