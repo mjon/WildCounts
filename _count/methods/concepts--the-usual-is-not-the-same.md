@@ -59,11 +59,11 @@ What am I on about?
 
 ### The Usual
 
-**The usual** is a particular individual animal, plant, or fungus that I've observed before in a different survey. It could be a banded bird I've seen in our garden on a previous day. It could be a plant I pass each day on my way to work, that I observe when it's flowering. It could be a the usual roadkill that I also passed yesterday. It might be the first time I’ve seen it today, but I have seen it before. It's the usual.
+**The usual** is a particular individual animal, plant, or fungus that I've observed before in a **different** survey. It could be a banded bird I've seen in our garden on a previous day. It could be a plant I pass each day on my way to work, that I observe when it's flowering. It could be a the usual roadkill that I also passed yesterday. It might be the first time I’ve seen it today, but I have seen it before. It's the usual.
 
 It's useful to repeatedly re-count the usuals. Knowing where and when I re-sight banded birds tells me about their territory size and dispersal and, eventually, how long they live for. It also lets me use [mark-recapture analysis](https://en.wikipedia.org/wiki/Mark_and_recapture) to estimate total abundance. 
 
-Knowing how often I overlook stationary usual things, like plants and roadkill, tells me how often I’m likely overlooking other things. That lets researchers account for these missed things (my "detection probability") when calculating patterns and trends from my wild counts).
+Knowing how often I overlook stationary usual things, like plants and roadkill, tells me how often I’m likely overlooking other things. That lets researchers account for these missed things (my "detection probability") when calculating patterns and trends from my wild counts.
 
 Knowing that the plant that started flowering in April this year is definitely the individual plant that started flowering in June last year is also useful. It shows me how flowering phenology is shifting. I'd be less sure that they'd been a real shift if they could have been different individual plants observed in flower each year.
 
