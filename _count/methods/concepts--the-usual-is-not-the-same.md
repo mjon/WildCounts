@@ -15,7 +15,7 @@ permalink: /count/concepts--the-usual-is-not-the-same/
 ---
 
 <div class="well">
-This is one of a series of in-depth dives into the counting concepts used in WildCounts. We take a close look at <a href="../wildcounts-shorthand-vocab/#type-usual-individual"><strong>usual individual</strong></a>, <a href="../wildcounts-shorthand-vocab/#type-same-or-different-individual"><strong>same or different individual</strong></a>, and <a href="../wildcounts-shorthand-vocab/#same-individual-again"><strong>same individual again</strong></a>. These let you stay focused in the moment, and save you from trying to keep track of the total number of individuals you've already counted.
+This is one of a series of in-depth dives into the counting concepts used in WildCounts. We take a close look at <a href="../wildcounts-shorthand-vocab/#type-usual-individual"><strong>usual individual</strong></a>, <a href="../wildcounts-shorthand-vocab/#type-same-or-different-individual"><strong>same or different individual</strong></a>, and <a href="../wildcounts-shorthand-vocab/#type-same-individual-again"><strong>same individual again</strong></a>. These let you stay focused in the moment, and save you from trying to keep track of the total number of individuals you've already counted.
 </div>
 
 When counting the wild, it's helpful to note which things you count are the usual, and which are the same. I do this so often that that there are symbols in the [WildCounts Shorthand](../wildcounts-shorthand-intro/) for each scenario: 
