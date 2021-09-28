@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chilean glory creeper, another incipient weed in Christchurch"
-sub_title: "Urban naturalists in New Zealand live inside a slow motion avalance of invading weeds spreading out from gardens, that will take centuries to complete. Documenting this invasion is important, as we can stop some of the worst new arrivals."
+sub_title: "Urban naturalists in New Zealand live inside a slow motion avalanche of invading weeds spreading out from gardens, that will take centuries to complete. Documenting this invasion is important, as we can stop some of the worst new arrivals."
 author: Jon Sullivan
 date:   2015-09-09 10:30:00 +1300
 meta: 

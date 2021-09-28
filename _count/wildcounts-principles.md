@@ -45,7 +45,7 @@ If you're not sure what one means, or are not sure why it's important, each is e
     </tr>
     <tr class="success">
       <td>8</td>
-      <td><strong>Never guess and never intepret; record exactly what you see or hear, including your uncertainty when you're not sure.</strong></td>
+      <td><strong>Never guess and never interpret; record exactly what you see or hear, including your uncertainty when you're not sure.</strong></td>
     </tr>
     <tr class="warning">
       <td>9</td>

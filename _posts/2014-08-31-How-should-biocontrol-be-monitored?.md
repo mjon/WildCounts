@@ -16,7 +16,7 @@ categorylink:
 
 ---
 
-I was at a workshop earlier this week on the biocontrol of New Zealand weeds. Weed biocontrol is where a specialist insect or pathogen from overseas is released, after lots of safety testing, in an attempt to control a weed. Sometimes biocontrol is spectacularly successful. Other times it's less effective. However, taken as a whole, the endeavor is an extraordinarily cost effective way to deal with bad weeds. 
+I was at a workshop earlier this week on the biocontrol of New Zealand weeds. Weed biocontrol is where a specialist insect or pathogen from overseas is released, after lots of safety testing, in an attempt to control a weed. Sometimes biocontrol is spectacularly successful. Other times it's less effective. However, taken as a whole, the endeavour is an extraordinarily cost effective way to deal with bad weeds. 
 
 You might be surprised that the detailed impacts of biocontrol agents on their target weeds, and the wider environment, are usually poorly known. That's because government agencies and industry fund the identification, testing, and releasing of agents, but rarely fund studies of impacts. Most funders prefer to invest their money in the next biocontrol programme for the next most pressing weed. Agents that establish either cause big, obvious weed declines, or they don't. Dice rolled. Move on.
 
@@ -71,7 +71,7 @@ In contrast, population modelling can be built using parameters, gathered from j
 
 Using monitoring to document biocontrol agent impacts in weeds takes much longer than population modeling. It is complicated by the many other environmental changes in land use, climate, and species invasions, that can affect weeds. Without a **lot** of replication, the exact impacts of the agent on the weed can be hard to unravel from the noise of everything else that's changing.
 
-Does this mean that there's no need to monitor? No! Monitoring can reveal how the weed, the biocontrol agent, and the environments and species they interact with, are all changing in time and space. This level of complexity in nature is difficult (and expensive) to predict with mathematical population modelling, if that’s even possible. It's better to monitor those changes and build statistical models that can summarize and extrapolate the trends and patterns into other places and times.
+Does this mean that there's no need to monitor? No! Monitoring can reveal how the weed, the biocontrol agent, and the environments and species they interact with, are all changing in time and space. This level of complexity in nature is difficult (and expensive) to predict with mathematical population modelling, if that’s even possible. It's better to monitor those changes and build statistical models that can summarise and extrapolate the trends and patterns into other places and times.
 
 An excellent example of the value of monitoring weed control is an [insightful study by Jane Barton and colleagues in Auckland](doi:10.1016/j.biocontrol.2006.09.010 ). They studied the recovery of stream side vegetation in Auckland's Waitakere Ranges after the successful biocontrol of the weed mistflower ([*Ageratina riparia*](https://inaturalist.nz/taxa/158112-Ageratina-riparia)). Mistflower is a fast growing perennial that had taken over stream banks and open areas. 
 

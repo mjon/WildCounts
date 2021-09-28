@@ -60,6 +60,6 @@ Ernle Clark is one of the last patches of Heathcote River floodplain habitat and
 <div class="indent">
 <figure>
 <a href="http://www.flickr.com/photos/mollivan_jon/8231810578/" title="P1070190 by Mollivan Jon, on Flickr"><img src="http://farm9.staticflickr.com/8207/8231810578_6ec2cb750e_z.jpg" width="640" alt="Ernle Clark Reserve"></a>
-<figcaption>The Millienium plantings of native trees under a canopy of heritage ash and oak trees and sycamores, in Ernle Clark Reserve. This is now a favourite place for native birds like fantails, grey warblers, bellbirds, and sometimes kingfishers,  shining cuckoos and kereru.</figcaption>
+<figcaption>The Millennium plantings of native trees under a canopy of heritage ash and oak trees and sycamores, in Ernle Clark Reserve. This is now a favourite place for native birds like fantails, grey warblers, bellbirds, and sometimes kingfishers,  shining cuckoos and kereru.</figcaption>
 </figure>
 </div>

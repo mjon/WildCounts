@@ -41,7 +41,7 @@ Much has already been written about bird recording methods, internationally and 
 
 A five-minute bird count is about as simple (and as tricky) as it sounds. The big trick is knowing your birds well enough to count them all. Ornithologists count all bird species in five minutes; that takes a **substantial** amount of skill and experience in habitats like forests where most birds are heard but not seen. 
 
-If bird densities are to be estimated at each site, they've also got to estimate the distance to each bird in the five minutes. This "[distance sampling](https://en.wikipedia.org/wiki/Distance_sampling)" allows a statistician to estimate how the chances of seeing or hearing a bird of a particular species declines with distance, and to use this callibration to convert bird counts into estimates of bird densities. 
+If bird densities are to be estimated at each site, they've also got to estimate the distance to each bird in the five minutes. This "[distance sampling](https://en.wikipedia.org/wiki/Distance_sampling)" allows a statistician to estimate how the chances of seeing or hearing a bird of a particular species declines with distance, and to use this calibration to convert bird counts into estimates of bird densities. 
 
 There is also a mobile equivalent of a five minute bird count called a **slow walk transect**. You walk a line, slowly, recording all of the birds you see or hear. Again, distance sampling is optional but allows densities to be estimated from your counts.
 

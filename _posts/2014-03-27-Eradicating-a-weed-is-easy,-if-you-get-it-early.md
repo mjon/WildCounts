@@ -33,7 +33,7 @@ I've not found any more plants yet. Canterbury doesn't need another weed so I'd
 </figure>
 </div>
 
-You can add observations and photos to <a href="http://www.naturewatch.org.nz">iNaturalist NZ</a> of anything unusual that you find. iNaturalist NZ is an online nature watching community that uses the open source <a href="http://inaturalist.org">iNaturalist</a> system to open people's eyes to the species around them. Since we launched 18 months ago, more than 50 species not previously known to be in New Zealand have been observed, including a new native species of moss and the recent new incursion of the giant willow aphid to NZ that was first observed on iNaturalist NZ in December.
+You can add observations and photos to <a href="https://inaturalist.nz">iNaturalist NZ</a> of anything unusual that you find. iNaturalist NZ is an online nature watching community that uses the open source <a href="http://inaturalist.org">iNaturalist</a> system to open people's eyes to the species around them. Since we launched 18 months ago, more than 50 species not previously known to be in New Zealand have been observed, including a new native species of moss and the recent new incursion of the giant willow aphid to NZ that was first observed on iNaturalist NZ in December.
 
 #### Update 9 September 2021
 

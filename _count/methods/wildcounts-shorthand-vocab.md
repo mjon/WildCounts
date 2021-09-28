@@ -487,7 +487,7 @@ It is not only unclear if the identification is correct, but it is also unclear 
 
 ### Type: **non-vocalisation noise**
 
-Sometimes I hear sign of an animal nearby but don't see it. For example, the rustle of a blackbird foraging in leaf litter nearby, or the wing whoosh of a kerery flying past, or, when in the USA, the sound of a woodpecker banging on a tree. These are added as modifiers after the taxon name (they don't have codes because they are used infrequently).
+Sometimes I hear sign of an animal nearby but don't see it. For example, the rustle of a blackbird foraging in leaf litter nearby, or the wing whoosh of a kereru flying past, or, when in the USA, the sound of a woodpecker banging on a tree. These are added as modifiers after the taxon name (they don't have codes because they are used infrequently).
 
 **Position in shorthand**: c02 count taxon modifier
 

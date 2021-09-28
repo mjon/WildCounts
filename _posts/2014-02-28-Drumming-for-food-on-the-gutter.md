@@ -21,7 +21,7 @@ Here's one of the natural history highlights of this years' <a href="http://www.
 <div class="indent">
 <figure>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/mollivan_jon/15706350974/" title="2014-02-03 at 20-35-38"><img src="https://live.staticflickr.com/7481/15706350974_d257b18a77_z.jpg" width="640" height="360" alt="2014-02-03 at 20-35-38"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>A South Island robin rattling on the roofing iron to flush out insects from the gutter to eat. If the movie doesn't play here on your browser, you can <a href="https://www.flickr.com/photos/mollivan_jon/15706350974/">click through to the orginal on Flickr</a>.</figcaption>
+<figcaption>A South Island robin rattling on the roofing iron to flush out insects from the gutter to eat. If the movie doesn't play here on your browser, you can <a href="https://www.flickr.com/photos/mollivan_jon/15706350974/">click through to the original on Flickr</a>.</figcaption>
 </figure>
 </div>
 

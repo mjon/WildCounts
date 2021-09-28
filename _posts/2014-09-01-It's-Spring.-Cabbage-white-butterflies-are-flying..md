@@ -21,7 +21,7 @@ I saw my first cabbage white butterfly ([*Pieris rapae*](https://inaturalist.nz/
 <div class="indent">
 <figure>
 <a href="https://www.flickr.com/photos/mollivan_jon/6681834885/" title="cabbage white butterfly by Mollivan Jon, on Flickr"><img src="https://live.staticflickr.com/7159/6681834885_efb129a890_z.jpg" width="640" alt="Close up of the head of a cabbage white butterfly"></a>
-<figcaption>Cabbage white butterflies are now common in many countries around the world, which makes them an interesting choice for wild counting. I count most of my cabbage white butterflies in New Zealand, where I live, but I've also counted them in Australia and California, like this butterfly here from Los Alamitos, California (see the <a ahref="https://www.inaturalist.org/observations/47003">observation on iNaturalist</a>).</figcaption>
+<figcaption>Cabbage white butterflies are now common in many countries around the world, which makes them an interesting choice for wild counting. I count most of my cabbage white butterflies in New Zealand, where I live, but I've also counted them in Australia and California, like this butterfly here from Los Alamitos, California (see the <a href="https://www.inaturalist.org/observations/47003">observation on iNaturalist</a>).</figcaption>
 </figure>
 </div>
 

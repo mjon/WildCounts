@@ -50,7 +50,7 @@ It was growing in a shaded part of the garden under an old Corsican pine, east o
 
 I've pulled out or uprooted everything I could find but it's likely that some of it has survived. I'll keep an eye on it. At least this patch won't seed this year. 
 
-The bigger question is where it came from. It produces large amounts of wind-dispersed seeds so the parent of this patch could be quite a distance away. [Update: After asking around, I learned from Lincoln University’s horticulture lecturer Roy Edwards that there has been one established old plant growing through a shelterbelt across the road from the university for many years. It's not clear why it's spreading now.]
+The bigger question is where it came from. It produces large amounts of wind-dispersed seeds so the parent of this patch could be quite a distance away. [Update: After asking around, I learned from Lincoln University’s horticulture lecturer Roy Edwards that there has been one established old plant growing through a shelter-belt across the road from the university for many years. It's not clear why it's spreading now.]
 
 <div class="indent">
 <figure>

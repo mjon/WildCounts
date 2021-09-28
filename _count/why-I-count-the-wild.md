@@ -88,7 +88,7 @@ Counting the wild is so much more than just doing something that's important. It
 <div class="indent">
 <figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51428420093/" title="Tawhairaunui track"><img src="https://live.staticflickr.com/65535/51428420093_360a551505_z.jpg" width="640"  alt="Tawhairaunui track"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>A forest track is more than a pretty wall of green or an interesting place to find natural curiousities. It is a library of natural stories, some ancient and some modern. With study and practice, you can learn how to read those stories. These stories are also still being written, especially as the world is steered into unprecedented environmental conditions. You can use wild counts to tell these stories of nature's change where you live.</figcaption>
+<figcaption>A forest track is more than a pretty wall of green or an interesting place to find natural curiosities. It is a library of natural stories, some ancient and some modern. With study and practice, you can learn how to read those stories. These stories are also still being written, especially as the world is steered into unprecedented environmental conditions. You can use wild counts to tell these stories of nature's change where you live.</figcaption>
 </figure>
 </div>
 

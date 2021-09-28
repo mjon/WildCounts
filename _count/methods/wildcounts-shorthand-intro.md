@@ -106,7 +106,7 @@ I use a few other letters and keyboard characters to code for other important fe
     </tr>
     <tr>
       <td><code>bellb 1xma*1j</code></td>
-      <td>If two of the same species are together (within 20 m of each other), I combine them with an asterisk (<code>*</code>) on the same line. In this example, there's an adult male (<code>xma</code>) bellird with a juvenile (<code>j</code>).</td>
+      <td>If two of the same species are together (within 20 m of each other), I combine them with an asterisk (<code>*</code>) on the same line. In this example, there's an adult male (<code>xma</code>) bellbird with a juvenile (<code>j</code>).</td>
     </tr>
     <tr>
       <td><code>bellb 1v&1v</code></td>
@@ -192,9 +192,9 @@ In this case, the kowhai tree has flowers visited **by** (`b`) the bellbird. So 
 </figure>
 </div>
 
-Several interaction types are available, all of which are abbreviated by two letters. These  are decomposition (`de`), epihyte (`ep`), flower visit (`fl`), frugivory (`fr`), hemiparasitism (`hp`), herbivory (`he`), infection (`in`), parasitism (`pa`), parasitoid (`pd`), predation (`pr`), and seed predation (`se`). Pathogens are included in "infection"". For cases when the type of interaction isn't clear, there's also host (`ht`). 
+Several interaction types are available, all of which are abbreviated by two letters. These  are decomposition (`de`), epiphyte (`ep`), flower visit (`fl`), frugivory (`fr`), hemiparasitism (`hp`), herbivory (`he`), infection (`in`), parasitism (`pa`), parasitoid (`pd`), predation (`pr`), and seed predation (`se`). Pathogens are included in "infection"". For cases when the type of interaction isn't clear, there's also host (`ht`). 
 
-Note that these abbrevations are the first two letters of a word, except when two interaction types would otherwise have the same code (so only parasite is `pa` and parasitoid is instead be `pd`), or when that second letter is "o" or "b" (to reduce the chances of an unrecoverable typo).
+Note that these abbreviations are the first two letters of a word, except when two interaction types would otherwise have the same code (so only parasite is `pa` and parasitoid is instead be `pd`), or when that second letter is "o" or "b" (to reduce the chances of an unrecoverable typo).
 
 --- 
 
@@ -208,7 +208,7 @@ Each species needs a short name that's unique in your shorthand and is easy to r
 
 The WildCounts shorthand, plus my [Filemaker Go WildCounts app](../wildcounts-app-FilemakerGo/) that datetime-stamps and geotags each shorthand line, has allowed me to turn my life into one big transect. My counts are recorded in a combination of typed shorthand and spoken audio notes (which then need transcription, but that's another method). This lets me average over 3,000 observations a week. I am now the stenographer of my local wild.
 
-I imagine this might all seem a little overwhelming at first, but you don't need to use all of the compexity, especially at first. What's important is that it's very fast to enter. Just like a court stenographer, I've been doing this for long enough that my fingers know it all and I can quickly enter in wild counts as I go.
+I imagine this might all seem a little overwhelming at first, but you don't need to use all of the complexity, especially at first. What's important is that it's very fast to enter. Just like a court stenographer, I've been doing this for long enough that my fingers know it all and I can quickly enter in wild counts as I go.
 
 To dive in to the complete WildCounts shorthand vocabulary, see [wildcounts shorthand](../wildcounts-shorthand-vocab/).
 

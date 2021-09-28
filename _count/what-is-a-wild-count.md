@@ -37,7 +37,7 @@ In universities and research institutes, this kind of data is also called ecolog
 
 ### Wild counts can be simple to do
 
-As the above butterfly example shows, making wild counts is also super simple to do. Strangely, despite this, hardly anybody does it. Most naturalists are still out there, as they were centuries ago,  following their curiousity and recording whatever grabs their interest. The WildCounts website wants to change that. It wants to help nature enthusiasts add a dash of consistency to their nature watching.
+As the above butterfly example shows, making wild counts is also super simple to do. Strangely, despite this, hardly anybody does it. Most naturalists are still out there, as they were centuries ago,  following their curiosity and recording whatever grabs their interest. The WildCounts website wants to change that. It wants to help nature enthusiasts add a dash of consistency to their nature watching.
 
 There is one group of naturalists that has been collecting wild counts data for a long time: birders. A birder is making wild counts whenever they head out with the intention of recording all birds, they record exactly where they went, and when, with what visual aids (like binoculars or a spotting scope), and who they were with. Birders have been using [eBird](https://ebird.org) to amass tens of millions of wild counts of birds. 
 
