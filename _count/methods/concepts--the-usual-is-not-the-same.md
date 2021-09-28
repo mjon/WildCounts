@@ -118,7 +118,7 @@ Bellb 1!
 
 In that example, my total count is **2--3** bellbirds, because the third bird is definitely different and the second bird may be different.
 
-Importantly, I'm not entering a conservative count of 2. I'm also not entering an optimistic count of 3. I am only entering what I found, which is that I made three sightings of 2 or 3 birds. One of the key [WildCounts principles](../wildcounts-priciples/) is "Never guess and never intepret". If a researcher wants to be conservative and use 2, or optimistic and use 3, in their analyses later, that's their choice. I've just recorded exactly what I saw.
+Importantly, I'm not entering a conservative count of 2. I'm also not entering an optimistic count of 3. I am only entering what I found, which is that I made three sightings of 2 or 3 birds. One of the key [WildCounts principles](../wildcounts-priciples/) is "Never guess and never interpret". If a researcher wants to be conservative and use 2, or optimistic and use 3, in their analyses later, that's their choice. I've just recorded exactly what I saw.
 
 To save time, whenever I'm doing stationary counts, everything is `@!` by default, unless I specify otherwise for a particular observation. This means that when I’m stationary, I just need to tag those observations that are definitely the same (`!`), or definitely different (`@`). Otherwise they'll all be maybe the same.
 
@@ -184,7 +184,7 @@ To keep the syntax straight, these are always interpreted in the order of "is it
 
 ---
 
-### Never guess and never intepret
+### Never guess and never interpret
 
 These concepts are useful for counting the wild as it is, without interpretation, while accurately capturing your uncertainty when you're not sure.
 
