@@ -29,7 +29,7 @@ This is one of a series of in-depth dives into the counting concepts used in Wil
 
 Guess what? **No, don't!** When you’re counting the wild, you should never, ever, **EVER** guess. Guesses + data = data you can’t trust. Data you can't trust are pretty much worthless.
 
-It's very important when counting the wild to keep your observations separate from your interpretation. Honestly recorded pure observations are data that can be accurately compared across observers. They can also be compared within one observer’s observations across many years. Recording your interpretations as your counts pollutes your data and riddles these comparisons with doubt.
+It's very important, when counting the wild, to keep your observations separate from your interpretation. Honestly recorded pure observations are data that can be accurately compared across observers. They can also be compared within one observer’s observations across many years. Recording your interpretations as your counts pollutes your data and riddles these comparisons with doubt.
 
 I don't trust wild counts that don’t contain uncertainty. It means that uncertainty in what was seen or heard has been replaced with the observer’s interpretations of what they thought they likely saw or heard. That applies just as much to counts you made ten years ago as counts made by other people. There’s no easy way to later untangle reality from mistakes made in interpretations. They need to be kept separate right from the start.
 
@@ -101,7 +101,7 @@ For example, I'm in a car and see something black and flat whooshing by me on th
 
 `blkb?? lv unsure sq`
 
-It's on the left verge (`lv`), I'm unsure whether the roadkill is less than 24 hours old (`unsure`) and it was squashed (`sq`). Note the double question mark here in `blkb??`. That's quite different from `blkb?`, which would have meant a blackbird or similar looking bird, but definitely a bird. In other words, `?` means that there was a roadkill but I'm unsure about the species. `??` means only that there might have been a roadkill.
+It's on the left verge (`lv`), I'm unsure whether the roadkill is less than 24 hours old (`unsure`) and it was squashed (`sq`). Note the double question mark here in `blkb??`. That's quite different from `blkb?`, which would have meant a blackbird or similar looking bird, but definitely a roadkill. In other words, `?` means that there was a roadkill but I'm unsure about the species. In contrast, `??` means that there might have been a roadkill.
 
 <div class="indent">
 <figure>
@@ -110,10 +110,14 @@ It's on the left verge (`lv`), I'm unsure whether the roadkill is less than 24 h
 </figure>
 </div>
 
+### Embrace the uncertainty
+
 This might all sound a bit silly and pedantic. If you're experienced enough to know that it was probably a blackbird, why not just write down "blackbird"? Does it really matter whether or not you record when you're uncertain about your identifications? 
 
-In some cases, it probably doesn't matter much. Real population trends, if strong and consistent, and will emerge from your data regardless. Any extra noise caused by varying, inaccurate interpretations will only mean that counts need to be collected for a little longer to reveal reliable population trends.
+In some cases, it might not matter much. Real population trends, if strong and consistent, and will emerge from your data regardless. Any extra noise caused by varying, inaccurate interpretations will only mean that counts need to be collected for a little longer to reveal reliable population trends.
 
-However, in other cases, it definitely will matter. Fake trends can emerge caused by gradual changes in observers’ skills. Real trends can be obscured by the noise of variability in the accuracy of observers’ interpretations. Importantly, you won't be able to tell whether or not your trends are real or fake. That is, unless your observations and interpretations are always kept separate.
+However, in other cases, it definitely will matter. Fake trends can emerge caused by gradual changes in observers’ skills. Real trends can be obscured by the noise of variability in the accuracy of observers’ interpretations. 
 
-It's also just easier to honestly record exactly what you observe. You don't need to get distracted considering what species something you saw, or heard, probably was. Just write down that you're unsure, with `?` or `??`, and keep on counting the wild.
+Importantly, you won't be able to tell whether or not your trends are real or fake. That is, unless your observations and interpretations are always kept separate.
+
+It's also just easier to honestly record exactly what you observe. You don't need to get distracted considering what your best estimate is of what the species was that you just saw, or heard. Just write down that you're unsure, with `?` or `??`, and keep on counting the wild.
