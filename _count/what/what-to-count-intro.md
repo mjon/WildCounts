@@ -16,11 +16,11 @@ permalink: /count/what-to-count-intro/
 
 ## Natural born counters
 
-Inside each one of us is an exceptional hunter gather. Our ancestors needed extraordinary powers of observation to thrive. They walked, or sailed, into the unknown and made it their own. That required working out how to use the wild species around them, and to anticipate where and when those species could be found. This hard won knowledge still forms the foundations of the foods, fibres, and pharmaceuticals driving our civilization today.
+Inside each one of us is an exceptional hunter gather. Our ancestors needed extraordinary powers of observation to thrive. They walked, or sailed, into the unknown and made it their own. That required working out how to use the wild species around them, and to anticipate where and when those species could be found. This hard won knowledge still forms the foundations of the foods, fibres, and pharmaceuticals driving our civilisation today.
 
 These skills of discovery are still needed today. We need them to understand and anticipate the changes in wild nature being caused by our actions. While we have reached all of the farthest reaches of our planet, the near future is an increasingly unfamiliar unknown. To successfully navigate the world through this period of rapid and unpredictable environmental change, we need **your** powers of observation. Machines can help but the personal dedication and expertise of people, like you, are essential.
 
-Natural ecosystems are complex; forecasting how the nature in your neighborhood is reacting to environmental changes requires counts. Counting the wild can also be a satisfying, and entertaining, as it connects you into the rhythms, and drama, of your local wild nature. 
+Natural ecosystems are complex; forecasting how the nature in your neighbourhood is reacting to environmental changes requires counts. Counting the wild can also be a satisfying, and entertaining, as it connects you into the rhythms, and drama, of your local wild nature. 
 
 But what, exactly, should you count?
 
@@ -64,7 +64,7 @@ There will be a lot of easy-to-find species in your area that won't be monitored
 
 Some species are quick and easy to reliably identify by sight, or sound. Others are not. The ideal species for personal wild counts are easy to notice and quick and easy to identify. Quick to identify means that you can do so with a short look or brief listen. Easy to identify means that you can be confident that your quick identification is correct. There are lots of species like this, and most are not being formally monitored by professionals.
 
-There is a trick here though. A quick and easy to identify species in one place can be difficult to identify elsewhere. It depends on how closely it resembles the other species around it. For example, identifying a monarch butterfly in New Zealand is quick and easy. Any large and mostly orange butterfly in New Zealand can only be a monarch, and an accurate identification can be made with a glimpse. If you were in Mexico, however, it would take much more attention to separate true monarchs from similar looking relatives and monarch mimics.
+There is a trick here though. A quick and easy to identify species in one place can be difficult to identify elsewhere. It depends on how closely it resembles the other species around it. For example, identifying a [monarch butterfly](https://www.inaturalist.org/taxa/48662-Danaus-plexippus) in New Zealand is quick and easy. Any large and mostly orange butterfly in New Zealand can only be a monarch, and an accurate identification can be made with a glimpse. If you were in Mexico, however, it would take much more attention to separate true monarchs from [similar looking relatives and monarch mimics](https://www.naturalista.mx/taxa/48662-Danaus-plexippus#similar-tab).
 
 ### Not crazily abundant
 
@@ -74,7 +74,7 @@ Species that are very abundant take a lot of effort to count regularly and are b
 
 If that's your thing, it would be worth looking at image recognition software that can count and identify the ducks in photos you take. You could always take a photo of the duck pond each day you pass, safe in the knowledge that, now or in the near future, you'll be able to automatically count and identify them all with a computer.
 
-The opposite of crazily abundant is stupidly rare. If you were only counting a rare species, you'd have to write down zeros at most places you go. Still, rare species benefit from every count that can be made. The best way to keep yourself entertained is to also consistently count a more common species. As you do that, check a box that you would have recorded your chosen rare species, had they been present. 
+The opposite of crazily abundant is stupidly rare. If you were only counting a rare species, you'd have to write down zeros at most places you go. Still, rare species benefit from every count that can be made. The best way to keep yourself entertained is to also consistently count a more common species. As you do that, check a box that indicates that you would have recorded your chosen rare species, had they been present. 
 
 That's useful to do both for endangered rare native species and recently arrived and spreading invasive species. In both cases, monitoring rare species needs a lot of people out counting. If you're hooked on a rare species, be sure to encourage your friends to join in and spread the word. There's likely a local natural history society that can help you to coordinate your activities. 
 
