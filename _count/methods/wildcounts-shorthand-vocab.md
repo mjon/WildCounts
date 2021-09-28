@@ -3,7 +3,7 @@ title:  "WildCounts Shorthand vocab"
 sub_title: "A complete vocubulary for WildCounts Shorthand."
 author: Jon Sullivan
 date:   2021-09-14 10:30:00 +1300
-last_modified_at:   2021-09-23 10:30:00 +1300
+last_modified_at:   2021-09-28 10:30:00 +1300
 meta: 
   - Count methods
 categorylink:
@@ -43,7 +43,7 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
    1. Type: [**taxon uncertain added to name**](#type-taxon-uncertain-added-to-name)
 
-      * Values: [question mark](#value-question-mark), 
+      * Values: [question mark](#value-question-mark), [double question mark](#value-double-question-mark), 
 
    1. Type: [**non-vocalisation noise**](#type-non-vocalisation-noise)
 
@@ -143,7 +143,7 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
    1. Type: [**taxon uncertain added to count**](#type-taxon-uncertain-added-to-count)
 
-      * Values: [question mark](#value-question-mark), 
+      * Values: [question mark](#value-question-mark), [double question mark](#value-double-question-mark), 
 
    1. Type: [**vocalisation continued uninterrupted for more than 10 seconds**](#type-vocalisation-continued-uninterrupted-for-more-than-10-seconds)
 
@@ -199,7 +199,7 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
    1. Type: [**taxon uncertain added to name**](#type-taxon-uncertain-added-to-name)
 
-      * Values: [question mark](#value-question-mark), 
+      * Values: [question mark](#value-question-mark), [double question mark](#value-double-question-mark), 
 
    1. Type: [**position left right**](#type-position-left-right)
 
@@ -239,7 +239,7 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
    1. Type: [**taxon uncertain added to count**](#type-taxon-uncertain-added-to-count)
 
-      * Values: [question mark](#value-question-mark), 
+      * Values: [question mark](#value-question-mark), [double question mark](#value-double-question-mark), 
 
    1. Type: [**vocalisation continued uninterrupted for more than 10 seconds**](#type-vocalisation-continued-uninterrupted-for-more-than-10-seconds)
 
@@ -305,7 +305,7 @@ Note that a complete spreadsheet version of all of this syntax (and an archive o
 
    1. Type: [**taxon uncertain added to name**](#type-taxon-uncertain-added-to-name)
 
-      * Values: [question mark](#value-question-mark), 
+      * Values: [question mark](#value-question-mark), [double question mark](#value-double-question-mark), 
 
    1. Type: [**road positions**](#type-road-positions)
 
@@ -478,6 +478,12 @@ A question mark (?) can be added directly after a taxon name to indicate that th
 When placed after a taxon name, a question mark means that the identification is uncertain. Other plausible taxon IDs should be listed in the comments prefaced by " or ".
 
 **Syntax**: `?`
+
+#### Value: <span style="color:purple">**double question mark**</span>
+
+It is not only unclear if the identification is correct, but it is also unclear if the observation was of a living organism at all. (This level of uncertainty is most often encountered with roadkill observed from a moving car.)
+
+**Syntax**: `??`
 
 ### Type: **non-vocalisation noise**
 
@@ -1770,6 +1776,12 @@ When placed after a count, a question mark means that the identification of the 
 
 **Syntax**: `?`
 
+#### Value: <span style="color:purple">**double question mark**</span>
+
+It is not only unclear if the identification is correct, but it is also unclear if the observation was of a living organism at all. (This level of uncertainty is most often encountered with roadkill observed from a moving car.)
+
+**Syntax**: `??`
+
 ### Type: **vocalisation continued uninterrupted for more than 10 seconds**
 
 If individual(s), heard vocalising but not seen, vocalise uninterrupted for more than 10 seconds, then this is indicated in their count. If this is not indicated, vocalisations are implied to have been continuous for 10 seconds or less.
@@ -2354,6 +2366,12 @@ When placed after a taxon name, a question mark means that the identification is
 
 **Syntax**: `?`
 
+#### Value: <span style="color:purple">**double question mark**</span>
+
+It is not only unclear if the identification is correct, but it is also unclear if the observation was of a living organism at all. (This level of uncertainty is most often encountered with roadkill observed from a moving car.)
+
+**Syntax**: `??`
+
 ### Type: **position left right**
 
 Where the counted individual(s) are relative to the motion of the observer.
@@ -2857,6 +2875,12 @@ A question mark (?) can be added after a count to indicate that the ID is uncert
 When placed after a count, a question mark means that the identification of the species counted is uncertain. Other plausible taxon IDs should be listed in the comments prefaced by " or ".
 
 **Syntax**: `?`
+
+#### Value: <span style="color:purple">**double question mark**</span>
+
+It is not only unclear if the identification is correct, but it is also unclear if the observation was of a living organism at all. (This level of uncertainty is most often encountered with roadkill observed from a moving car.)
+
+**Syntax**: `??`
 
 ### Type: **vocalisation continued uninterrupted for more than 10 seconds**
 
@@ -3647,6 +3671,12 @@ A question mark (?) can be added directly after a taxon name to indicate that th
 When placed after a taxon name, a question mark means that the identification is uncertain. Other plausible taxon IDs should be listed in the comments prefaced by " or ".
 
 **Syntax**: `?`
+
+#### Value: <span style="color:purple">**double question mark**</span>
+
+It is not only unclear if the identification is correct, but it is also unclear if the observation was of a living organism at all. (This level of uncertainty is most often encountered with roadkill observed from a moving car.)
+
+**Syntax**: `??`
 
 ### Type: **road positions**
 
