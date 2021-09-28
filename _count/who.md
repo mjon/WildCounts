@@ -17,14 +17,14 @@ Since I started, I’ve made well over a million observations. These are consist
 
 One of my motivations for making the WildCounts website is to share how, and why, I do this. I’d be stoked if other people gave it a go.
 
-I’m based in Aotearoa New Zealand so there’s a Kiwi flavor to a lot of the wild counts on this site, although I've also counted the wild in California and Australia. When I’m not out counting the wild, you can find me at work as an ecologist at [Lincoln University, New Zealand](http://www.lincoln.ac.nz), or online at [iNaturalist NZ](https://inaturalist.nz) helping others to identify the wild things they find.
+I’m based in Aotearoa New Zealand, so there’s a Kiwi flavour to a lot of the wild counts on this site, although I've also counted the wild in California and Australia. When I’m not out counting the wild, you can find me at work as an ecologist at [Lincoln University, New Zealand](http://www.lincoln.ac.nz), or online at [iNaturalist NZ](https://inaturalist.nz) helping others to identify the wild things they find.
 
 I’m always keeping an keen eye on the rest of the world. Please get in touch if you're keen to help or know of someone counting the wild that should be profiled here. You can reach me via email at <a href="mailto:jon.sullivan@lincoln.ac.nz">jon.sullivan@lincoln.ac.nz</a>, you can message me on iNaturalist ([@jon_sullivan](https://inaturalist.nz/people/1115)), and I'm on Twitter at [@joncounts](https://twitter.com/joncounts).
 
 <div class="indent">
 <figure>
 <img src="/assets/img/20191122_My_week_in_observations.png" width="90%" alt="a map on one week's observations">
-<figcaption>Here are my wild counts from the week from 16 November 2019. That's bike rides along four routes between my home in Christchurch city (upper right) to Lincoln town where I work (lower left), plus two runs in the Christchurch hills, and a bike into the city centre for a meeting. Each point is one datetime-stamped geotagged distance-sampled observation made on my iPhone. In total, in this one week I made about 6,577 observations ("about" because some of the points are still untranscribed audio notes that can contain more than one species observation). I made a more counts this week than usual because it was the week of my monthly long hill ride.</figcaption>
+<figcaption>Here are my wild counts from the week from 16 November 2019. That's bike rides along four routes between my home in Christchurch city (upper right) to Lincoln town where I work (lower left), plus two runs in the Christchurch hills, and a bike into the city centre for a meeting. Each point is one datetime-stamped geotagged distance-sampled observation made on my iPhone. In total, in this one week I made about 6,577 observations. That's "about" because some of the points are still untranscribed audio notes that can contain more than one species observation. (I made more counts this week than usual because it was the week of my monthly long hill ride.)</figcaption>
 </figure>
 </div>
 
