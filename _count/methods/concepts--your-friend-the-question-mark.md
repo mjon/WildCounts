@@ -33,7 +33,7 @@ It's very important, when counting the wild, to keep your observations separate 
 
 I don't trust wild counts that don’t contain uncertainty. It means that uncertainty in what was seen or heard has been replaced with the observer’s interpretations of what they thought they likely saw or heard. That applies just as much to counts you made ten years ago as counts made by other people. There’s no easy way to later untangle reality from mistakes made in interpretations. They need to be kept separate right from the start.
 
-In wild counts free of interpretation, two equally diligent observers with differing identification skills should record completely consistent data, if they independently count the same moment in the wild. The more skilled observer’s observations might be more precise than the others’, but they should be equally accurate. That doesn't happen when observations are polluted with observers’ interpretations of what they probably saw.
+In wild counts that are free of interpretation, two equally diligent observers with differing identification skills should record completely consistent data, if they independently count the same moment in the wild. The more skilled observer’s observations might be more precise than the others’, but they should be equally accurate. That doesn't happen when observations are polluted with observers’ interpretations of what they probably saw.
 
 If you're counting species, and you’re not sure what something is, the only correct thing to do is write down that you're not sure. Don't skip it and don't guess. If it was probably a [blackbird](https://www.inaturalist.org/taxa/12716-Turdus-merula), you've got to write that it was probably a blackbird. You **don't** write that it **was** a blackbird.
 
