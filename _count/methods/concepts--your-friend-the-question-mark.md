@@ -55,11 +55,11 @@ If I'm 99% sure that it's a blackbird, and I state with certainty that it's a bl
 
 My job when making wild counts is to honestly record exactly what I observe, nothing less and nothing more.
 
-By adding a question mark in this way, when I'm analysing blackbird trends, researchers can look at the trends both including and not including my questionable birds. If we get the same result both times, we can be confident that a trend is robust.
+By adding a question mark in this way, when we're analysing blackbird trends, researchers can look at the trends both including and not including my questionable birds. If we get the same result both times, we can be confident that a trend is robust.
 
 But, wait, you might say, why are you even bothering to count birds if you can't identify a blackbird? True, they are distinctive birds, but that's not always the case. If you're counting every individual of a species, no matter how easy it is to identify, sometimes all you'll get is a brief glimpse. 
 
-For example, that happens when I'm moving along a transect and I glimpse the brown back of what looks like a female blackbird, foraging in the shade under some vegetation. In Christchurch, New Zealand, that’s going to be a [blackbird](https://www.inaturalist.org/taxa/12716-Turdus-merula), or perhaps a [song thrush](https://www.inaturalist.org/taxa/12748-Turdus-philomelos). Thrushes are lighter brown on the back (and very speckled on the breast) but that's not always clear from a view of the back in the shade. If I had time and binoculars, I would be able to work it out. If I don't have time, I can write the following and keep moving.
+For example, that happens when I'm moving along a transect and I glimpse the brown back of what looks like a female blackbird, foraging in the shade under some vegetation. In Christchurch, New Zealand, that’s going to be a [blackbird](https://www.inaturalist.org/taxa/12716-Turdus-merula), or perhaps a [song thrush](https://www.inaturalist.org/taxa/12748-Turdus-philomelos). Thrushes are lighter brown on the back (and very speckled on the breast) but that's not always clear from a view of the back in the shade. If I had time and binoculars, I could work it out. If I don't have time, or if it flies off, I can write the following and keep moving.
 
 `Blkb 1? (or thrush)`
 
@@ -72,11 +72,11 @@ For example, that happens when I'm moving along a transect and I glimpse the bro
 </figure>
 </div>
 
-Usually, I can see enough to enter a count as the species I think it is, just with a question mark. Other times, though, I may be less sure, such as when a small brownish bird flies quickly overhead. It can be too quick to see clearly, catch in binoculars, or photograph. At least it was definitely a bird. Like other birders, I use a generic code for these small birds. Mine is  `sbb`. One small mostly brown [passerine](https://en.wikipedia.org/wiki/Passerine) bird flying over my path at my mid-distance, 20—80 m away, would be recorded as the following.
+Usually, I can see enough to enter a count as the species I think it is, just with a question mark. Other times, though, I may be less sure, such as when a small brownish bird flies quickly overhead. It can be too quick to see clearly, catch in binoculars, or photograph. At least it was definitely a bird. Like other birders, I use a generic code for these small birds. Mine is  `sbb`. One small mostly brown [passerine](https://en.wikipedia.org/wiki/Passerine) bird, flying over my path at my mid-distance, 20—80 m away, would be recorded as the following.
 
 `sbb om1f`
 
-The important thing for monitoring is that I didn't ignore what I saw but instead record it honestly. During analyses, researchers can then ensure that the trends they uncover are robust to substituting my `sbb` with various plausible small birds previously seen in this area.
+The important thing for monitoring is that I didn't ignore what I saw but instead recorded it honestly. During analyses, researchers can then ensure that the trends they uncover are robust to substituting my `sbb` with various plausible small birds previously seen in this area.
 
 Ensure that the Future You can trust the Now You 100% when you're counting the wild. Embrace the question mark!
 
