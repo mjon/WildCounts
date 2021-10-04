@@ -46,6 +46,42 @@ In the [**Data**](https://wildcounts.org/datapage/home/) section, you'll find ou
 
 **WildCounts** went live in September 2021, but includes plenty of older content that's previously only been offline. It's a work in progress and content will be regularly added and improved. Your feedback and suggestions are welcome (see [Who](https://wildcounts.org/count/who/)).
 
+### Updates
+
+The **WildCounts** website is being constructed online, and there's a lot more content to come. Here are the latest additions.
+
+<div class="panel panel-warning">
+<div class="panel-heading">
+<h3 class="panel-title">New on WildCounts</h3>
+</div>
+<div class="panel-body">
+    <p>
+    <strong>5 October 2021</strong>: Blog: <a href="../blog/2018/05/25/Less-than-2-of-my-observations-have-a-photo-and-that's-a-good-thing/">Less than 2% of my observations have a photo, and that's a good thing!</a>
+    </p>
+    <p>
+    <strong>29 September 2021</strong>: Count concept: <a href="../count/concepts--your-friend-the-question-mark/">Your friend, the question mark</a>.
+    </p>
+    <p>
+    <strong>22 September 2021</strong>: Count concept: <a href="../count/concepts--the-usual-is-not-the-same/">The usual is not the same</a>.
+    </p>
+    <p>
+    <strong>19 September 2021</strong>: Blog: <a href="../blog/2018/05/20/Now-You-meet-Future-You/">Now You meet Future You</a>.
+    </p>
+    <p>
+    <strong>18 September 2021</strong>: Count methods: <a href="../count/wildcounts-shorthand-vocab/">WildCounts Shorthand vocab</a>.
+    </p>
+    <p>
+    <strong>18 September 2021</strong>: Count methods: <a href="../count/wildcounts-shorthand-intro/">Introducing WildCounts Shorthand</a>.
+    </p>
+    <p>
+    <strong>12 September 2021</strong>: Blog: <a href="../blog/2018/06/07/A-workflow-for-bulk-adding-annotated-photos-to-iNaturalist/">A workflow for bulk adding annotated photos of wild species to iNaturalist</a>.
+    </p>
+    <p>
+    <strong>11 September 2021</strong>: WildCounts website live!
+    </p>
+</div>
+</div>
+
 ---
 
 <figure>
