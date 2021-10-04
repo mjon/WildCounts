@@ -60,7 +60,7 @@ The Theme is based around a Docs page and a Blog. I wanted Docs to be called Cou
 
 ## Added a new docs-like section
 
-WildCounts is based around three major sections, **Count** (with tips for how to count the wild), **Blog** (stories about counting the wild and using wild counts knowledge), and **Data** (how to get wild counts data, wrangle it, and analyse it). The Jekyll Docs theme is set up with just **Docs** and **Blog**. After renaming Docs to Count (above), I then set up a third section, which I've called datapages (since data already has a meaning in Jekyll, such as the `_data` folder).
+WildCounts is based around three major sections, **Count** (with tips for how to count the wild), **Blog** (stories about counting the wild and using wild counts knowledge), and **Data** (how to get wild counts data, wrangle it, and analyse it). The Jekyll Docs theme is set up with just **Docs** and **Blog**. After renaming Docs to Count (above), I then set up a third section, which I've called `datapages` (since data already has a meaning in Jekyll, such as the `_data` folder).
 
 I need to change quite a few things to set up a new Docs-like section. Here are those things.
 
