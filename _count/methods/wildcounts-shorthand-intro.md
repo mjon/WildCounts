@@ -15,6 +15,8 @@ tags:
 permalink: /count/wildcounts-shorthand-intro/
 ---
 
+---
+
 It can take lots of counts to reveal the stories of the wild. To make wild counting a habit, it's got to be super quick and easy.
 
 I've spent the last 15 years refining a method I can use to quickly count a standard suite of species everywhere I go. I flirted with app forms with clever buttons and dropdown lists. In the end I couldn't beat the speed of typing condensed shorthand text. 
@@ -202,7 +204,7 @@ I maintain a list of all my abbreviations for each of the species I regularly re
 
 For plant species that I count a lot, I often use the botanical six-letter code of the first three letters of the genus and species names. For example, I use **SOPmic** for [*Sophora microphylla*](https://inaturalist.nz/taxa/210947-Sophora-microphylla), Canterbury’s native tree kowhai, which is easy to identify when it's in wild places far from gardens. 
 
-Each species needs a short name that's unique in your shorthand and is easy to remember and quick to type. Your short names don't need to be universally unique, as they gets expanded out to the full species name before the data is shared. It's important to maintain an up-to-date list mapping each short name onto a full scientific name.
+Each species needs a short name that's unique in your shorthand and is easy to remember and quick to type. Your short names don't need to be universally unique, as they get expanded out to the full species name before the data is shared. It's important to maintain an up-to-date list mapping each short name onto a full scientific name.
 
 --- 
 

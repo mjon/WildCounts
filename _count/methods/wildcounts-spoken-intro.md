@@ -14,6 +14,8 @@ tags:
 permalink: /count/wildcounts-spoken-intro/
 ---
 
+---
+
 **WildCounts Spoken** is a set of standard words and phrasing for speaking wild counts into your phone as datetime-stamped geotagged audio notes. You can then transcribe them using Amazon Transcribe and convert them into formatted wild counts data. 
 
 Details coming soon.

@@ -9,6 +9,8 @@ meta:
 permalink: /count/methods-intro/
 ---
 
+---
+
 ## How would you like to count?
 
 There are many ways to count the wild. Which one suits you best depends on you and your species.

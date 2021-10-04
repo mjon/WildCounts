@@ -16,6 +16,8 @@ tags:
 permalink: /count/wildcounts-app-FilemakerGo/
 ---
 
+---
+
 For the first 12 years of my wild counting, I (awkwardly) wrote down nature notes on small squares of paper, either mounted on my bike’s handlebars, or (less awkwardly) in my hand while running. I counted birds, butterflies, mammals, and roadkill, and the location and phenology of selected plants. It was a lot to fit onto small pieces of paper so I noted very few details about each observation (typically just the count per section of my route). Afterwards I’d decipher my writing and enter the counts into a [Filemaker](https://www.filemaker.com/) database on my computer.
 
 Keep in mind that I started doing this before the invention of the smart phone and smart phone apps. It wasn't an elegant solution, but it worked.
