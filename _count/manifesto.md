@@ -17,7 +17,7 @@ It's all because we, humans, are the most amazingly successful big animal the Ea
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/27867921914/" title="San Gabriel River"><img src="https://farm9.staticflickr.com/8651/27867921914_43cf5761e5_k.jpg" width="640" alt="San Gabriel River, California"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/27867921914/" title="San Gabriel River"><img src="https://farm9.staticflickr.com/8651/27867921914_43cf5761e5_k.jpg" width="90%" alt="San Gabriel River, California"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>Many natural landscapes have been modified massively by human development, like this view north up the San Gabriel River in Long Beach, Southern California. It's amazing how many wild species can still be found, and counted, in heavily modified places like this. How these species are faring remains largely unknown for most places.</figcaption>
 </figure>
 </div>
@@ -46,7 +46,7 @@ WildCounts says **enough already**! We shouldn't wait for cheap gadgets to do it
 
 <div class="indent">
 <figure>
-<iframe src="/assets/leaflet_maps/SanGabrielObsMap.html" width="100%" height="500" seamless=""></iframe>
+<iframe src="/assets/leaflet_maps/SanGabrielObsMap.html" width="90%" height="500" seamless=""></iframe>
 <figcaption>Here are the <a href="https://www.inaturalist.org/observations?nelat=33.80469722382091&nelng=-118.084228296557&place_id=any&swlat=33.79489015445072&swlng=-118.09600855855041">observations from iNaturalist</a> of the same stretch of heavily modified San Gabriel River photographed above. You can find wild nature anywhere! The map shows the 55 species that had been recorded by 22 January 2019. Each pin colour is a different species. Click on any pin to link back to its observation page on iNaturalist.org. This is a great start but there are not nearly enough observations, and they've not been counted consistently enough, nor for long enough, to know what the trends are in the species living here.</figcaption>
 </figure>
 </div>
