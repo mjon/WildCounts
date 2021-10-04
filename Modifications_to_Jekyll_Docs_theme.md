@@ -127,7 +127,7 @@ To include the content of the new section in the site search, I also needed to m
     {% assign p = site.datapage | where:"url", item_url | first %}
     {
       "title": "{{ p.title }}",
-      "url": "{{ p.url | relative_url }}"
+      "url": "{{ p.url | relative_url }}",
       "sub_title": "{{ p.sub_title | escape }}"
     },
   {% endfor %}
