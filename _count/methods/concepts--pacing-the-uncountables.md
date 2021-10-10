@@ -42,7 +42,7 @@ Two consecutive patches on the left with (`*`) one patch on the right would be e
 
 `Amanita muscaria lc2p*rc1p`
 
-When I note any of these patches on my iPhone, it geotags their locations and date-time stamped the observation. It's as easy as that.
+When I note any of these patches on my iPhone, it geotags their locations and date-time stamps the observation. It's as easy as that.
 
 <div class="indent">
 <figure>
