@@ -3,7 +3,7 @@ title:  "Your friend, the question mark"
 sub_title: "Why, and how, to honestly record uncertainty in your wild counts."
 author: Jon Sullivan
 date:   2018-05-21 17:30:00 +1300
-last_modified_at:   2021-09-28 17:30:00 +1300
+last_modified_at:   2021-10-10 17:30:00 +1300
 meta: 
   - Wild Counting
 categorylink:

@@ -56,6 +56,9 @@ The **WildCounts** website is being constructed online, and there's a lot more c
 </div>
 <div class="panel-body">
     <p>
+    <strong>10 October 2021</strong>: Count concept: <a href="../count/concepts--pacing-the-uncountables/">Pacing the uncountables</a>.
+    </p>
+    <p>
     <strong>5 October 2021</strong>: Blog: <a href="../blog/2018/05/25/Less-than-2-of-my-observations-have-a-photo-and-that's-a-good-thing/">Less than 2% of my observations have a photo, and that's a good thing!</a>
     </p>
     <p>
