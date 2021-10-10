@@ -56,25 +56,25 @@ The **WildCounts** website is being constructed online, and there's a lot more c
 </div>
 <div class="panel-body">
     <p>
-    <strong>10 October 2021</strong>: Count concept: <a href="../count/concepts--pacing-the-uncountables/">Pacing the uncountables</a>.
+    <strong>10 October 2021</strong>: Count concept: <a href="../concepts--pacing-the-uncountables/">Pacing the uncountables</a>.
     </p>
     <p>
     <strong>5 October 2021</strong>: Blog: <a href="../blog/2018/05/25/Less-than-2-of-my-observations-have-a-photo-and-that's-a-good-thing/">Less than 2% of my observations have a photo, and that's a good thing!</a>
     </p>
     <p>
-    <strong>29 September 2021</strong>: Count concept: <a href="../count/concepts--your-friend-the-question-mark/">Your friend, the question mark</a>.
+    <strong>29 September 2021</strong>: Count concept: <a href="../concepts--your-friend-the-question-mark/">Your friend, the question mark</a>.
     </p>
     <p>
-    <strong>22 September 2021</strong>: Count concept: <a href="../count/concepts--the-usual-is-not-the-same/">The usual is not the same</a>.
+    <strong>22 September 2021</strong>: Count concept: <a href="../concepts--the-usual-is-not-the-same/">The usual is not the same</a>.
     </p>
     <p>
     <strong>19 September 2021</strong>: Blog: <a href="../blog/2018/05/20/Now-You-meet-Future-You/">Now You meet Future You</a>.
     </p>
     <p>
-    <strong>18 September 2021</strong>: Count methods: <a href="../count/wildcounts-shorthand-vocab/">WildCounts Shorthand vocab</a>.
+    <strong>18 September 2021</strong>: Count methods: <a href="../wildcounts-shorthand-vocab/">WildCounts Shorthand vocab</a>.
     </p>
     <p>
-    <strong>18 September 2021</strong>: Count methods: <a href="../count/wildcounts-shorthand-intro/">Introducing WildCounts Shorthand</a>.
+    <strong>18 September 2021</strong>: Count methods: <a href="../wildcounts-shorthand-intro/">Introducing WildCounts Shorthand</a>.
     </p>
     <p>
     <strong>12 September 2021</strong>: Blog: <a href="../blog/2018/06/07/A-workflow-for-bulk-adding-annotated-photos-to-iNaturalist/">A workflow for bulk adding annotated photos of wild species to iNaturalist</a>.
