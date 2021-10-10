@@ -22,7 +22,7 @@ This is one of a series of in-depth dives into the counting concepts used in Wil
 
 ---
 
-Sometimes it all gets too much. I don't mean this in a hectic modern life way (some days it might be easier living in a pinball machine). I mean counting abundant and widespread wild species, or species that occur occassionally in dense and tangled patches. For example, say that I've predetermined that I'll count all the big (&ge; 6 cm diameter) mushrooms I see along a walk. That's something I've been doing for several years. Then, I reach a big patch of hundreds of mushrooms of one species. 
+Sometimes it all gets too much. I don't mean this in a hectic modern life way (some days it might be easier living in a pinball machine). I mean counting abundant and widespread wild species, or species that occur occasionally in dense and tangled patches. For example, say that I've predetermined that I'll count all the big (&ge; 6 cm diameter) mushrooms I see along a walk. That's something I've been doing for several years. Then, I reach a big patch of hundreds of mushrooms of one species. 
 
 I don't have time to stop and count hundreds of mushrooms! I'm going on a walk. Still, I've pre-determined that I'll count all of that species, so I have to count them. What can a dedicated counter of the wild do?
 
@@ -51,7 +51,7 @@ When I note any of these patches on my iPhone, it geotags their locations. It's 
 </figure>
 </div>
 
-This method lets me keep on walking while still documenting, in a consistent way, the abundance of each big mushroom species along my walk, including where each patch was found. Below is an example of where I've found *Amanita muscaria* along my city to hills run transect in Otautahi Christchurch, New Zealand. I recorded these using the WildCounts 10-pace section method.
+This method lets me keep walking, while still documenting, in a consistent way, the abundance of each big mushroom species along my walk, including where each patch was found. Below is an example of where I've found *Amanita muscaria* along my city to hills run transect in Otautahi Christchurch, New Zealand. I recorded these using the WildCounts 10-pace section method.
 
 <div class="indent">
 <figure class="align-center">
