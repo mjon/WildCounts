@@ -26,7 +26,7 @@ Sometimes it all gets too much. I don't mean this in a hectic modern life way (s
 
 I don't have time to stop and count hundreds of mushrooms! I'm going on a walk. Still, I've pre-determined that I'll count all of that species, so I have to count them. What can a dedicated counter of the wild do?
 
-My solution to this conundrum is WildCounts' <a href="../wildcounts-shorthand-vocab/#type-10-pace-section-counts"><strong>10-pace-section-counts</strong></a>. I don't count every individual mushroom I see. Instead, I record everywhere I see each species in 10-pace (approximately 10 m) sections, optionally restricted to within 5 m either side of my route (the [WildCounts "close" distance](../wildcounts-shorthand-vocab/#type-geotagged-distance-band)).
+My solution to this conundrum is WildCounts' <a href="../wildcounts-shorthand-vocab/#type-10-pace-section-counts"><strong>10-pace-section-counts</strong></a>. I don't count every individual mushroom I see. Instead, I record everywhere I see each species in 10-pace (approximately 10 m) sections, usually restricted to within 5 m either side of my route (the [WildCounts "close" distance](../wildcounts-shorthand-vocab/#type-geotagged-distance-band)).
 
 I use `p` in WildCounts shorthand for 10-pace sections.  For example, one 10-pace patch (`1p`) of fly agaric ([*Amanita muscaria*](https://inaturalist.nz/taxa/48715-Amanita-muscaria)) within 5 m (`c` for close) on the left (`l`) would be entered like this:
 
