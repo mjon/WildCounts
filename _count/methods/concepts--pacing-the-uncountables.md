@@ -1,6 +1,6 @@
 ---
 title:  "Pacing the uncountables"
-sub_title: "When you're on the move and your species is common or occurs in high densities, you can always count the wild in 10 metre (10 pace) patches."
+sub_title: "When you're on the move and your species is common or sometimes occurs in high densities, you can always count the wild in 10 metre (10 pace) patches."
 excerpt: "Recording in 10-pace sections along transects, is, for me, an excellent balance between the intensity of recording everything in a few plots (quadrats) versus ad hoc collation of a site species lists. Of course, it works best when you're not trying to record every plant, but instead are recording a subset of species of interest, like woody weeds."
 author: Jon Sullivan
 date:   2018-06-01 17:30:00 +1300
