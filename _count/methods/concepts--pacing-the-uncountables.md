@@ -42,7 +42,7 @@ Two consecutive patches on the left with (`*`) one patch on the right would be e
 
 `Amanita muscaria lc2p*rc1p`
 
-When I note any of these patches on my iPhone, it geotags their locations. It's as easy as that.
+When I note any of these patches on my iPhone, it geotags their locations and date-time stamped the observation. It's as easy as that.
 
 <div class="indent">
 <figure>
@@ -93,12 +93,12 @@ These examples show a strong pattern of native species dominating in the Christc
 
 Mapping out stationary species, like plants and fungi, in 10-pace patches, is easy to do when species are easy to recognise. A lot of species are easy to recognise with a little practice. This means that wild counts can map these species over long transects, which means that a lot of data can be gathered to document their habitat preferences. That's especially helpful for uncommon species that are only occasionally encountered. 
 
-Since it's easy to do, this can be repeated as frequently as is appropriate for the species. That can document seasonal as well as long-term changes. Long-lived perennial plants can be counted once a year, while fungi benefit from counting weekly, since they're so ephemeral. I map out senecios at least once a month, because a lot of people regard them as ugly and herbicide them or pull them out, leading to high turnover in suburban areas, plus they're wind-dispersed and fast growing and so can spread quickly.
+Since it's easy to do, this can be repeated as frequently as is appropriate for the species. That can document seasonal as well as long-term changes. Long-lived perennial plants can be counted once a year, while fungi benefit from weekly counting, since they're so ephemeral (most of the time there's none to count). I map out senecios at least once a month, because a lot of people regard them as ugly and herbicide them or pull them out, leading to high turnover in suburban areas, plus they're wind-dispersed and fast growing and so can spread quickly.
 
 A lot of plant ecology and vegetation science is based on data collected from infrequently revisited permanent quadrats and short transects. Those methods are necessary when the goal is to document **all** plant species at a site. However, if you're particularly interested in just a few species, there is no need to restrict yourself to meticulous surveys of just a few quadrats and short transects. 
 
-With the  WildCounts 10-pace section method, your chosen species can be mapped out in detail over large transects, and re-mapped frequently to document seasonal and long-term changes. I see this level of large-scale, high-frequency recording, of some species, as an important and useful complement to traditional quadrat and transect data.
+With the  WildCounts 10-pace section method, your chosen species can be mapped out in detail over large transects, and re-mapped frequently to document seasonal and long-term changes. I see this level of large-scale, high-frequency recording, of some species, as an important and useful complement to traditional quadrat and transect surveys.
 
 #### Pace yourself
 
-So, there you have it. If your species get so dense that it's not practical to count them individually, consider counting in 10-pace sections. In our age of rapid environmental change, this makes wild counts that are repeatable in the future, by you or someone else. That's how we’ll uncover trends and understand the diversity of changes happening in nature.
+So, there you have it. If your species get so dense that it's not practical to count them individually, consider counting in 10-pace sections. In our age of rapid environmental change, it's important that we make wild counts that are repeatable in the future, by use or others. That's how we’ll uncover trends and understand the diversity of changes happening in nature.
