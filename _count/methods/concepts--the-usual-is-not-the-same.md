@@ -18,6 +18,8 @@ permalink: /count/concepts--the-usual-is-not-the-same/
 This is one of a series of in-depth dives into the counting concepts used in WildCounts. We take a close look at <a href="../wildcounts-shorthand-vocab/#type-usual-individual"><strong>usual individual</strong></a>, <a href="../wildcounts-shorthand-vocab/#type-same-or-different-individual"><strong>same or different individual</strong></a>, and <a href="../wildcounts-shorthand-vocab/#type-same-individual-again"><strong>same individual again</strong></a>. These let you stay focused in the moment, and save you from trying to keep track of the total number of individuals you've already counted.
 </div>
 
+---
+
 When counting the wild, it's helpful to note which things you count are the usual, and which are the same. I do this so often that that there are symbols in the [WildCounts Shorthand](../wildcounts-shorthand-intro/) for each scenario: 
 
 <table class="table table-striped table-hover">
@@ -84,7 +86,7 @@ In the case of stationary organisms, like plants and roadkill, often the locatio
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51506915450/" title="bellbird"><img src="https://live.staticflickr.com/65535/51506915450_1164e94bfd_z.jpg" width="640"  alt="bellbird"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51506915450/" title="bellbird"><img src="https://live.staticflickr.com/65535/51506915450_1164e94bfd_z.jpg" width="90%"  alt="bellbird"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>This is Dobby, the banded male bellbird. He was banded in our garden on 2 March 2017 (by an ornithologist licensed to band birds), and he regularly visited our garden's sugar water feeders for several years. We last saw him on 8 February 2020. When there are distinctive individuals, whether banded or with natural markings, it is useful to track their resightings in wild counts.</figcaption>
 </figure>
 </div>
@@ -130,7 +132,7 @@ So there you have it. The usual is really not the same. Both are exceptionally u
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/26317640446/" title="bellbird"><img src="https://live.staticflickr.com/1532/26317640446_a8f45658f4_z.jpg" width="640"  alt="bellbird"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/26317640446/" title="bellbird"><img src="https://live.staticflickr.com/1532/26317640446_a8f45658f4_z.jpg" width="90%"  alt="bellbird"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>This male New Zealand bellbird, or korimako, is in full song. Estimating exactly how many birds are around you singing, while you're counting, can involve mental gymnastics and guesswork. It's much better just to record each bird as you hear it, and tag is as definitely different, maybe the same, or definitely the same. When your count is done, it's then possible to tally up the minimum and maximum number of birds you heard.</figcaption>
 </figure>
 </div>
@@ -177,7 +179,7 @@ To keep the syntax straight, these are always interpreted in the order of "is it
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/15737547095/" title="bellbird"><img src="https://live.staticflickr.com/7468/15737547095_dbfe9c5e40_z.jpg" width="640"  alt="bellbird"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/15737547095/" title="bellbird"><img src="https://live.staticflickr.com/7468/15737547095_dbfe9c5e40_z.jpg" width="90%"  alt="bellbird"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>You don't need colour bands to know that you've seen the same individual already in your survey. In this case, this male bellbird has his forehead capped with orange pollen from New Zealand flax flowers. That acts as a useful marker for me to be able to be certain that I'm counting the same bird that I already counted in a previous survey interval. In other words, he's the same again.</figcaption>
 </figure>
 </div>

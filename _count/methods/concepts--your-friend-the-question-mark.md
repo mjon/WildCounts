@@ -67,7 +67,7 @@ For example, that happens when I'm moving along a transect and I glimpse the bro
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/14933274352/" title="blackbird?"><img src="https://live.staticflickr.com/3844/14933274352_7729df4caa_z.jpg" width="640"  alt="blackbird?"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/14933274352/" title="blackbird?"><img src="https://live.staticflickr.com/3844/14933274352_7729df4caa_z.jpg" width="90%"  alt="blackbird?"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>When you're counting every individual you see of your chosen species, sometimes you'll get only a glimpse.</figcaption>
 </figure>
 </div>
@@ -105,7 +105,7 @@ It's on the left verge (`lv`), I'm unsure whether the roadkill is less than 24 h
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/18486840511/" title="blackbird?"><img src="https://live.staticflickr.com/353/18486840511_c30bbdedfe_z.jpg" width="640"  alt="blackbird?"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/18486840511/" title="blackbird?"><img src="https://live.staticflickr.com/353/18486840511_c30bbdedfe_z.jpg" width="90%"  alt="blackbird?"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>When you're counting roadkill, sometimes something will whiz by you and you'll think it might have been a roadkill animal but then it might have just been some animal-shaped rubbish.</figcaption>
 </figure>
 </div>

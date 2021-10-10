@@ -36,7 +36,7 @@ Note that this version is optimised for the small screen on my iPhone 4s then or
 
 <div class="indent">
 <figure>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51427945171/" title="heading home counting the wild using my iPhone"><img src="https://live.staticflickr.com/65535/51427945171_796a5e0070_z.jpg" width="640"  alt="heading home counting the wild using my iPhone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/51427945171/" title="heading home counting the wild using my iPhone"><img src="https://live.staticflickr.com/65535/51427945171_796a5e0070_z.jpg" width="90%"  alt="heading home counting the wild using my iPhone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <figcaption>My iPhone mounted on my bike handlebars on my evening ride home from work. Open is my <a href="../wildcounts-app-FilemakerGo/">FileMaker Go database</a> that I use to count assorted wild species along my route. My phone is connected to a <a href="../gear-up-intro/#hands-free-bluetooth-microphone">Sony bluetooth receiver</a> that receives audio from the bluetooth microphone attached to my bike helmet.</figcaption>
 </figure>
 </div>
