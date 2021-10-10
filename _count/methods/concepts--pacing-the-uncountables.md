@@ -101,4 +101,4 @@ With the  WildCounts 10-pace section method, your chosen species can be mapped o
 
 #### Pace yourself
 
-So, there you have it. If your species get so dense that it's not practical to count them individually, consider counting in 10-pace sections. In our age of rapid environmental change, it's important that we make wild counts that are repeatable in the future, by use or others. That's how we’ll uncover trends and understand the diversity of changes happening in nature.
+So, there you have it. If your species get so dense that it's not practical to count them individually, consider counting in 10-pace sections. In our age of rapid environmental change, it's important that we make wild counts that are repeatable in the future, by us and others. That's how we’ll uncover trends and understand the diversity of changes happening in nature.
