@@ -40,7 +40,7 @@ How many photos I took was tightly constrained by the cost of each photo. By the
 
 That was all an unavoidable motivator for sharpening my photography skills. That included mastering the mental gymnastics of balancing aperture and shutter speed in each photo, skills which I still use daily. I won't horrify you with the complexity of the manual exposures on my macro photographs with a non-TTL (Through The Lens) flash. I used to have a hand-written table of settings taped to the back of my flash unit. (Kids these days don't know how lucky they are!)
 
-My first digital camera was a [Sony Mavica MVC-FD7](https://en.wikipedia.org/wiki/Sony_Mavica), which stored its photos on floppy disks. I got a small grant from [Sigma Xi](https://www.sigmaxi.org/) in 1998 to buy it for my PhD research. A floppy disk camera sounds antiquated now, and the photo resolution was awful (640 by 480 pixels), but it was completely revolutionary for me. Until then, I used my film SLR for the exceptional photos, and I drew everything else in my field notebooks. Yes, **until digital photography, drawings were my digital photos**. 
+My first digital camera was a [Sony Mavica MVC-FD7](https://en.wikipedia.org/wiki/Sony_Mavica), which stored its photos on floppy discs. I got a small grant from [Sigma Xi](https://www.sigmaxi.org/) in 1998 to buy it for my PhD research. A floppy disc camera sounds antiquated now, and the photo resolution was awful (640 by 480 pixels), but it was completely revolutionary for me. Until then, I used my film SLR for the exceptional photos, and I drew everything else in my field notebooks. Yes, **until digital photography, drawings were my digital photos**. 
 
 <div class="indent">
 <figure>
