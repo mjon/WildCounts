@@ -69,7 +69,9 @@ Fast forward to now and my [Nikon D800](https://en.wikipedia.org/wiki/Nikon_D800
 </figure>
 </div>
 
-The amount of progress in photography that's happened in the past 30 years is astonishing. The combination of affordable and high quality digital photography, plus affordable large capacity storage, on computers and now in the cloud, plus online photo sharing websites, is unquestionably a **revolution**. If I'd taken as many photos in 1998 as I took in 2018, but with slide film, that would have cost more than 65% of my annual PhD student income (before tax). Understandably, I preferred to spend my money on food and accommodation. Now, there are no obstacles to photographing anything, or everything, that I find. Being able to record and recall so much more of what I find has made me see the natural world differently, in much more detail.
+The amount of progress in photography that's happened in the past 30 years is astonishing. The combination of affordable and high quality digital photography, plus affordable large capacity storage, on computers and now in the cloud, plus online photo sharing websites, is unquestionably a **revolution**. If I'd taken as many photos in 1998 as I took in 2018, but with slide film, that would have cost more than 65% of my annual PhD student income (before tax). Understandably, I preferred to spend my money on food and accommodation.
+
+Now, there are no obstacles to photographing anything, or everything, that I find. Being able to record and recall so much more of what I find has made me see the natural world differently, in much more detail.
 
 Photography has become a powerful tool for documenting the details of nature’s changes. What's now needed is many more people interested enough to take and share their geotagged photos of wild species and places, using sites like [iNaturalist](https://inaturalist.org), and to add more consistency in how and when those photos are taken.
 
