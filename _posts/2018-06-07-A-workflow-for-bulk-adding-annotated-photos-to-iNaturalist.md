@@ -63,7 +63,7 @@ I don't necessarily need to do this for my iPhone photos as the iPhone automatic
 
 <div class="indent">
 <figure>
-<a href="../../../../../assets/img/darktable_geotagging.png"><img src="../../../../../assets/img/darktable_geotagging.png" width="95%" alt="geotagging with darktable"></a>
+<a href="../../../../../assets/img/Darktable_geotagging.png"><img src="../../../../../assets/img/Darktable_geotagging.png" width="95%" alt="geotagging with darktable"></a>
 <figcaption>To geotag all my photos from a trip in darktable, all I need to do is tap the "apply GPX track file..." button, then browse to find the right GPX file on my computer (which I have downloaded from my iPhone or GPS unit), then tap "Open". Darktable automatically figures out where each photo was and labels it with the correct latitude, longitude, and elevation. Be sure that the "camera time zone" is set to your part of the world. If the clock was a bit off on your camera, you can specify how much it was off in the "time offset".</figcaption>
 </figure>
 </div>
