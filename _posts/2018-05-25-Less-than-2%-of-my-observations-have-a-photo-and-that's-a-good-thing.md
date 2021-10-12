@@ -88,6 +88,6 @@ I'll learn **much more** by making 55,000 more photo-free bellbird monitoring ob
 <div class="indent">
 <figure>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mollivan_jon/21159280763/" title="male bellbird on a Protea"><img src="https://live.staticflickr.com/5762/21159280763_96e439d071_z.jpg" width="90%"  alt="male bellbird on a Protea"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<figcaption>A male bellbird visiting a <em>Protea</em> flower planted in Victoria Park, Christchurch. You can see this <a href="https://inaturalist.nz/observations/2007702">observation on iNaturalist NZ</a>. Photos are useful for document interactions between species, but there's no need to photograph every species count you make.</figcaption>
+<figcaption>A male bellbird visiting a <em>Protea</em> flower planted in Victoria Park, Christchurch. You can see this <a href="https://inaturalist.nz/observations/2007702">observation on iNaturalist NZ</a>. Photos are useful for documenting interactions between species, but there's no need to photograph every species count you make.</figcaption>
 </figure>
 </div>
