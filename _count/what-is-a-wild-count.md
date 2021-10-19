@@ -19,7 +19,7 @@ For centuries amateur and professional naturalists have been documenting the wil
 
 We call these "**casual observations**" here. That's because they were not collected in a consistent way that can be used to uncover trends and patterns in species. Casual observations make it really difficult to untangle what the species were doing from what the people were doing. For example, was a species really absent from a site in a given year, or did nobody who was there bother to record it? 
 
-### They are What-Why-Where-When-How-Who counts
+### Wild counts are What-Why-Where-When-How-Who counts
 
 If you really want to know what's going on in nature, you need **What-Why-Where-When-How-Who counts**. These include **what** species were looked for (whether or not they were found), **why** (the reason for looking), **where** and **when** the species were searched for, **how** they were searched for (your search method), and **who** was searching. 
 
