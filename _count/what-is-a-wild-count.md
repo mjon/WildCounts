@@ -21,7 +21,7 @@ We call these "**casual observations**" here. That's because they were not colle
 
 ### Wild counts are What-Why-Where-When-How-Who counts
 
-If you really want to know what's going on in nature, you need **What-Why-Where-When-How-Who counts**. These include **what** species were looked for (whether or not they were found), **why** (the reason for looking), **where** and **when** the species were searched for, **how** they were searched for (your search method), and **who** was searching. 
+If you really want to know what's going on in nature, you need **What-Why-Where-When-How-Who counts**. These include **what** species were looked for (regardless of whether or not they were found), **why** (the reason for looking), **where** and **when** the species were searched for, **how** they were searched for (your search method), and **who** was searching. 
 
 This can be as simple as 
 
@@ -29,15 +29,15 @@ This can be as simple as
 
 That's it! You're making What-Why-Where-When-How-Who counts when when you write that down each time you're out walking. You just need to do it each walk, regardless of whether or not you find any of your favourite butterfly.
 
-It's silly to keep saying What-Why-Where-When-How-Who counts, so we call them **wild counts**. Wild counts are complete and consistent What-Why-Where-When-How-Who counts of living organisms. They are counts designed to be clicked together to document patterns and trends in natures. It's best if they're stored and shared in a consistent, standard format. 
+It's silly to keep saying What-Why-Where-When-How-Who counts, so we call them **wild counts**. Wild counts are complete and consistent What-Why-Where-When-How-Who counts of living organisms. They are counts designed to be connected together to document patterns and trends in natures. It's best if they're stored and shared in a consistent, standard format. 
 
 **Wild counts data are vastly more useful than casual observations for uncovering changes in nature.** That's because they're comparable in space and time, and they include all the times and places where people looked for species but didn't find them. All of this makes wild counts excellent for documenting trends and patterns in nature.
 
-In universities and research institutes, this kind of data is also called ecological survey data. However, only some ecological survey data are complete wild counts, and others are wild counts plus a lot of additional complexity. Ecological survey datasets tend to be in wildly different data structures and formats, since they comes from projects designed for a diversity of purposes to answer a wide range of questions. This can make it difficult data to connect together to tell bigger stories of change.
+In universities and research institutes, this kind of data is also called ecological survey data. However, only some ecological survey data are complete wild counts, and others are wild counts plus a lot of additional complexity. Ecological survey datasets tend to be in wildly different data structures and formats, since they come from projects designed for a diversity of purposes to answer a wide range of questions. This can make it difficult data to connect together to tell bigger stories of change.
 
 ### Wild counts can be simple to do
 
-As the above butterfly example shows, making wild counts is also super simple to do. Strangely, despite this, hardly anybody does it. Most naturalists are still out there, as they were centuries ago,  following their curiosity and recording whatever grabs their interest. The WildCounts website wants to change that. It wants to help nature enthusiasts add a dash of consistency to their nature watching.
+As the above butterfly example shows, making wild counts is also super simple to do. Strangely, despite this, hardly anybody does it. Most naturalists are still out there, as they were centuries ago, following their curiosity and recording whatever grabs their interest. The WildCounts website wants to change that. It wants to help nature enthusiasts add a dash of consistency to their nature watching.
 
 There is one group of naturalists that has been collecting wild counts data for a long time: birders. A birder is making wild counts whenever they head out with the intention of recording all birds, they record exactly where they went, and when, with what visual aids (like binoculars or a spotting scope), and who they were with. Birders have been using [eBird](https://ebird.org) to amass tens of millions of wild counts of birds. 
 
