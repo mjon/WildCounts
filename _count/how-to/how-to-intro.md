@@ -19,7 +19,7 @@ You can either jump right in to the section your're interested in, or try out th
 
 ## 1. Decide what to count
 
-Start by deciding on a consistent core of species that you’ll always count in the wild. It might just be one species you see only occasionally, or it could be several dozen. You’re making the commitment to always count these when you’re our watching nature.
+Start by deciding on a consistent core of species that you’ll always count in the wild. It might just be one species you see only occasionally, or it could be several dozen. You’re making the commitment to always count these when you’re out watching nature.
 
 You’ll still be able nature watch for other species when you’re out and about, but your commitment will be to consistently count your core. Those are the species that you’ll learn the most about. You’ll document where they are, and aren’t, how that changes over the seasons, what species they interact with, and whether their numbers are trending up, or down. 
 
