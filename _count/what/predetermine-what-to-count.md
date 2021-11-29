@@ -23,7 +23,7 @@ It's only with predetermined counts that people will know where and when you wer
 
 For larger lists of species, like "All birds", or "All big mushrooms (>=6 cm across)", writing down the names of those species list(s) before you start counting is easily the best way to do it. It's simple and easy and a good habit to get into.
 
-Beware the uneasy middle-ground in here. It's common sense that you shouldn't deviate from your planned route after leaving on a big tramp. Likewise, if you find an interesting species, it's awkward if you then start consistently recording it when you weren’t initially planning to do so. If you do start recording it after you find your first one, it's *essential* that all of your subsequent observations of that species remain categorized as casual observations, *not* pre-determined observations.
+Beware the uneasy middle-ground in here. It's common sense that you shouldn't deviate from your planned route after leaving on a big tramp. Likewise, if you find an interesting species, it's awkward if you then start consistently recording it when you weren’t initially planning to do so. If you do start recording it after you find your first one, it's *essential* that all of your subsequent observations of that species remain categorised as casual observations, *not* pre-determined observations.
 
 Why does that matter? If your pre-determined data is polluted with counts you made only after first noticing a species, then you'll be artificially inflating its abundance. That's because your counts will contain fewer "sought but not found" observations than they should. Researchers would then conclude that your species is more common than it really is. Because of this they might conclude that it isn't declining when it really has.
 
