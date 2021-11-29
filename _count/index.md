@@ -56,6 +56,9 @@ The **WildCounts** website is being constructed online, and there's a lot more c
 </div>
 <div class="panel-body">
     <p>
+    <strong>29 November 2021</strong>: Count methods: <a href="../predetermine-what-to-count/">Predetermine what to count before you start.</a>.
+    </p>
+    <p>
     <strong>13 October 2021</strong>: Blog: <a href="../blog/2018/06/13/A-digital-immigrant's-perspective-on-the-digital-photography-revolution/">A digital immigrant's perspective on the digital photography revolution.</a>
     </p>
     <p>
