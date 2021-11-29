@@ -15,7 +15,7 @@ So you’ve decided to get started counting your wild. Great! What’s next?
 
 Below are steps to make sure that you, and the world, get the most out of your wild counting. Each of these steps is explored in more detail in its own set of pages.
 
-You can either jump right to the section your're interested in, or try out the <a href="../how-to-decisions">flow chart guide</a> for getting started with wild counts.
+<!--You can either jump right to the section your're interested in, or try out the <a href="../how-to-decisions">flow chart guide</a> for getting started with wild counts.-->
 
 ## 1. Decide what to count
 
