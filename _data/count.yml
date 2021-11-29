@@ -10,12 +10,11 @@
 - title: How to count the wild
   count:
   - how-to-intro
-  - how-to-decisions
 
 - title: Decide what to count
   count:
   - what-to-count-intro
-  - what-to-count-placeholder
+  - predetermine-what-to-count
 
 - title: Learn the method
   count:
