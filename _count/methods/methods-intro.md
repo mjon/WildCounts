@@ -122,25 +122,58 @@ With [distance-sampling](https://en.wikipedia.org/wiki/Distance_sampling), some 
 
 ## Methods for wild counting
 
-(Text is coming. Stay tuned.)
+There are three format options for wild counts data, and which you use depends on whether your stationary or moving, and how you're moving. 
 
-(type type type...)
+### While indoors
 
-### while indoors
+If you're stationary, busy, and counting few species, there's the **Shorthand Stream**.
 
-(type type type...)
+For example,
+```
+/14:00- [winoa]
+/14:20- [winoa]
+/14:40- [winoa]
+/15:00- [winoa]
+/15:20- [winoa]
+bellb song |yes
+/15:40- [winoa]
+/16:00- [winoa]
+gw song yes|
+/16:20- [winoa]
+/16:40- [winoa]
+ft song |yes
+/17:00- [winoa]
+ft song yes|
+/-17:05
+```
+
+That is data collected while working inside with the window open. It notes whether or not song was heard from a small set of New Zealand forest birds (`ft` is fantail, `gw` is grey warbler, and `bellb` is bellbird). Observations are separated into 20 minute intervals. `winoa` means "window open always". The pipe (`|`) indicates whether song was heard before or after the first five minutes, so that the data can be compared with NZ standard five-minute bird count data.
+
+In this example, just presence/absence is recorded, but counts can also be used.
+
+[Learn more](../blog/2018/06/02/Seven-years-of-bird-counting-from-my-office/)
 
 ### while at one spot outdoors
 
-(type type type...)
+Typing in WildCounts Shorthand works best when stationary outdoors or exploring within a small area. Each observation gets entered with a separate geotag and date-time stamp.
+
+Importantly, when stationary or exploring, the wild counts method assumes that your subsequent observations of one species could all be the same individual, unless you explicitly stated otherwise. For example, making an observation `blkb 1` (one blackbird) then, a few minutes later `blkb 1`, would mean that you saw 1–2 blackbirds. If we were sure that the second blackbird was a different individual, you need to write `blkb 1!`, which would mean that you saw 2 blackbirds.
+
+[Learn more about WildCounts shorthand](../wildcounts-shorthand-intro/)
 
 ### while walking
 
-(type type type...)
+Walking wild counting works best with WildCounts Shorthand. The only difference from stationary/exploring counts, is that when you're walking the wild counts method assumes that your subsequent observations of one species are all separate individuals.
+
+[Learn more about WildCounts shorthand](../wildcounts-shorthand-intro/)
 
 ### while running
 
-(type type type...)
+While running, there's usually not the time to stop and type in observations. It's better to use WildCounts Spoken. As long as you speak your observations in using the WildCounts Spoken format, your data can be easily extracted out later. As with walking, when running the wild counts method assumes that your subsequent observations of one species are all separate individuals.
+
+Note that WildCounts Spoken requires the transcription of observations after the survey (eg with AWS Transcribe).
+
+[Learn more about WildCounts shorthand](../wildcounts-spoken-intro//)
 
 ### while biking
 
