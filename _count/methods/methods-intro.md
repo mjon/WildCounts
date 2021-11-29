@@ -31,7 +31,17 @@ You can type (or write) your counts using the quick **WildCounts shorthand**, or
 
 ### Type your counts with **WildCounts shorthand**
 
-Do you see two monarch butterflies flying? Save time by typing `m 2f`.
+[WildCounts shorthand](../wildcounts-shorthand-intro/) is designed so that your wild counts can be typed into your phone as quickly as possible, while still capturing all the details you need.
+
+Do you see two monarch butterflies flying? Save time by typing `m 2f`. 
+
+WildCounts shorthand can also get more complicated if you need it. For example, did you see five monarch caterpillars (larvae) feeding on a planted *Gomphocarpus* swan plant, close (<5 m) to your left, while you were out walking? That would be this:
+
+`m larva lc5`<br />
+`*heo`<br />
+`Gophocarpus lc1$`
+
+(The `*` means "with" and joins two observations together, while`heo` means "herbivory of" and the `$` indicates that the *Gomphocarpus* was cultivated.)
 
 <div class="panel panel-warning">
     <div class="panel-heading">
@@ -50,11 +60,25 @@ Do you see two monarch butterflies flying? Save time by typing `m 2f`.
 
 ### Speak your counts with **WildCounts spoken**
 
+Sometimes you're moving too fast to stop and type in your observations. In these cases it's faster to speak your observations using (WildCounts spoken)[].
+
 Do you see two monarch butterflies flying? Just say "`two monarchs flying`".
 
-(type type type...)
+Did you see five monarch caterpillars (larvae) feeding on a planted *Gomphocarpus* swan plant, close (<5 m) to your left, while you were out walking? In that case, say "`Monarch larvae left close five feeding on one Gomphocarpus left close cultivated`".
 
-Got an iPhone? Speak "WildCounts spoken" into [the FileMaker Go app](../wildcounts-app-FilemakerGo/).
+Speaking might seem like a faster thing to do all the time, but keep in mind that computers still make mistakes when transcribing human speech. That means that your spoken observations will need more time proof-reading than your typed observations.
+
+<div class="panel panel-warning">
+    <div class="panel-heading">
+        <h3 class="panel-title">Learn more</h3>
+    </div>
+    <div class="panel-body">
+        <a href="../wildcounts-spoken-intro/">Introduction to WildCounts spoken</a>
+    </div>
+    <div class="panel-body">
+        Got an iPhone? Enter WildCounts shorthand into <a href="../wildcounts-app-FilemakerGo/">the FileMaker Go app</a>.
+    </div>
+</div>
 
 
 ## Levels of wild counting
@@ -71,8 +95,6 @@ If you're busy and go to lots of places at a lot of times, just noting the prese
 `ragwort no`<br />
 `cicada song yes`
 
-(type type type...)
-
 ### Simple abundance
 
 If you're busy and some of your core species are often abundant, simple abundance can be sufficient. It's one step up in detail from presence/absence.
@@ -80,21 +102,15 @@ If you're busy and some of your core species are often abundant, simple abundanc
 `gorse abundant`<br />
 `ragwort rare`
 
-(type type type...)
-
 ### Pacing the wild
 
 Counting your routes in 10 metre long patches (approximately 10 paces) works well for species that are not wildly abundant and grow in clumps where it is not always easy to separate one individual from another.
 
 `ragwort rc1p` = one patch of ragwort close (within 5 m) on the right.
 
-(type type type...)
-
 ### Counting the wild
 
 Are there four blackbirds? `blkb 4` is your count. But what about if there's about 40? Then your count is `blkb ~40`.
-
-(type type type...)
 
 ### Distance-counting the wild
 
@@ -104,9 +120,9 @@ With [distance-sampling](https://en.wikipedia.org/wiki/Distance_sampling), some 
 
 `blkb ln4` = four blackbirds on the left in the near distance band (5--20 m).
 
-(type type type...)
-
 ## Methods for wild counting
+
+(Text is coming. Stay tuned.)
 
 (type type type...)
 
