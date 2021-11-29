@@ -151,7 +151,7 @@ That is data collected while working inside with the window open. It notes wheth
 
 In this example, just presence/absence is recorded, but counts can also be used.
 
-[Learn more](../blog/2018/06/02/Seven-years-of-bird-counting-from-my-office/)
+[Learn more about wild counting from indoors](../blog/2018/06/02/Seven-years-of-bird-counting-from-my-office/)
 
 ### while at one spot outdoors
 
@@ -159,13 +159,13 @@ Typing in WildCounts Shorthand works best when stationary outdoors or exploring 
 
 Importantly, when stationary or exploring, the wild counts method assumes that your subsequent observations of one species could all be the same individual, unless you explicitly stated otherwise. For example, making an observation `blkb 1` (one blackbird) then, a few minutes later `blkb 1`, would mean that you saw 1–2 blackbirds. If we were sure that the second blackbird was a different individual, you need to write `blkb 1!`, which would mean that you saw 2 blackbirds.
 
-[Learn more about WildCounts shorthand](../wildcounts-shorthand-intro/)
+[Learn more about WildCounts Shorthand](../wildcounts-shorthand-intro/)
 
 ### while walking
 
 Walking wild counting works best with WildCounts Shorthand. The only difference from stationary/exploring counts, is that when you're walking the wild counts method assumes that your subsequent observations of one species are all separate individuals.
 
-[Learn more about WildCounts shorthand](../wildcounts-shorthand-intro/)
+[Learn more about WildCounts Shorthand](../wildcounts-shorthand-intro/)
 
 ### while running
 
