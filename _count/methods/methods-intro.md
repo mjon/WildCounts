@@ -173,7 +173,7 @@ While running, there's usually not the time to stop and type in observations. It
 
 Note that WildCounts Spoken requires the transcription of observations after the survey (eg with AWS Transcribe).
 
-[Learn more about WildCounts shorthand](../wildcounts-spoken-intro//)
+[Learn more about WildCounts Spoken](../wildcounts-spoken-intro//)
 
 ### while biking
 
