@@ -1,6 +1,6 @@
 ---
 title: Predetermine what you'll count before you start
-sub_title: "Your cunts are vastly more useful if you declare what in the wild you're going to count before you start."
+sub_title: "Your counts are vastly more useful if you declare what in the wild you're going to count before you start."
 author: Jon Sullivan
 date:   2018-06-01 10:30:00 +1300
 last_modified_at:   2021-09-05 10:30:00 +1300
