@@ -122,17 +122,14 @@ With [distance-sampling](https://en.wikipedia.org/wiki/Distance_sampling), some 
 
 ## Methods for wild counting
 
-There are three format options for wild counts data, and which you use depends on whether your stationary or moving, and how you're moving. 
+There are three format options for wild counts data, and which you use depends on whether you're stationary or moving, and how you're moving. 
 
 ### While indoors
 
-If you're stationary, busy, and counting few species, there's the **Shorthand Stream**.
+If you're stationary, busy, and counting few species, there's the **WildCounts Shorthand Stream**. This works well when you're sitting working next to an open window.
 
 For example,
 ```
-/14:00- [winoa]
-/14:20- [winoa]
-/14:40- [winoa]
 /15:00- [winoa]
 /15:20- [winoa]
 bellb song |yes
@@ -147,45 +144,47 @@ ft song yes|
 /-17:05
 ```
 
-That is data collected while working inside with the window open. It notes whether or not song was heard from a small set of New Zealand forest birds (`ft` is fantail, `gw` is grey warbler, and `bellb` is bellbird). Observations are separated into 20 minute intervals. `winoa` means "window open always". The pipe (`|`) indicates whether song was heard before or after the first five minutes, so that the data can be compared with NZ standard five-minute bird count data.
-
-In this example, just presence/absence is recorded, but counts can also be used.
+The above example is data collected while working inside with the window open, between 3 PM and 5:05 PM. Observations are separated into 20 minute intervals, and `winoa` means "window open always". Consistently noted are whether or not song was heard from a small set of New Zealand forest birds (`ft` is fantail, `gw` is grey warbler, and `bellb` is bellbird). The pipe (`|`) indicates whether song was heard before or after the first five minutes, so that the data can be compared with NZ standard five-minute bird count data. In this example, just presence/absence is recorded, but counts could also be used. Counting just requires a bit more concentration.
 
 [Learn more about wild counting from indoors](../blog/2018/06/02/Seven-years-of-bird-counting-from-my-office/)
 
 ### while at one spot outdoors
 
-Typing in WildCounts Shorthand works best when stationary outdoors or exploring within a small area. Each observation gets entered with a separate geotag and date-time stamp.
+Typing in **WildCounts Shorthand** works well when you're stationary outdoors or exploring within a small area. Unlike the shorthand stream, each of these shorthand observations gets entered as a separate observation with it's own geotag and date-time stamp.
 
-Importantly, when stationary or exploring, the wild counts method assumes that your subsequent observations of one species could all be the same individual, unless you explicitly stated otherwise. For example, making an observation `blkb 1` (one blackbird) then, a few minutes later `blkb 1`, would mean that you saw 1–2 blackbirds. If we were sure that the second blackbird was a different individual, you need to write `blkb 1!`, which would mean that you saw 2 blackbirds.
+Importantly, when you're stationary or exploring, the wild counts method assumes that your subsequent observations of one species could all be the same individual. That is, unless you explicitly stated otherwise. For example, making an observation `blkb 1` (one blackbird) then, a few minutes later another `blkb 1`, would mean that you saw 1–2 blackbirds. If you were sure that the second blackbird was a different individual, you need to write `blkb 1!`, which would mean that you saw 2 blackbirds.
 
 [Learn more about WildCounts Shorthand](../wildcounts-shorthand-intro/)
 
 ### while walking
 
-Walking wild counting works best with WildCounts Shorthand. The only difference from stationary/exploring counts, is that when you're walking the wild counts method assumes that your subsequent observations of one species are all separate individuals.
+Wild counting while walking works best with typed **WildCounts Shorthand**. The only difference from stationary/exploring counts is that, when you're walking, the wild counts method assumes that your subsequent observations of one species are all different individuals. For example, if you type `blkb 1` and then minutes later `blkb 1`, that's assumed to be two different blackbirds when you're walking. If the second blackbird might be the same individual you just saw, then that's `blkb 1@!` (if it's definitely the same bird, then that's `blkb 1@`).
 
 [Learn more about WildCounts Shorthand](../wildcounts-shorthand-intro/)
 
 ### while running
 
-While running, there's usually not the time to stop and type in observations. It's better to use WildCounts Spoken. As long as you speak your observations in using the WildCounts Spoken format, your data can be easily extracted out later. As with walking, when running the wild counts method assumes that your subsequent observations of one species are all separate individuals.
+When you're out running, there's not the time to stop and type in observations, but **WildCounts Spoken** works well. As long as you speak in the WildCounts Spoken format, your data can be easily extracted out later. As with walking, the wild counts method assumes that your subsequent observations of one species are all separate individuals, unless you say otherwise.
 
-Note that WildCounts Spoken requires the transcription of observations after the survey (eg with AWS Transcribe).
+Note that WildCounts Spoken requires the transcription of your spoken observations after the survey (for example, with AWS Transcribe).
 
 [Learn more about WildCounts Spoken](../wildcounts-spoken-intro//)
 
 ### while biking
 
-(type type type...)
+Like running, it's not possible to type counts while biking, but you can speak observations using **WildCounts Spoken**. A wireless bluetooth microphone is a good option for safely making clean audio notes while riding a bike. Safety always comes first when biking near traffic.
+
+[Learn more about WildCounts Spoken](../wildcounts-spoken-intro//)
 
 ### while a passenger in a car/truck/bus/boat
 
-(type type type...)
+When you're a passenger in a vehicle, it's simple enough to type in **WildCounts Shorthand** as you travel. You cannot reliably detect as many species when travelling at speed as you can on foot. It makes sense to focus your counting on those species that you can reliably spot and identify while you're moving quickly. There are still plenty of those to choose from, and you can count the wild over large distances from a vehicle.
+
+[Learn more about WildCounts Shorthand](../wildcounts-shorthand-intro/)
 
 ## Extras
 
-Add wild counting to a BioBlitz to learn more about nature.
+Wild counts can be added to BioBlitz events to learn more about nature.
 
-(type type type...)
+[More on that soon]
 
