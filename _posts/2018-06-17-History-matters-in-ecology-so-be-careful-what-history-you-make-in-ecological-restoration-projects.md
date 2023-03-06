@@ -72,7 +72,7 @@ I also used an [example from my own research](https://newzealandecology.org/nzje
 
 <div class="indent">
 <figure>
-<a href="https://www.flickr.com/photos/mollivan_jon/7783450384/" title="Peter Williams and Susan Timmins"><img src="https://live.staticflickr.com/5247/5342196948_b5a0575a14.jpg" width="480px" alt="Peter Williams and Susan Timmins"></a>
+<a href="https://www.flickr.com/photos/mollivan_jon/7783450384/" title="Peter Williams and Susan Timmins"><img src="https://live.staticflickr.com/8447/7783450384_ed9e2eb741.jpg" width="480px" alt="Peter Williams and Susan Timmins"></a>
 <figcaption>New Zealand weed ecology legends Peter Williams and Susan Timmins survey the regenerating forest understorey under an old kanuka canopy. Regrettably, wild pigs had been causing extensive damage at this site.</figcaption>
 </figure>
 </div>
