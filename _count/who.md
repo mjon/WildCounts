@@ -19,7 +19,7 @@ One of my motivations for making the WildCounts website is to share how, and why
 
 I’m based in Aotearoa New Zealand, so there’s a Kiwi flavour to a lot of the wild counts on this site, although I've also counted the wild in California and Australia. When I’m not out counting the wild, you can find me at work as an ecologist at [Lincoln University, New Zealand](http://www.lincoln.ac.nz), or online at [iNaturalist NZ](https://inaturalist.nz) helping others to identify the wild things they find.
 
-I’m always keeping an keen eye on the rest of the world. Please get in touch if you're keen to help or know of someone counting the wild that should be profiled here. You can reach me via email at <a href="mailto:jon.sullivan@lincoln.ac.nz">jon.sullivan@lincoln.ac.nz</a>, you can message me on iNaturalist ([@jon_sullivan](https://inaturalist.nz/people/1115)), and I'm on Twitter at [@joncounts](https://twitter.com/joncounts).
+I’m always keeping an keen eye on the rest of the world. Please get in touch if you're keen to help or know of someone counting the wild that should be profiled here. You can reach me via email at <a href="mailto:jon.sullivan@lincoln.ac.nz">jon.sullivan@lincoln.ac.nz</a>, you can message me on iNaturalist ([@jon_sullivan](https://inaturalist.nz/people/1115)), and I'm on Mastodon at [@joncounts@mastodon.nz](https://mastodon.nz/@joncounts).
 
 <div class="indent">
 <figure>
