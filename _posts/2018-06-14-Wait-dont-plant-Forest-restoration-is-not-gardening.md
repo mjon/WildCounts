@@ -100,4 +100,6 @@ I’m not convinced that restoration planting is needed on most of Banks Peninsu
 
 A lot of the phenomenal community effort being put into planting around New Zealand, and other parts of the world, could, I expect, be as well spent weeding and monitoring and understanding nature. Planting in many places is unnecessary. It erases the potential for those places to be truly wild, in our life times or the life times of our children or grandchildren. We need to be more patient. In Hugh Wilson’s words, all we need to do to bring back wild forest is "**remove the worst impediments to natural regeneration, and let Nature have full reign to gallop ahead**."
 
-[Coming up next: we dive deeper into how to decide where and when tree planting is really necessary.]
+[Coming up next: we dive deeper into [how to decide where and when tree planting is really necessary](../../../../2018/06/16/When-and-where-should-we-plant-trees/).]
+
+

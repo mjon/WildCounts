@@ -88,3 +88,5 @@ Nature is an elegantly untidy and complex dance of environment and history. What
 This is all directly relevant to ecological restoration projects. Do we really want the future stories of our restored forests to be about what someone’s favourite plants were two centuries ago, or what plants were on sale at that time from the local nurseries? Shouldn't they be about nature’s wild dance of naturally dispersed seeds and local environmental conditions? In some thoroughly deforested places, we need to prime the pump by planting some tree species. In most places, nature is fully capable of making new forests. We should let it.
 
 Please don't take the wild away from our new forests, unless you absolutely have to.
+
+[See also the previous articles, [how to decide where and when tree planting is really necessary](../../../../2018/06/14/Wait-dont-plant-Forest-restoration-is-not-gardening/) and [when and where we should plant trees](../../../../2018/06/16/When-and-where-should-we-plant-trees/)]

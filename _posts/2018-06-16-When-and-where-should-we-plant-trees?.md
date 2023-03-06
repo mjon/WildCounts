@@ -161,4 +161,5 @@ In some conditions, tree planting can be useful to prime the pump for the return
 
 Focus on helping the natural processes that make forests, rather than replace them. Controlling weeds and pests, both predators and browsers, remain much more important than planting, for returning native nature to most of New Zealand.
 
-[Coming up next: the ecological implications of replacing natural forest succession with tree planting for future forest composition.]
+[Coming up next: the ecological implications of [replacing natural forest succession with tree planting for future forest composition](../../../../2018/06/17/History-matters-in-ecology-so-be-careful-what-history-you-make-in-ecological-restoration-projects/).]
+[See also the previous article, [how to decide where and when tree planting is really necessary](../../../../2018/06/14/Wait-dont-plant-Forest-restoration-is-not-gardening/).]
