@@ -27,13 +27,27 @@ This is the third of three articles exploring some of the ecological consequence
 
 I had a good reminder this week that the answer to everything in ecology is "it depends". I'd been invited to give a couple of half hour introductory ecology lectures at a one-day community conservation symposium on New Zealand's West Coast. About 100 people from community groups along the West Coast came together to mingle and learn. My first slot was about West Coast forest ecology. In it, I emphasized how history can make a big difference to ecosystems. Which ecological communities are found where depends not just on different sites’ environmental conditions, but also their history. "It depends."
 
-The classic example relevant to this audience was the West Coast Beech Gap. Southern beech species dominate the forests at the southwest and northwest of New Zealand's South Island. However, they are absent in between, giving way to a very different and more diverse forest of podocarp conifers and broadleaf angiosperm trees.
+The classic example relevant to this audience was the West Coast [Beech Gap](https://teara.govt.nz/en/map/13299/beech-forest-in-new-zealand). [Southern beech species](https://inaturalist.nz/taxa/70248-Nothofagaceae) dominate the forests at the southwest and northwest of New Zealand's South Island. However, they are absent in between, giving way to a very different and more diverse forest of podocarp conifers and broadleaf angiosperm trees.
 
 These forests are different ecosystems in many ways. For example, the trees use different types of mycorrhizal fungi in the soil. Beech trees use ectomycorrhizal fungi that coat the outside of their roots, while popdocarps and most other New Zealand flowering plants use endomycorrhizal fungi that penetrate deep into their roots. 
 
 Most of the trees in these podocarp-broadleaf forests make bird-edible fruits, great for sustaining bird life, but also great for feeding invasive brush-tailed possums and rats. Beech trees, in contrast, make beech nuts that disperse (poorly) in the wind and are eaten by the few birds that eat seeds rather than fruit (like New Zealand's kakariki parakeets). 
 
 Beech forests are generally worse habitats for possums and rodents than podocarp-broadleaf forests. That would be good for native birds except for one thing. Beech forests also mast seed, meaning that every few years they produce *massive* seed crops. In these years, mice populations, and sometimes also rat populations, erupt to plague proportions and hammer the beech forest birds and invertebrates. Mice and rats are also prey for stoats which increase in numbers and hammer the birds when they go hungry after the rodent plague collapses. Everything then starts to recover, before the next beech mast hits.
+
+<div class="indent">
+<figure>
+<a href="https://www.flickr.com/photos/mollivan_jon/14157099507/" title="old growth beech forest"><img src="https://live.staticflickr.com/3918/14157099507_f23d3baa6e.jpg" width="480px" alt="old growth beech forest"></a>
+<figcaption>Here's an old growth beech forest near Lewis Pass. Beech trees, young and old, dominate these forests. There's forest like this in the north and south of the South Island, but not on the western side of the middle of the South Island.</figcaption>
+</figure>
+</div>
+
+<div class="indent">
+<figure>
+<a href="https://www.flickr.com/photos/mollivan_jon/4723183444/" title="climbing into the light"><img src="https://live.staticflickr.com/1228/4723183444_c24659d231.jpg" width="480px" alt="climbing into the light"></a>
+<figcaption>Here's me climbing up a rata tree in Paparoa National Park. This forest is in the West Coast Beech Gap, and is free of beech trees. Instead, it is made up of a diverse mix of different trees. The forests are very different, and why we have this forest in the Paparoas and not beech forest is because of history.</figcaption>
+</figure>
+</div>
 
 These differences, and others, mean that the beech-free Beech Gap forests are ecologically very different from the beech forests of the south and north. How did this come to be? The surprising conclusion of the many ecological studies on this is that it's an historical accident. The glaciers from the past glacial maximum ("ice age") drove away all forest from this middle section of the West Coast. When the glaciers retreated by about 10,000 years ago, the slow dispersing southern beech trees were beaten by a mix of much better dispersing tree species with bird-edible fruit. 
 
@@ -48,6 +62,20 @@ That was also one of the messages from my second half-hour talk, this time on fo
 What species people choose to plant now will have a big influence on the composition, and ecology, of these forests for centuries to come. With that in mind, I suggested that it is always worth thinking twice about whether planting is necessary at all. Will natural forest regenerate by itself, if weeds and grazing and browsing pests are controlled? I expect the answer is a resounding "yes" in almost all of the West Coast.
 
 I also used an [example from my own research](https://newzealandecology.org/nzje/2811) of how initial conditions can affect forest regeneration. Together with Peter Williams and Susan Timmins, we contrasted how native forest succession occurs through the invasive weed gorse (*Ulex europaeus*) and the native early successional tree kanaka (*Kunzea* species). We studied this in the northwest and east of the South Island, the bottom of the North Island. In all cases, a different and less species rich forest was establishing through gorse than through kanaka. Beech, for example, comes up through kanuka much easier than through gorse, as it appears do podocarp trees. What forest types will be where in New Zealand, in centuries to come, will depend on where exactly the gorse and kanuka are now.
+
+<div class="indent">
+<figure>
+<a href="https://www.flickr.com/photos/mollivan_jon/5342196948/" title="Hinewai gorse and kanuka forest succession"><img src="https://live.staticflickr.com/5247/5342196948_b5a0575a14.jpg" width="480px" alt="Hinewai gorse and kanuka forest succession"></a>
+<figcaption>This is Hinewai Reserve in Banks Peninsula, where forest succession is occurring through a mix of kanuka (the dark foliage) and gorse (here flowering yellow). Different native trees regenerate well through the two different vegetation types.</figcaption>
+</figure>
+</div>
+
+<div class="indent">
+<figure>
+<a href="https://www.flickr.com/photos/mollivan_jon/7783450384/" title="Peter Williams and Susan Timmins"><img src="https://live.staticflickr.com/5247/5342196948_b5a0575a14.jpg" width="480px" alt="Peter Williams and Susan Timmins"></a>
+<figcaption>New Zealand weed ecology legends Peter Williams and Susan Timmins survey the regenerating forest understorey under an old kanuka canopy. Regrettably, wild pigs had been causing extensive damage at this site.</figcaption>
+</figure>
+</div>
 
 In the question time after my succession talk, I got a third and unanticipated example of "it depends". Several people in the audience had native forest regenerating through gorse on their land and it was not proceeding like I had described from other parts of the country. A rich diversity of local trees, including podocarps, were coming up through their gorse. 
 

@@ -47,7 +47,7 @@ In most such projects in New Zealand, the land purchase would have been followed
 <div class="indent">
 <figure>
 <a href="https://www.flickr.com/photos/mollivan_jon/5341566259/" title="Hinewai, October 1988"><img src="https://live.staticflickr.com/5041/5341566259_9b3a06522b.jpg" width="480px" alt="Hinewai, October 1988"></a>
-<figcaption>The view up Hinewai in October 1988, photographed by manager Hugh Wilson and on display in the visitors' lodge. Note the extensive areas of open pasture and young yellow-flowering gorse scrub.</figcaption>
+<figcaption>The view up Hinewai in October 1988, photographed by reserve manager Hugh Wilson and on display in the visitors' lodge. Note the extensive areas of open pasture and young yellow-flowering gorse scrub.</figcaption>
 </figure>
 </div>
 
@@ -69,8 +69,14 @@ The results speak for themselves. Hinewai is now filled with lush young native f
 
 Another usual practice in forest restoration projects in New Zealand is community operated trap lines, to kill invasive mammalian predators like stoats, feral cats, and rats. This is done to bring back the birds. Again, Hinewai has biked down the road less travelled. It only consistently controlled the goats, deer, and brush-tailed possums, which inhibit forest regeneration. Despite this, Hinewai’s bird life became rich and abundant, containing thriving populations of all the forest bird species still present on Banks Peninsula. Hinewai makes clear that the main reason why these birds are no longer everywhere all over Banks Peninsula is not the mammalian predators. It's the lack of large areas of healthy forest. (Sadly, the bird species most sensitive to mammal predation are all already gone from Banks Peninsula. Those definitely need mammalian predator control if they are to return.)
 
-The Hinewai experiment teaches us two important lessons. The big lesson is that making forest habitat in places like Hinewai does not require planting. Just apply a little weed and pest control and wait. The second is that, for the remaining Banks Peninsula forest bird species, while mammalian predators are a big problem, the biggest problem is not enough suitable forest habitat. 
+The Hinewai experiment teaches us two important lessons. The big lesson is that making forest habitat in places like Hinewai does not require planting. Just apply a little weed and pest control and wait. The second is that, for the remaining Banks Peninsula forest bird species, while mammalian predators are a big problem, the biggest problem is not enough suitable forest habitat.
 
+<div class="indent">
+<figure>
+<a href="https://www.flickr.com/photos/mollivan_jon/5342209164/" title="Hinewai photopoint under gorse, 1989"><img src="https://live.staticflickr.com/5285/5342209164_e7b017a87b_n.jpg" width="170px" alt="Hinewai photopoint under gorse, 1989"></a><a href="https://www.flickr.com/photos/mollivan_jon/5342209666/" title="Hinewai photopoint under gorse, 1992"><img src="https://live.staticflickr.com/5203/5342209666_9611139cdf_n.jpg" width="170px" alt="Hinewai photopoint under gorse, 1992"></a><a href="https://www.flickr.com/photos/mollivan_jon/5342210022/" title="Hinewai photopoint under gorse, 1994"><img src="https://live.staticflickr.com/5244/5342210022_b3fd13d1a4_n.jpg" width="170px" alt="Hinewai photopoint under gorse, 1994"></a>
+<figcaption>Three views from the same photopoint of native forest regenerating naturally under a patch of old gorse. These were photographed by reserve manager Hugh Wilson and are on display in the visitors' lodge. No trees were planted in these scenes.</figcaption>
+</figure>
+</div>
 
 ### When and how to intervene
 

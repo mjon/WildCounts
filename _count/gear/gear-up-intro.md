@@ -30,7 +30,7 @@ A little extra gear can extend a smart phone further. I carry a small monocular 
 
 I also now carry a Garmin GPS unit (a [GPSMAP64x](https://buy.garmin.com/en-US/US/p/669282)) to get more accurate and more frequent GPS points as I travel.
 
-### an action camera
+### An action camera
 
 I carry a small, high quality camera (a [Sony RX0ii](https://www.sony.com.au/electronics/cyber-shot-compact-cameras/dsc-rx0m2)) to get higher quality photos than my (old) iPhone takes. I can also mount that camera on the handlebars of my bike and set it to take one photo per second time lapses through my rides. Since late 2019, I’ve done that once a month to record the changes in the environment along my standard bike routes.
 

@@ -115,7 +115,7 @@ I have two frequent uses for maps. One use is looking up site names or street na
 
 My second frequent use for maps is looking up a coordinate for an observation that I enter *after* I've made it. For example, when I see something notable while I was driving, and I later need to look up the coordinate for that observation while it's fresh in my memory. 
 
-The Apple Maps and Google Maps apps don't let me copy a coordinate. They're both too heavy handed with their sign in/cloud shenanigans. I just want to copy a coordinate from a map app into my database app. Thankfully, there is a great app for this: [MyPlaces](https://www.thelostproject.com/myplaces/).
+The Apple Maps and Google Maps apps don't let me copy a coordinate [2023 Edit: I think Google Maps now does this]. They're both heavy handed with their sign in/cloud shenanigans. I just want to copy a coordinate from a map app into my database app. Thankfully, there is a great app for this: [MyPlaces](https://www.thelostproject.com/myplaces/).
 
 MyPlaces is also fantastic for storing and labelling pins on maps. You can even add photos with your notes for a pin. You can also export everything out whenever you want. Plus, you can copy the coordinate of any pin and paste it in another app.
 
