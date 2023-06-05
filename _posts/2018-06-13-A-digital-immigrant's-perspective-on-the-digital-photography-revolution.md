@@ -45,7 +45,7 @@ My first digital camera was a [Sony Mavica MVC-FD7](https://en.wikipedia.org/wik
 <div class="indent">
 <figure>
 <a href="https://www.flickr.com/photos/mollivan_jon/51580522849/" title="nature notes"><img src="https://live.staticflickr.com/65535/51580522849_83c7d033cd_z.jpg" width="427px" alt="nature notes"></a>
-<figcaption>Here's a page from my notebook from 1994, from when I was in Costa Rica with no guide books and no digital camera. Before digital cameras, I made a lots of drawings.</figcaption>
+<figcaption>Here's a page from my notebook from 1994, from when I was in Costa Rica with no guide books and no digital camera. Before digital cameras, I made lots of drawings.</figcaption>
 </figure>
 </div>
 
