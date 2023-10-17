@@ -47,7 +47,7 @@ In this time of loss and degeneration of biodiversity, it is necessary to measur
 
 <div class="indent">
 <figure class="align-center">
-<img src="../../../../../../../assets/img/CEBRA_photo2.jpg" width="90%" alt="A collected sample from a BioBlitz event that used CEBRA.">
+<img src="../../../../../../../assets/img/CEBRA_photo2.jpg" width="45%" alt="A collected sample from a BioBlitz event that used CEBRA.">
   <figcaption>A collected sample from a BioBlitz event that used CEBRA.</figcaption>
 </figure>
 </div>
