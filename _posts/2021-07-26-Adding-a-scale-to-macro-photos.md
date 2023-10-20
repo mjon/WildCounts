@@ -62,7 +62,7 @@ To make sure that the scale sizing was exact, I made the dimensions of my vector
 <figure class="align-center">
 <img src="../../../../../../../assets/img/scale90mm+68mm+overlay.png" width="90%" alt="Affinity Designer screenshot">
 <img src="../../../../../../../assets/img/scale90mm+68mm.png" width="90%" alt="Affinity Designer screenshot">
-  <figcaptionHere are two screenshots from Affinity Designer of how I build my scale SVG file. I first add an overlay of a macro photograph of a rule, taken with my lens's closest focus. I then draw vector lines over the ruler increments, on another layer. I then removed the macro photograph layer and saved the image as an SVG file.</figcaption>
+  <figcaption>Here are two screenshots from Affinity Designer of how I build my scale SVG file. I first add an overlay of a macro photograph of a rule, taken with my lens's closest focus. I then draw vector lines over the ruler increments, on another layer. I then removed the macro photograph layer and saved the image as an SVG file.</figcaption>
 </figure>
 </div>
 
