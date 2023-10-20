@@ -20,7 +20,9 @@ tags:
 
 ---
 
+<div class="well">
 [Editor's note: While CEBRA evolved independently of the WildCounts monitoring method, it shares many similarities and the two approaches can be used together. Like WildCounts, CEBRA is focused on providing simple, easy methods to add consistency to nature observations. I'm pleased to include this article on CEBRA written by its founder, Jagoba Malumbres-Olarte.]
+</div>
 
 ### The need for "better" data
 
