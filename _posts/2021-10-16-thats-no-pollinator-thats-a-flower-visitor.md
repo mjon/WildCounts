@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "That's no pollinator, that's a flower visitor."
+title:  "That's no pollinator, that's a flower visitor"
 sub_title: "When counting the wild, be careful to be precise in your wording and describe exactly what you observe."
 author: Jon Sullivan
 date:   2021-10-16 17:30:00 +1300
@@ -33,7 +33,7 @@ Similarly, consider New Zealand bellbirds, korimako, which feed on nectar, fruit
 <div class="indent">
 <figure>
 <a href="https://inaturalist.nz/observations/4243252" title="bumblebee visiting kowhai flower"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/5072228/large.jpg" width="480px" alt="bumblebee visiting kowhai flower"></a>
-<figcaption>This bumblebee is visiting this kowhai flower, but it's not pollinating it. Instead, it's chewed into the base of the flower and is stealing the nectar without touching any pollen.</figcaption>
+<figcaption>This bumblebee is visiting this kowhai flower, but it's not pollinating it. Instead, it's chewed into the base of the flower and is stealing the nectar without touching any pollen. When you see animals visiting flowers, be sure to describe just what you see, not what you assume is happening.</figcaption>
 </figure>
 </div>
 
@@ -57,7 +57,7 @@ Sometimes it's not clear which interaction is happening and then it's best just 
 <div class="indent">
 <figure>
 <a href="https://inaturalist.nz/observations/949823" title="kereru eating leaves"><img src="https://live.staticflickr.com/8094/8400265240_5aac31ef3d.jpg" width="480px" alt="kereru eating leaves"></a>
-<figcaption>This kerer&#363; is eating leaves (of the tree *Virgilia divaricata*). This is not something the tree benefits from. When kererū eat fruit to disperse seeds, that's a completely different interaction, that benefits the fruiting plant. Always be sure to say what's being eaten.</figcaption>
+<figcaption>This kerer&#363; is eating leaves (of the tree <i>Virgilia divaricata</i>). This is not something the tree benefits from. When kererū eat fruit to disperse seeds, that's a completely different interaction, that benefits the fruiting plant. Always be sure to say what's being eaten.</figcaption>
 </figure>
 </div>
 
@@ -92,7 +92,7 @@ In iNaturalist, when you find an egg, you can set Lifestage to "egg" in the obse
 <div class="indent">
 <figure>
 <a href="https://inaturalist.nz/observations/1103156" title="hatched NZ mantis ootheca"><img src="https://live.staticflickr.com/8634/15724571940_1008bff03b.jpg" width="480px" alt="hatched NZ mantis ootheca"></a>
-<figcaption>This is an hatched NZ mantis (<i>Orthodera novaezealandiae</i>) egg case (ootheca). Since it's hatched, the life stage here is <b>not</b> eggs. There is no NZ mantis of any life stage in this photo. Instead, it gets added to iNaturalist with the obseravtion field "Animal sign and song" set to "Evidence of egg laying", since this is evidence that egg laying happened here in the past.</figcaption>
+<figcaption>This is a <b>hatched</b> NZ mantis ootheca. Since it's hatched, the life stage here is <b>not</b> eggs. There is no NZ mantis of any life stage in this photo. Instead, it gets added to iNaturalist with the obseravtion field "Animal sign and song" set to "Evidence of egg laying", since this is evidence that egg laying happened here in the past.</figcaption>
 </figure>
 </div>
 
@@ -130,7 +130,7 @@ Ferns add another layer of trickery since they have free-living multicellular "s
 <div class="indent">
 <figure>
 <a href="https://inaturalist.nz/observations/3393363" title="kapuka tree seedling"><img src="https://live.staticflickr.com/7681/26887944574_b682d2951a.jpg" width="480px" alt="kapuka tree seedling"></a>
-<figcaption>Most of the time it's pretty obvious when you're looking at a tree seedling, like this seedling of a kapuka/NZ broadleaf, <i>Grisilinea litoralis</i>, growing out the side of a tree fern. When it gets bigger but still hasn't reproduced, as so is not yet an adult, it's less obvious when it stops being a seedling. That's where some arbitrary but consistent standard is needed. For my WildCounts I use half a metre (50 cm).</figcaption>
+<figcaption>Most of the time it's pretty obvious when you're looking at a tree seedling, like this seedling of a kapuka/NZ broadleaf, <i>Grisilinea litoralis</i>, growing out the side of a tree fern. When it gets bigger but still hasn't reproduced, and so is not yet an adult, it's less obvious when it stops being a seedling. That's where some arbitrary but consistent standard is needed. For my WildCounts I use half a metre (50 cm) in height for tree seedlings.</figcaption>
 </figure>
 </div>
 
@@ -155,10 +155,9 @@ Doing all this requires a clear and consistent notion of what is a song and what
 
 <div class="indent">
 <figure>
-<a href="https://inaturalist.nz/observations/162093006" title="a chorus of European blackbird tink calls"><audio controls="", preload="none"><source src="https://static.inaturalist.org/sounds/700610.wav?1684301802" type="audio/x-wav">Your browser does not support the audio element.</audio>
-</a>
-<a href="https://inaturalist.nz/observations/78042543" title="full song of European blackbird"><audio controls="", preload="none"><source src="https://static.inaturalist.org/sounds/215888.wav?1620560610" type="audio/x-wav">Your browser does not support the audio element.</audio>
-</a>
+Blackbird tink call: <a href="https://inaturalist.nz/observations/162093006" title="a chorus of European blackbird tink calls">inaturalist.nz/observations/162093006</a>
+<br />
+Blackbird song: <a href="https://inaturalist.nz/observations/78042543" title="full song of European blackbird">inaturalist.nz/observations/78042543</a>
 <figcaption>Here are examples of a "tink" call and full song of the European blackbird. It's interesting to keep track of these vocalisations separately, as blackbirds don't use them both all year round. A chorus of blackbird tink calls is most common in autumn evenings, while males start singing later, when they start defending their territories in preparation for mating and nesting.</figcaption>
 </figure>
 </div>
