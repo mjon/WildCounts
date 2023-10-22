@@ -18,6 +18,8 @@ tags:
 <img src="/assets/img/banner_images/wild-changes_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
 </figure>
 
+---
+
 It's winter time here in New Zealand and sensible people are keeping their windows shut. Not me though. I keep a window open year round, at least a little, so I can hear, and count, when some of my favourite birds are singing. So it was earlier this week on the sunny late winter morning of 13 August. I was chatting with a colleague in my Lincoln University office when, to our surprise, a butterfly flew past my window, circled about, and flew inside.
 
 I immediately realised that it wasn't a local butterfly. I first thought it was an off-course vagrant from Australia, likely an Australian painted lady. I started to get excited at how strange it was to find such a vagrant in the winter time. I immediately photographed it, collected it in a container, and posted my photos on [iNaturalist NZ](https://inaturalist.nz/observations/30721349).
