@@ -21,7 +21,7 @@ tags:
 ---
 
 <div class="well">
-While we need more large dataets of clean structured data that are easy for data analysts to work with, we also need much bigger collections of anecdotal nature observations. They're all data.
+While we need more large datasets of clean structured data that are easy for data analysts to work with, we also need much bigger collections of anecdotal nature observations. They're all data.
 </div>
 
 There’s a phrase often quoted in data analysis circles: ***"the plural of anecdote is not data."*** It’s a criticism of datasets created by amassing lots of casual unstructured observations (anecdotes). These kinds of data are something all sensible data analysts avoid whenever possible—it’s hard to analyse collections of anecdotes. They’re wrong though—the plural of anecdote **is** data—and that’s true for two quite different reasons.
@@ -53,4 +53,4 @@ Groups of observations can also be important, even when collected in haphazard w
 
 All of this can be done with collections of anecdotal nature observations. These collections make knowledge. That surely meets the definition of data. More than that though, these uses scale with the size of the collections. The bigger the museum collection or citizen science project, the more of these important discoveries and uses will be found.
 
-So, some data scientists still look at the masses of anecdotes in museum collections and iNaturalist and misquote that "the plural of anecdote is not data." I say "No!" Not only is that wrong, but it’s very, very wrong. The plural of anecdote makes useful and important data. While we need more large dataets of clean structured data that are easy for data analysts to work with, we also need much bigger collections of anecdotal nature observations. They're all data.
+So, some data scientists still look at the masses of anecdotes in museum collections and iNaturalist and misquote that "the plural of anecdote is not data." I say "No!" Not only is that wrong, but it’s very, very wrong. The plural of anecdote makes useful and important data. While we need more large datasets of clean structured data that are easy for data analysts to work with, we also need much bigger collections of anecdotal nature observations. They're all data.
