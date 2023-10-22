@@ -27,7 +27,7 @@ There’s currently no one-stop-shop app that does it all. Instead, I’ve put t
 
 Here’s how I do it, keeping in mind that this isn’t the only way. You’re welcome to do what I do, if you have the tech I use. You can equally take this as inspiration to craft a similar workflow using the tech that you have.
 
-## GPS tracking: 
+### GPS tracking: 
 
 Before I start a wild count, I start a GPS track to record exactly where I go.  When I’m travelling light, I just use my iPhone with the excellent [Cyclemeter app](https://cyclemeter.com/). When I’m carrying more gear, I use a Garmin GPS unit. That gives more frequent, and accurate, GPS data.
 
@@ -35,7 +35,7 @@ The Garmin GPS I use if a [GPSMAP64X](https://www.garmin.com/en-US/p/669282), be
 
 I use the GPS track to accurately geotag all my date-time-stamped observations and also all of my photos. Even my iPhone photos, which are geotagged anyway, often get substanially more accurate locations if I re-geotag them with the Garmin track. Every few weeks, I also check the accuracy of the clock in my other cameras. Those cameras don’t have a in-built GPS, so I’m reliant on my GPS tracks to add exact locations to these photos. The more the camera’s clock drifts, the less accurate are the geotag coordinates when the camera’s time is matched with the location on the GPS track.
 
-## Observation entry
+### Observation entry
 
 With my GPS track on, I start counting. I use the [Filemaker Go app](https://apps.apple.com/us/app/claris-filemaker-go-19/id1484857908) to enter my wild counts directly into my iPhone. Filemaker Go is a free database app that runs FileMaker databases on iPhones, iPods, and iPads.  I use FileMaker Go to enter my wild counts as text, audio notes, or drawings, all of which get date-time stamped and geotagged. Those observations are all made within surveys where I enter all the `what-where-when-how-why-who` details.
 
@@ -47,7 +47,7 @@ FileMaker Go has been great for what I need, but I’m not meaning this to be an
 
 (One of these days I’d like to build an open source, cross-platform solution that does the same things.)
 
-## Observation aids
+### Observation aids
 
 To assist with my identifications, I always carry a [10x monocular](https://vortexoptics.com/vortex-solo-10x25-monocular.html) to see things far away (a monocular is essentially half a binocular, so more portable). I also carry a 10x magnifying lens, to see things close up. Both can also be held up to my iPhone camera to get usable telephoto and macro images.
 
@@ -57,7 +57,7 @@ For audio recordings, I carry a small RØDE microphone (the [VideoMicro](https:/
 
 I also always carry a few plastic bags and vials, should I need to collect a specimen. (Remember to comply with local laws and, if needed, ensure that you have an appropriate collecting permit or permission from the relevant agency or land owner.)
 
-## Observation storage
+### Observation storage
 
 Once a week, I import my Filemaker Go observations into a FileMaker Pro database on my laptop. I have scripts in R that connect to the FileMaker Pro database that do the heavy lifting data wrangling. That translates out all of my shorthand observations.
 
@@ -67,14 +67,14 @@ While Filemaker Go geotags all its observations, I’ve found that there’s oft
 
 My database then gets backed up daily onto three hard drives at two locations, and archived monthly on Amazon's AWS Deep Glacier.
 
-## Photo tagging and online storage
+### Photo tagging and online storage
 
 I currently use [Darktable](https://www.darktable.org/) to store, geotag, and annotate all of my photos. Darktable is a powerful, free, open source photo management app for computers. You can upload a GPS track and Darktable will automatically geotag all photos by matching dates and times. I also tag my photos with the species name, place name, and any phenology, age, and interaction information. I do this using the format of iNaturalist observation fields, so that the photos I export from Darktable to iNaturalist will automatically upload this information. 
 
 When I get the time, I upload my photos, and audio, to [iNaturalist](https://iNaturalist.org), to confirm the identifications and share them publicly. Before uploading, I run a [bash script](https://github.com/mjon/iNatTagCleaner) to strip off unnecessary tag names from Darktable (like all the names of people in photos). Uploading lots of photos and audio to iNaturalist is time consuming so I now just upload the most important observations (such as notable first records or unusual interactions or species that I need to identify). At some point I'll have the rest of this scripted to work automatically, as all my photos can be connected to their observations by their shared date-time.
 
 
-## Next steps
+### Next steps
 
 This workflow allows me to average over 3,000 observations a week. This effort should prove invaluable for documenting trends and patterns in the wild species around me, and their changing interactions and phenology. 
 
@@ -90,7 +90,7 @@ There’s a need for an open, online WildCounts system that connects to and exte
 
 Sing out if that’s something you’re interested in too.
 
-# Count first, curate and analyse later
+### Count first, curate and analyse later
 
 All those details at the end might sound like I’ve still got a lot to do before my workflow is complete. In some ways that’s true, but importantly none of that stops me from making more counts. A lot of my more technical unfinished steps in data curation, sharing, and analysis, will take the same amount of effort whether they’re applied to a hundred thousand counts or two million. If I’d waited until I had the time, funding, skills, and collaborators to finish building the technical data processing steps, I still wouldn’t have started counting yet. Instead, by counting first, whenever I’ve completed building the data curation and sharing tech, I’ll have a large and complete long-term dataset at my fingertips.
 
