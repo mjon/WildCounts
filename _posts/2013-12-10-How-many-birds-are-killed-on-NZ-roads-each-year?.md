@@ -60,7 +60,7 @@ I'm riding through housing and open farmland so most of the birds I see dead are
 
 To put a million birds a year into perspective, it has been estimated that the <a href="https://en.wikipedia.org/wiki/Rena_oil_spill">oil spill from the recent Rena disaster killed 20,000 birds</a>. So New Zealanders in cars are as deadly to NZ birds as tens of Rena oil spills every year. The oil not spilled kills many more birds.
 
-Stoats and rats and possums and other mammalian predators still rule though. Landcare Research ecologist John Innes has done <a href="http://www.greatbarrierenvironews.nz/Newsletters/Issue28/Editorial.htm">a back-of-the-envelope calculation</a> to estimate that about 26,628,940 eggs or chicks of native birds lost each year due to mammalian predators in NZ forests. Still, around the periphery of our cities, a fair number of the birds that are lucky enough to fledge from nests that escape predation are then hit by cars.
+Stoats and rats and possums and other mammalian predators still rule though. Landcare Research ecologist John Innes has done <a href="http://www.greatbarrierenvironews.nz/Newsletters/Issue28/Editorial.htm">a back-of-the-envelope calculation</a> to estimate that about 26,628,940 eggs or chicks of native birds are lost each year due to mammalian predators in NZ forests. Still, around the periphery of our cities, a fair number of the birds that are lucky enough to fledge from nests that escape predation are then hit by cars.
 
 It's all something to think about next time you get in your car to drive to work.
 
