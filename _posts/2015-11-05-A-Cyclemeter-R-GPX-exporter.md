@@ -32,7 +32,7 @@ I've added the R script to github in case it's useful to someone else: [https://
 
 <div class="indent">
 <figure class="align-center">
-<a href="https://github.com/mjon/Cyclemeter-R-GPX-exporter">img src="../../../../../../../assets/img/Cyclemeter R GPX exporter.png" width="90%" alt="R code"></a>
+<a href="https://github.com/mjon/Cyclemeter-R-GPX-exporter"><img src="../../../../../../../assets/img/Cyclemeter R GPX exporter.png" width="90%" alt="R code"></a>
   <figcaption>This is a snippet of the R code that builds the GPX files from the Cyclemeter database.</figcaption>
 </figure>
 </div>
