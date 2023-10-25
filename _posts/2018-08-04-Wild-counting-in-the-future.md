@@ -19,13 +19,13 @@ tags:
 
 ---
 
-Grab some fresh banana skins for your flux capacitor, we’re going to the future! Not the mundane one-day-at-a-time kind of time travel either. Let's project ourselves forward 50 years and imagine what it will be like to explore nature and count the wild in the future. What is the future likely to bring and how should it affect how we count the wild today?
+Grab some fresh banana skins for your [flux capacitor](https://en.wikipedia.org/wiki/DeLorean_time_machine), we’re going to the future! Not the mundane one-day-at-a-time kind of time travel either. Let's project ourselves forward 50 years and imagine what it will be like to explore nature and count the wild in the future. What is the future likely to bring and how should it affect how we count the wild today?
 
 It's a safe bet that future technology will revolutionise nature watching and biodiversity monitoring (assuming the world hasn't sunk into some Mad Max apocalypse). Fifty years ago was decades before the internet, personal computers, digital cameras, personal GPS units, and cellphones. Personal electronic calculators had <a href="http://www.vintagecalculators.com/html/ti_cal-tech1.html">just become available</a> and the first digital watches were <a href="https://www.wired.com/2015/03/tech-time-warp-week-1972-digital-watch-cost-car/">just a few years away</a>. Compared with today, counting the wild took enormous dedication and a steady supply of notebooks and pencils.
 
 Given the rapid progress in the past decades, it seems a certainty that the next decades will be at least as transformative. It's easy to imagine many of today's cutting edge technological advances becoming common place alongside surprising new devices and information technologies. 
 
-It's already the case now that technology can both enhance and distract from our experiences with nature. It all depends on how you use it. Using a smartphone in the wild with the iNaturalist app can deepen your experience in the wild.  Getting distract by Instagram notifications does the complete opposite. I can see that dichotomy and the lure of distraction growing over time. Still, I expect that the observation-enhancing power of new technologies is going to be phenomenal.
+It's already the case now that technology can both enhance and distract from our experiences with nature. It all depends on how you use it. Using a smartphone in the wild with the [iNaturalist](https://inaturalist.org) app can deepen your experience in the wild.  Getting distract by Instagram notifications does the complete opposite. I can see that dichotomy and the lure of distraction growing over time. Still, I expect that the observation-enhancing power of new technologies is going to be phenomenal.
 
 At risk of the future proving me wrong, I predict that the following advances will all become well established and widely used in several decades, if not sooner. All have the potential to revolutionise our monitoring of wild nature. Many also make us re-think what observations we should be collecting now.
 
@@ -41,7 +41,7 @@ The future inevitability of widely available, accurate, automated audio processi
 
 ### Accurate automated species ID from images
 
-It's also inevitable, given the rapid recent progress, that computers will be able to identify species in photos and videos at least as accurately as the world’s taxonomic experts. Neural networks like iNaturalist’s computer vision and Google’s Lens are quickly digesting the expertise of the world’s biodiversity experts. Cameras are also getting better and cheaper all the time.
+It's also inevitable, given the rapid recent progress, that computers will be able to identify species in photos and videos at least as accurately as the world’s taxonomic experts. Neural networks like iNaturalist’s [computer vision](https://inaturalist.org/computer_vision_demo) and Google’s Lens are quickly digesting the expertise of the world’s biodiversity experts. Cameras are also getting better and cheaper all the time.
 
 This means that alongside those networked audio recorders, on the top of each city bus or building, there could also be a network of cameras filming everything.  The images and audio sent to computer systems would give a detailed real time account of the abundance of all large species seen and heard. Many of the world’s cities are already filled with closed-circuit surveillance cameras to reduce crime. Imagine what future networks could do for wildlife surveillance.
 
