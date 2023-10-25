@@ -15,6 +15,7 @@ tags:
   - gardening
   - farming
 ---
+
 <figure class="align-center">
 <img src="/assets/img/banner_images/wild-soapbox_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
 </figure>
