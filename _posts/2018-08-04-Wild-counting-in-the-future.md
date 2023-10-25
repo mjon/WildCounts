@@ -104,3 +104,11 @@ Coming back to now, things seem pretty humdrum with our dumb "smartphones". Stil
 When you’re next out in the wild, don't restrict your thinking to what can be done now. Think also about what future tech could do with your observations. Perhaps you could have a smartphone set to record audio the whole time you're at each site. You could take panoramic photos at every site you visit. If you have the right permits, you could collect a small sample of soil from each site for future DNA sequencing (if you have a spare -80°C freezer to store them in). 
 
 If we were organised about how we did this, we could offer the future a detailed view of what the wild is like right now, today. Everything points towards the wild of the future being different, and likely less diverse, than what we have today. What we observe now will tell future generations how different their wild is, and help them to predict and manage their changing wild.
+
+<div class="indent">
+<figure>
+<a href="https://www.flickr.com/photos/mollivan_jon/8127032695/" title="Be part of tomrrow...today! Buy a brick."><img src="https://live.staticflickr.com/8468/8127032695_ea037e27d7.jpg" width="480px" alt="Be part of tomrrow...today! Buy a brick."></a>
+<figcaption>Be part of tomorrow ... today! Instead of buying a brick (?), think about recording some audio of nature, or taking some geotagged photopoint photos, or perhaps, if you've got the facilities, start storing samples for future eDNA sequencing.</figcaption>
+</figure>
+</div>
+
