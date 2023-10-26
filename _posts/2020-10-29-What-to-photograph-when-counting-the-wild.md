@@ -57,7 +57,7 @@ Even when you’re sure of an identification, there’s sometimes a small chance
 <div class="indent">
 <figure>
 <a href="https://www.inaturalist.org/observations/188357504" title="Grey fantail in Melbourne"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/329651811/large.jpeg" width="480px" alt="Grey fantail in Melbourne"></a>
-<figcaption>If I got a quick look at this bird in NZ, it's quite possible that I'd confidently say I saw a NZ fantail. Ikd be wrong though, as this is an Australian grey fantail, seen here near Melbourne by Anthony Kurek (@a_kurek, CC-BY-NC).</figcaption>
+<figcaption>If I got a quick look at this bird in NZ, it's quite possible that I'd confidently say I saw a NZ fantail. I'd be wrong though, as this is an Australian grey fantail, seen here near Melbourne by Anthony Kurek (@a_kurek, CC-BY-NC).</figcaption>
 </figure>
 </div>
 
@@ -80,7 +80,7 @@ For plants that have different sexes on different plants, close photos of the fl
 <div class="indent">
 <figure>
 <a href="https://www.inaturalist.org/observations/1017418" title="Flowers of a male Chilean mayten"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1199213/large.jpg" width="480px" alt="Flowers of a male Chilean mayten"></a><a href="https://www.inaturalist.org/observations/35588100" title="Flowers of a female Chilean mayten"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/56131904/large.jpg" width="480px" alt="Flowers of a female Chilean mayten"></a>
-<figcaption>Flowers of a male and female Chilean mayten, <i>Maytenus boaria</i>. This species has separate male and female trees, with only the female making seed. In &#332;tautahi-Christchurch, NZ, initially only males were planted in gardens, but later females were also sold through the nursery trade and it was then that it became a weed. Now, knowing where the females are is particularly important.</figcaption>
+<figcaption>Flowers of a male and female Chilean mayten, <i>Martens boaria</i>. This species has separate male and female trees, with only the female making seed. In &#332;tautahi-Christchurch, NZ, initially only males were planted in gardens, but later females were also sold through the nursery trade and it was then that it became a weed. Now, knowing where the females are is particularly important.</figcaption>
 </figure>
 </div>
 
@@ -100,7 +100,7 @@ All of this information can be invaluable for understanding the likely causes of
 
 <div class="indent">
 <figure>
-<a href="https://www.inaturalist.org/observations/14342212" title="Flowers of a male Chilean mayten"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/21312152/large.jpg" width="480px" alt="Flowers of a male Chilean mayten"></a>
+<a href="https://www.inaturalist.org/observations/14342212" title="A NZ common tussock butterfly"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/21312152/large.jpg" width="480px" alt="A NZ common tussock butterfly"></a>
 <figcaption>A NZ common tussock butterfly, <i>Argyrophenga antipodum</i>. This photo can not only be used to confirm my identification of this species, but also provides evidence that it feeds from flowers of the European yarrow, <i>Achillea millefolium</i>. At the time of writing, this observation is the only evidence of this species interaction in the <a href="https://www.globalbioticinteractions.org/">Global Biotic Interactions</a> database. Photos of species interacting with other species are useful evidence of how ecosystems are connected.
 </figcaption>
 </figure>
