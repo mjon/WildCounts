@@ -145,7 +145,7 @@ But wait, there's more! There's one extra special case here that you may also fi
 
 I find that it's often useful to separate my standard routes into sections, based on landmarks and  divisions between habitat types. Similarly, I divide my stationary and site exploring surveys into 20 minute intervals, to capture how nature is changing throughout the day.
 
-In both cases, it's possible to find what is definitely, or possibly, the same individual present in two consecutive route sections, or in two adjacent time intervals. In these cases, they are not really the same in the sense of the WildCounts syntax `@`. That would mean that they'd be ignored when summing the total count for that interval or route section. Instead, they are "the same again", which has the syntax `@@`. If they're possibly the same again, that's `@@!`. In both cases, they're still considered a separate count for the total for that interval or route section.
+In both cases, it's possible to find what is definitely, or possibly, the same individual present in two consecutive route sections, or in two adjacent time intervals. In these cases, they are not really the same in the sense of the WildCounts syntax `@`. That would mean that they'd be ignored when summing the total count for that interval or route section. Instead, they are "the same again", which has the syntax `@@`. They're still considered a separate count for the total for that interval or route section.
 
 To make this clearer, here's an example of a 40 minute stationary count, divided into two 20 minute intervals. It illustrates why this subtle distinction can be useful.
 
