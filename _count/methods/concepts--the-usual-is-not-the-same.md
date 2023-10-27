@@ -151,29 +151,29 @@ To make this clearer, here's an example of a 40 minute stationary count, divided
 
 ```
 /14:00-
-bellb |n1xmv,n1xmv@*n1xmv!
+bellb |n1xmv,n1xmv@*n2xmv!
 /14:20-
-bellb n1xmv@@,n1xmv@@!|m1xmv
+bellb n1xmv@@,n2xmv@@!|m1xmv
 /-14:40
 ```
 
-This means that, in the first 20-minute interval, starting at 2 PM, male bellbirds were heard singing nearby three times, all after the first five minutes (that's the `|`). The second song (`n1xmv@`) was definitely the same bird as the first song, and it was joined by the song of a definitely different, second bird (`n1xmv!`). The total count for this interval is therefore **2** bellbirds.
+This means that, in the first 20-minute interval, starting at 2 PM, male bellbirds were heard singing nearby three times, all after the first five minutes (that's the `|`). The second song (`n1xmv@`) was definitely the same bird as the first song, and it was joined by the song of two definitely different birds (`n1xmv!`). The total count for this interval is therefore **3** bellbirds.
 
-In the second interval, beginning at 2:20 PM, the two male bellbirds from the previous interval are still about (which I'd know from their locations and sometimes their different song dialects). The first bird from the previous interval sang first (`n1xmv@@`), and then the second bird from the previous interval sang (`n1xmv@@!`). Note that this is flagged as a definitely different bird from the first, using `!`. After the first five minutes, male bellbird song is heard again (`m1xmv`), but it's not clear whether it was the same or a different individual. Remember that `@!` is the default for stationary counts, so it's implied here. The total count for this second interval is therefore **2--3** bellbirds. Also, two of those were definitely recounted from the previous interval, so the total count for the whole survey is also **2--3** bellbirds.
+In the second interval, beginning at 2:20 PM, the three male bellbirds from the previous interval are still about (which I'd know from their locations and sometimes their different song dialects). The first bird from the previous interval sang first (`n1xmv@@`), and then the two other birds from the previous interval sang (`n2xmv@@!`). Note that this is flagged as definitely different birds from the first, using `!`. After the first five minutes, male bellbird song is heard again (`m1xmv`), but it's not clear whether it was the same or a different individual. Remember that `@!` is the default for stationary counts, so it's implied here. The total count for this second interval is therefore **3--4** bellbirds. Also, three of those were definitely recounted from the previous interval, so the total count for the whole survey is also **3--4** bellbirds.
 
 If I had not used "that same again" concept, and had instead just used "the same", my counts would have been entered as follows.
 
 ```
 /14:00-
-bellb |n1xmv,n1xmv@*n1xmv!
+bellb |n1xmv,n1xmv@*n2xmv!
 /14:20-
-bellb n1xmv@,n1xmv@!|m1xmv
+bellb n1xmv@,n2xmv!|m1xmv
 /-14:40
 ```
 
-That second interval would then have been interpreted differently: the first song is the same, but the second song may or may not be the same, and the third song is the default of possibly the same. The total count for the second interval ends up being **1--3** birds, not **2--3**. Also, the total count for the whole survey ends up being **2--4**, not **2--3**.
+That second interval would then have been interpreted differently: the first song is the same, but the second song is different (there would be no way to flag that it's the same again as the pair of birds heard in the first interval), and the third song is the default of possibly the same. The total count for the second interval is still **3--4** birds, but the total count for the whole survey ends up being **3--6**, not **3--4**.
 
-The difference between "the same" and "the same again" is subtle, but useful, as it gives more precise counts.
+The difference between "the same" and "the same again" is subtle, but can be useful, as it gives more precise counts.
 
 To keep the syntax straight, these are always interpreted in the order of "is it the same again?" and then "is it the same?". That was in the example above with `n1xmv@@!`.
 
