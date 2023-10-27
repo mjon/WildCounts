@@ -122,7 +122,7 @@ In that example, my total count is **2--3** bellbirds, because the third bird is
 
 Importantly, I'm not entering a conservative count of 2. I'm also not entering an optimistic count of 3. I am only entering what I found, which is that I made three sightings of 2 or 3 birds. One of the key [WildCounts principles](../wildcounts-priciples/) is "Never guess and never interpret". If a researcher wants to be conservative and use 2, or optimistic and use 3, in their analyses later, that's their choice. I've just recorded exactly what I saw.
 
-To save time, whenever I'm doing stationary counts, everything is `@!` by default, unless I specify otherwise for a particular observation. This means that when I’m stationary, I just need to tag those observations that are definitely the same (`!`), or definitely different (`@`). Otherwise they'll all be maybe the same.
+To save time, whenever I'm doing stationary counts, everything is `@!` by default, unless I specify otherwise for a particular observation. This means that when I’m stationary, I just need to tag those observations that are definitely the same (`@`), or definitely different (`!`). Otherwise they'll all be maybe the same.
 
 When I'm doing a moving count, everything is instead `!`, unless I specify otherwise. I just then need to add `@!` or `@` when I've possibly or definitely just recounted the same individual. That happens, for example, if a bird is flying faster than I am moving, or if I go around a corner and may have resighted the same individual from a different angle. Otherwise they're all definitely different.
 
