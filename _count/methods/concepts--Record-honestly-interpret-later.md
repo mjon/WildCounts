@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Record honestly, interpret later"
 sub_title: "Tips for keeping your interpretations and assumptions out of your wild counts. "
 excerpt: ""

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Song then seen ≠ Seen then song"
 sub_title: "Why it's worth noting separately which wild animals you hear then see and those you see then hear."
 author: jonsullivan

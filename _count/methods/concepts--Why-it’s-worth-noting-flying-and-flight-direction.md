@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Why it’s worth noting flying and flight direction."
 author: jonsullivan
 date:   2018-09-14 10:30:00 +1300

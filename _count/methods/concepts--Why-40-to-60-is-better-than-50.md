@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Why 40 to 60 is better than 50."
 sub_title: "Recording an accurate maximum and minimum range for a count is better than estimating an exact count."
 author: jonsullivan
