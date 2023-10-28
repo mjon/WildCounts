@@ -22,7 +22,7 @@ tags:
 ---
 
 <div class="well">
-[Editor's note: While CEBRA evolved independently of the WildCounts monitoring method, it shares many similarities and the two approaches can be used together. Like WildCounts, CEBRA is focused on providing simple, easy methods to add consistency to nature observations. I'm pleased to include this article on CEBRA written by its founder, Jagoba Malumbres-Olarte.]
+Here are some ways to make observations of nature that allow you, or others, to document trends over time. If you're interested in learning about what's changing in nature, it's worth thinking about how to add some consistency to your counting. It can be really easy to do.
 </div>
 
 There are different ways you can count the wild to reveal long term trends in nature. Some are easy and simple. Others have all the whistles and bells attached, requiring lots of money, time, and/or expertise. 
