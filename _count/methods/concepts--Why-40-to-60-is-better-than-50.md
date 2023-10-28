@@ -1,8 +1,9 @@
 ---
-title:  "Why 40 to 60 is better than 50."
+title:  "Why 40 to 60 is better than 50"
 sub_title: "Recording an accurate maximum and minimum range for a count is better than estimating an exact count."
 author: jonsullivan
 date:   2018-08-05 17:30:00 +1300
+last_modified_at:   2023-10-28 17:30:00 +1300
 meta: 
   - Wild Counting
 categorylink:
@@ -12,6 +13,7 @@ tags:
   - ecological monitoring
   - rapid biodiversity monitoring
   - citizen science
+permalink: /count/concepts--why-40-to-60-is-better-than-50/
 ---
 
 <div class="well">

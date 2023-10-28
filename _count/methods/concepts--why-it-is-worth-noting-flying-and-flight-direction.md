@@ -1,7 +1,9 @@
 ---
-title:  "Why it’s worth noting flying and flight direction."
+title:  "Why it’s worth noting flying and flight direction"
+sub_title: "One black shag far mid to the northeast flying southwest."
 author: jonsullivan
 date:   2018-09-14 10:30:00 +1300
+last_modified_at:   2023-10-28 17:30:00 +1300
 meta: 
   - Wild Counting
 categorylink:
@@ -11,7 +13,7 @@ tags:
   - bird counting
   - shorthand
   - flight direction
-  
+permalink: /count/concepts--why-it-is-worth-noting-flying-and-flight-direction/
 ---
 
 <div class="well">

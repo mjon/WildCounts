@@ -3,6 +3,7 @@ title:  "Song then seen ≠ Seen then song"
 sub_title: "Why it's worth noting separately which wild animals you hear then see and those you see then hear."
 author: jonsullivan
 date:   2018-07-03 10:30:00 +1300
+last_modified_at:   2023-10-28 17:30:00 +1300
 meta: 
   - Wild Counting
 categorylink:
@@ -11,6 +12,7 @@ tags:
   - ecological monitoring
   - bird counting
   - shorthand
+permalink: /count/concepts--song-then-seen-is-not-seen-then-song/
 ---
 
 <div class="well">

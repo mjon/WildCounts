@@ -1,9 +1,9 @@
 ---
 title:  "Record honestly, interpret later"
 sub_title: "Tips for keeping your interpretations and assumptions out of your wild counts. "
-excerpt: ""
 author: jonsullivan
 date:   2018-08-06 10:30:00 +1300
+last_modified_at:   2023-10-28 17:30:00 +1300
 meta: 
   - Wild Counting
 categorylink:
@@ -12,6 +12,7 @@ tags:
   - ecological monitoring
   - data collection
   - citizen science
+permalink: /count/concepts--record-honestly-interpret-later/
 ---
 
 <div class="well">
