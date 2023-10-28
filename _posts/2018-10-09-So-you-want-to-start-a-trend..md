@@ -81,6 +81,13 @@ If you're the only observer, the Who is you. If other people help you, they get 
 
 At its simplest you can then just record the daily presence or absence of the species at your place(s) (yes or no, I found it or I didn't). Keep doing that day after day and trends will soon emerge, first seasonal and then annual. Recruit your friends and others to join in and you'll soon know a lot about how your species is trending.
 
+<div class="indent">
+<figure>
+<a href="/assets/img/BurnsBuldingGreywarblers.png" title="Grey warbler (riorio) trends from my office window"><img src="/assets/img/BurnsBuldingGreywarblers.png" width="90%" alt="Grey warbler (riorio) trends from my office window"></a>
+<figcaption>This graph shows when I saw or heard riroriro/NZ grey warblers from my office at Lincoln University. Every 1 is a day where I saw or heard this species, and every 0 is a day when I didn't. Fitting statistics to this shows that there has been an ongoing decline in grey warblers, with more birds observed in winter than summer months. Counts like this are very simple to make, and often reveal trends that nobody has noticed.</figcaption>
+</figure>
+</div>
+
 If you're extra keen, or your species are easy to count, you could also make a conservative daily count of how many individuals of that species you saw or heard. The safest way to do that, since individuals will come and go through the day, is to record the maximum number of individuals you observed together at one time.
 
 This is a simple habit to get into. The key is being consistent in always recording the When, even on days when you don't see any of your species, and be diligent not to change the How. 
@@ -89,14 +96,7 @@ Rinse, repeat, and watch the trends emerge.
 
 ### The bells and whistles
 
-Welcome to the top of the slippery slope of wild counting. The essentials of What-Why-Where-When-How-Who can be elaborated on to count much more of the wild, much more frequently. I now use a [Filemaker Go app](../../../../../../../count/wildcounts-app-FilemakerGo/) on my iPhone to count the wild everywhere I go. I'm even doing it right now, while I write this, using an expanded version of "Today I found" that breaks my day into consecutive 20 minute intervals. My office window is open, and I’m noting down any native forest birds I hear or see, or butterflies I see, in each interval. I've been doing that for many years, from work and from home (for example, [here's the first seven years of doing it from my work office](../../../../2018/06/02/Seven-years-of-bird-counting-from-my-office/)).
-
-<div class="indent">
-<figure>
-<a href="/assets/img/BurnsBuldingGreywarblers.png" title="Grey warbler (riorio) trends from my office window"><img src="/assets/img/BurnsBuldingGreywarblers.png" width="90%" alt="Grey warbler (riorio) trends from my office window"></a>
-<figcaption>This graph shows when I saw or heard riroriro/NZ grey warblers from my office at Lincoln University. Every 1 is a day where I saw or heard this species, and every 0 is a day when I didn't. Fitting statistics to this shows that there has been an ongoing decline in grey warblers, with more birds observed in winter than summer months. Counts like this are very simple to make, and often reveal trends that nobody has noticed.</figcaption>
-</figure>
-</div>
+Welcome to the top of the slippery slope of wild counting. The essentials of What-Why-Where-When-How-Who can be elaborated on to count much more of the wild, much more frequently. I now use a [Filemaker Go app](../../../../../../../count/wildcounts-app-FilemakerGo/) on my iPhone to count the wild everywhere I go. I'm even doing it right now, while I write this, using an expanded version of "Today I found" that breaks my day into consecutive 20 minute intervals. My office window is open, and I’m noting down any native forest birds I hear or see, or butterflies I see, in each interval. I've been doing that for many years, from work and from home (for example, [here's the first seven years of doing it from my work office](../../../../blog/2018/06/02/Seven-years-of-bird-counting-from-my-office/)).
 
 There are more detals about my complete Wild Counts method [elsewhere on this website](https://wildcounts.org/count/home/). What’s important is that you don’t need to start with a jump into the deep end. There are also simpler, consistent ways to count the wild to reveal trends in nature.
 
