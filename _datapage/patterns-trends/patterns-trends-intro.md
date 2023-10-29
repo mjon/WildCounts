@@ -28,12 +28,16 @@ When nature observations are made consistently, with all the What-Why-Where-When
 
 I won't publish data analysis code until the WildCounts data format has been updated to be compliant with the [Darwin Core](https://dwc.tdwg.org/) standard for biodiversity collection data and the new [Humboldt Core](https://eco.tdwg.org/) standard for ecological survey data. In the meantime, here are some examples of the patterns and trends that can be seen from my 20-years of personal wild counts. All were produced with the free, open-source apps [R](httsp://www.r-project.org) and [QGIS](https://http://qgis.org/).
 
+---
+
 <div class="indent">
 <figure>
 <a href="../../../../assets/img/wigram20231008.pdf" title="PDF map of birds along run route on one day"><img src="../../../../assets/img/wigram20231008.png" width="90%" alt="map of birds along run route on one day"></a>
   <figcaption>Here are the native New Zealand forest birds I counted along my weekly wild counts run, in this case my Wigram route through the southwestern suburbs of &#332;tautahi-Christchurch city, on 8 October 2023. The data were spoken into my iPhone in <a href="https://wildcounts.org/count/wildcounts-spoken-intro/">WildCounts Spoken format</a>, transcribed later that day with <a href="https://aws.amazon.com/transcribe/">AWS Transcribe</a>, checked, then imported as a spreadsheet into QGIS to make this map.</figcaption>
 </figure>
 </div>
+
+---
 
 <div class="indent">
 <figure>
@@ -42,6 +46,8 @@ I won't publish data analysis code until the WildCounts data format has been upd
 </figure>
 </div>
 
+---
+
 <div class="indent">
 <figure>
 <a href="../../../../assets/img/all-kereru-ChristchurchNZ.jpg" title="map of all kereru I have ever seen in Christchurch city NZ and everywhere I've looked"><img src="../../../../assets/img/all-kereru-ChristchurchNZ.jpg" width="90%" alt="map of all kereru I have ever seen in Christchurch city NZ and everywhere I've looked"></a>
@@ -49,9 +55,13 @@ I won't publish data analysis code until the WildCounts data format has been upd
 </figure>
 </div>
 
+---
+
 <div class="indent">
 <figure>
 <a href="/assets/img/BurnsBuldingGreywarblers.png" title="Grey warbler (riorio) trends from my office window"><img src="/assets/img/BurnsBuldingGreywarblers.png" width="90%" alt="Grey warbler (riorio) trends from my office window"></a>
   <figcaption>This graph shows when I saw or heard <a href="https://inaturalist.nz/taxa/13494-Gerygone-igata">riroriro/NZ grey warblers</a> from my office at Lincoln University, New Zealand. Every 1 is a day where I saw or heard this species, and every 0 is a day when I didn't. Fitting a binomial generalised linear model to these data shows that there has been an ongoing decline in grey warblers, with more birds observed in winter than summer months. Counts like this are very simple to make, and often reveal trends that nobody has noticed.</figcaption>
 </figure>
 </div>
+
+---
