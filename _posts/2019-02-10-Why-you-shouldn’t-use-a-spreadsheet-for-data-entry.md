@@ -61,7 +61,7 @@ It's far too easy in spreadsheets to do everything except make a simple, tightly
 
 ### Fruit salad formatting in columns
 
-For data analysis, each column needs to consistently contain one kind of data. For example, a column could contain just numbers, or just a set of categories, or just dates. Instead, the freedom of a blank spreadsheet lets you enter a wild mix of numbers, text, and question marks in any column.
+For data analysis, each column needs to consistently contain one kind of data, for example, a column could contain just numbers, or just a set of categories, or just dates. Instead, the freedom of a blank spreadsheet lets you enter a wild mix of numbers, text, and question marks in any column.
 
 Each column should be set up to do one job only. Setting up a database encourages this level of thinking about your data. Spreadsheets don't, and almost inevitably that means a lot of wasted time reformatting spreadsheet data for analysis.
 
@@ -175,7 +175,13 @@ Everyone with a choice should take the time to set up and use databases. If your
 
 <div class="indent">
 <figure>
-<a href="https://xkcd.com/2180/" title="XKCD Spreadsheets"><img src="https://imgs.xkcd.com/comics/spreadsheets.png" width="480px" alt="XKCD Spreadsheets"></a>
+<a href="https://xkcd.com/2180/" title="XKCD Spreadsheets"><img src="https://imgs.xkcd.com/comics/spreadsheets.png" width="80%" alt="XKCD Spreadsheets"></a>
 <figcaption>There's an XKCD cartoon for just about everything, including on spreadsheets and databases. CC BY-NC 2.5 Randall Munroe</figcaption>
 </figure>
+</div>
+
+---
+
+<div class="well">
+[Update: If you're still not convinced, there's an article in the big science journal <a href="https://www.nature.com/articles/d41586-021-02211-4">Nature</a> from 2021 that reports on a large survey of scientific papers on genetics. It reveals that 30% of scientific papers (!) contain mangled gene names in the data published in their supplementary materials. What's the cause of those errors? Spreadsheet autocorrect, of course. "One solution is to avoid using spreadsheets."]
 </div>

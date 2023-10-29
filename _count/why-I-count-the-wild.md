@@ -60,7 +60,7 @@ I started by consistently noting observations of a few species on a piece of pap
 </figure>
 </div>
 
-Then I got hooked. I've since expanded the species I count as I've increased my identification skills and invented more efficient ways of recording my observations, with my shorthand and smart phone. My bike rides expanded to to all bigger bodied birds, then all birds. I added large fungi, which are prominent on the roadsides at some times of the year. I added some notable plants and their flowering times. When my son was born, in 2008, I added wild counting to my weekly run, which I first did while pushing his pram around my run route during his afternoon naps. Soon afterwards, I expanded to counting at all the other places I went.
+Then I got hooked. I've since expanded the species I count as I've increased my identification skills and invented more efficient ways of recording my observations, with my shorthand and smart phone. My bike rides expanded to to all bigger bodied birds, then all birds. I added large fungi, which are prominent on the roadsides at some times of the year. I added some notable plants and their flowering times. When my daughter was born, in 2008, I added wild counting to my weekly run, which I first did while pushing her pram around my run route during his afternoon naps. Soon afterwards, I expanded to counting at all the other places I went.
 
 <div class="indent">
 <figure>
