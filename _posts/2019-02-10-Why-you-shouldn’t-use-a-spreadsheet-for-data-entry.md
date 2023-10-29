@@ -4,6 +4,7 @@ title:  "Why you shouldn’t use a spreadsheet for data entry"
 sub_title: "Seriously, people. Step away from the spreadsheets."
 author: jonsullivan
 date:   2019-02-10 10:30:00 +1300
+last_modified_at:   2023-10-29 19:30:00 +1300
 meta: 
   - Data Wrangling
 categories: 
