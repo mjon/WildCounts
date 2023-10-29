@@ -3,7 +3,7 @@ title: Find patterns and trends
 sub_title: "How to document patterns and reveal trends in your wild counts."
 author: Jon Sullivan
 date:   2018-05-21 17:30:00 +1300
-last_modified_at:   2021-10-10 17:30:00 +1300
+last_modified_at:   2023-10-29 14:10:00 +1300
 meta: 
   - Data Wrangling
 categories: 
