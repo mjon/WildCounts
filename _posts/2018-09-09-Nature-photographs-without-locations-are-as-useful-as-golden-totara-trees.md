@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nature photographs without locations are as useful as golden t&#333;tara trees."
+title:  "Nature photographs without locations are as useful as golden t&#333;tara trees"
 sub_title: "Please consider sharing your nature photos online with the accurate date, time, and location information."
 author: Jon Sullivan
 date:   2018-09-09 10:30:00 +1300
