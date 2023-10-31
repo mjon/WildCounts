@@ -4,7 +4,7 @@ title:  "A butterfly flew through"
 sub_title: "How a common European butterfly happened to fly through my office window, half a world away in New Zealand."
 author: jonsullivan
 date:   2019-08-16 10:30:00 +1300
-categories: 
+meta: 
   - Wild Changes
 categorylink:
   - wild-changes
