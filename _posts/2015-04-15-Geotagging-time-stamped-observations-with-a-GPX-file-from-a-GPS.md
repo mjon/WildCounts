@@ -11,6 +11,11 @@ categorylink:
   - data-wrangling
 ---
 
+<figure class="align-center">
+<img src="/assets/img/banner_images/wild-data-wrangling_banner_tangle_1680px200px.jpg" width="100%" alt="tangle banner">
+</figure>
+
+---
 I count a lot of things (my [current observations on iNaturalist NZ](https://inaturalist.nz/observations?place_id=any&user_id=jon_sullivan&verifiable=any) are just some of the photographed tip of my data iceberg). All my observations of species are most useful if I know exactly when and where they were. When I'm making a lot of observations, I find it's quickest to record only the "when" (the time stamp) and get the "where" later. In other words, I have a GPS tracking my movements on a trip, and I just record the time of each observation in the field. I can then automatically calculate the "where" for all my observations later, by syncing their time stamps and the GPS track.
 
 I've already been doing this with my camera for some time. My DSLR camera doesn't have an in-built GPS. However, like all digital cameras, it records the date and time of the photo in the photo file. I ensure that its clock on my camera has the accurate time. I then GPS track my movements, usually just with the [Cyclemeter app](https://cyclemeter.com/) on my iPhone, although sometimes with a [professional GPS unit]((https://www.garmin.com/en-US/p/669282)) (they give more precise data under a canopy). 
