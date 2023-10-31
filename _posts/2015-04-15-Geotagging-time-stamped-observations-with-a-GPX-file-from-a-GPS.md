@@ -31,7 +31,7 @@ You can find my geotagging R script on [Github](https://github.com/mjon/geotag-t
 <div class="indent">
 <figure class="align-center">
 <img src="../../../../../../../assets/img/screenshot of R geotagging.png" width="90%" alt="R screenshot">
-  <figcaption>A screenshot of the R script in action. When given a GPX GPS track, and the date and time of an observation, it uses the GPX track to calculate the location of that observation.</figcaption>
+  <figcaption>A screenshot of <a href="https://github.com/mjon/geotag-timestamps-with-gpx">the R script</a> in action. When given a GPX GPS track, and the date and time of an observation, it uses the GPX track to calculate the location of that observation.</figcaption>
 </figure>
 </div>
 
