@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why iNaturalist observations without photos can be research grade."
+title:  "Why iNaturalist observations without photos can be research grade"
 sub_title: "All your observations on iNaturalist don’t need to have photos or audio. Simple text observations can be just as valuable."
 author: jonsullivan
 date:   2019-04-30 17:30:00 +1300
@@ -23,7 +23,7 @@ tags:
 ---
 
 <div class="well">
-This article is expanded from <a href="https://forum.inaturalist.org/t/what-is-evidence/470/33">a post</a> I wrote on the iNaturalist Forum debating the usefulness of observations that don't have supporting photos or audio recordings. In the right circumstances, those observations can be very useful.
+This article is expanded from <a href="https://forum.inaturalist.org/t/what-is-evidence/470/33" title="iNaturalist Forum page">a post</a> I wrote on the iNaturalist Forum debating the usefulness of observations that don't have supporting photos or audio recordings. In the right circumstances, those observations can be very useful.
 </div>
 
 I've written before about how [iNaturalist](https://www.inaturalist.org), at least most of it, is essentially a huge, extraordinary, online natural history museum. Instead of specimens, it's got photos and sound recordings. There is an emphasis, both in the user interface and the iNat community, on collecting what's described as evidence-based observations. The evidence is a photo or audio recording. Other users, often with considerable expertise, can use this evidence to confirm identifications, and so make them "research grade".
@@ -32,7 +32,7 @@ This has led to some iNat users questioning whether there is any use to uploadin
 
 I want to push back against this view that citizen science observations without evidence are unlikely to be of use for research. Often that's not true.
 
-To do research with biodiversity data, it is ideal to estimate the probability that an observation ID is correct. With museum and herbarium collection data, it is usually assumed that mis-identifications are unlikely and IDs can be assumed to be correct. That’s not the case with iNat data, whether or not an observation is "research grade". (We should not be ignoring the mis-identifiction probability in collections either.)
+To do research with biodiversity data, it is ideal to estimate the probability that an observation ID is correct. With museum and herbarium collection data, it is usually assumed that mis-identifications are unlikely and IDs can be assumed to be correct. That’s not the case with iNat data, whether or not an observation is "research grade". (We should not be ignoring the mis-identification probability in collections either.)
 
 The probability of an iNat ID being correct can be estimated using a combination of the proportion of times particular observers and particular identifiers have misidentified a particular taxon. Some taxa are also inherently easier to ID than others, which can be quantified with iNat data.
 
