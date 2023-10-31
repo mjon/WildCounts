@@ -18,7 +18,7 @@ Stay tuned for information about finding wild counts data on data websites, wran
 
 As WildCounts grows, there will be more tools developed for analyzing and visualizing the stories inside the data. The initial tools are built for people with some data skills, using the free data app [R](https://www.r-project.org), but easier visual push-button options are possible in the future.
 
-Currently we're in the final stages of developing a modern data format for WildCounts data that is compliant with [Darwin Core](https://dwc.tdwg.org/) standard for biodiversity collection data and the [Humboldt Core](https://eco.tdwg.org/) standard for ecological survey data (Humboldt Core was released in public draft form in late 2023). There is always a better way to do things, and this should not delay you monitoring the wild. All of the [WildCounts shorthand vocabulary](https://wildcounts.org/count/wildcounts-shorthand-vocab/) will be mapped onto the new standard format, connecting where possible to the concepts in Darwin Core and Humboldt Core.
+Currently we're in the final stages of developing a modern data format for WildCounts data that is compliant with the [Darwin Core](https://dwc.tdwg.org/) standard for biodiversity collection data and the [Humboldt Core](https://eco.tdwg.org/) standard for ecological survey data (Humboldt Core was released in public draft form in late 2023). There is always a better way to do things, and this should not delay you monitoring the wild. All of the [WildCounts shorthand vocabulary](https://wildcounts.org/count/wildcounts-shorthand-vocab/) will be mapped onto the new standard format, connecting where possible to the concepts in Darwin Core and Humboldt Core.
 
 ---
 
