@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Planted native trees are not wild."
-sub_title: "Planted native trees should all be flagged as "captive/cultivated" on iNaturalist."
+sub_title: "Planted native trees should all be flagged as &ldquo;captive/cultivated&rdquo; on iNaturalist."
 author: Jon Sullivan
 date:   2018-10-01 10:30:00 +1300
 last_modified_at:   2023-11-01 12:30:00 +1300
