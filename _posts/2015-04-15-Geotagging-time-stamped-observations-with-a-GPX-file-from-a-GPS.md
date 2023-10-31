@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "All you need to record lots of individually geotagged observations is a notebook, watch, and a GPS set to track"
-subtitle:  "Geotagging time stamped observations with a GPX file from a GPS"
+title:  "Geotagging time stamped observations with a GPX file from a GPS"
+sub_title:  "All you need to record lots of individually geotagged observations is a notebook, watch, and a GPS set to track."
 author: jonsullivan
 date:   2015-04-15 10:30:00 +1300
 last_modified_at:   2023-10-31 17:00:00 +1300
@@ -28,8 +28,22 @@ My R script reads in the GPX file exported from Cyclemeter (this file could as e
 
 You can find my geotagging R script on [Github](https://github.com/mjon/geotag-timestamps-with-gpx). If you're new to [R](https://www.r-project.org), it's a free computer app for wrangling, analyzing, and graphing data. To run an R script, install R on your computer, make sure R is closed, and double-click on the script file to open R. Doing it that way makes sure that R automatically looks for your data in the folder containing your opened R script. You'll need to update the start of the script to include your GPX file's name, your time zone, and the date-time that you want to geotag.
 
+<div class="indent">
+<figure class="align-center">
+<img src="../../../../../../../assets/img/screenshot of R geotagging.png" width="90%" alt="R screenshot">
+  <figcaption>A screenshot of the R script in action. When given a GPX GPS track, and the date and time of an observation, it uses the GPX track to calculate the location of that observation.</figcaption>
+</figure>
+</div>
+
 I should add that I use a [Filemaker Go](https://www.claris.com/filemaker/) custom app on my iPhone to record all of my observations, and the latest versions of Filemaker Go can add a GPS coordinate to each observation along with the time stamp. I was excited when that feature came out, and immediately added it to my app. I was disappointed to then find that there's often a several 100 m lag in the geotags from Filemaker Go, for reasons I don't understand. Syncing later with the GPX track from my Cyclemeter app does a *much* better job of geotagging. Cyclemeter must be updating its GPS location more rapidly than the internal iPhone system that Filemaker Go is accessing. 
 
 So, even now, I use my R script to combine the observation timestamps recorded in Filemaker Go with the Cyclemeter GPX file to refine the coordinates of all my observations. If I have access to a commercial GPS unit on a longer trip in the wilderness, I can have that do the tracking. I can then switch my iPhone to airplane mode and turn off location to save battery.
 
 This all means that you only need three thing to accurately and quickly record lots of properly geotagged wild counts. First, you need a GPS, or smart phone GPS app, set to track where you go. Second, you need to accurately tell the time. Third, you need somewhere to write timestamped observations. While all this can be done on a smart phone, if you’re old school or your smart phone’s battery is flat, you can just as easily attach a GPS unit to your backpack and record fully geotagged observations using just a watch and a notebook.
+
+<div class="indent">
+<figure class="align-center">
+<img src="../../../../../../../assets/img/trigonometry calculations for geotag timestamps script.jpg" width="90%" alt="hand written trigonometry calculations">
+  <figcaption>High school mathematics for the win! Here are my hand written notes that I used to figure out the calculations I needed to make my R script work.</figcaption>
+</figure>
+</div>
