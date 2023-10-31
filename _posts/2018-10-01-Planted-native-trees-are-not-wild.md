@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Planted native trees are not wild."
+title:  "Planted native trees are not wild"
 sub_title: "Planted native trees should all be flagged as &ldquo;captive/cultivated&rdquo; on iNaturalist."
 author: Jon Sullivan
 date:   2018-10-01 10:30:00 +1300
@@ -35,15 +35,15 @@ Roses are red, violets are blue; I tag them as "cultivated", and so should you. 
 </figure>
 </div>
 
+That all makes intuitive sense to most people when they're observing showy exotic plants in gardens. What seems sometimes less intuitive is that it's exactly the same when observing native trees planted in restoration projects. These are no more wild than the roses in your grandmother’s garden, regardless of whether they were planted this year or a hundred years ago.
+
 <div class="indent">
 <figure class="align-center">
-<img src="../../../../../../../assets/img/iNat Captive/Cultivated.png" width="90%" alt="captive/cultivated check on the iNaturalist Identify page">
+<img src="../../../../../../../assets/img/iNat Captive-Cultivated.png" width="90%" alt="captive/cultivated check on the iNaturalist Identify page">
 <img src="../../../../../../../assets/img/iNat Organism is wild.png" width="90%" alt="captive/cultivated check on the iNaturalist Organism is wild">
   <figcaption>You can mark observations as "captive/cultivated" when you share observations on iNaturalist, with the app or the website. When you identify other peoples' observations on the iNaturalist <a href="https://www.inaturalist.org/observations/identify">Identify webpage</a>, you can also mark observations as "captive/cultivated" there (pictured above next to a red rose), or you can choose "yes" or "no" to the "Organism is wild" in the Data Quality Assessment section at bottom of every observation webpage.</figcaption>
 </figure>
 </div>
-
-That all makes intuitive sense to most people when they're observing showy exotic plants in gardens. What seems sometimes less intuitive is that it's exactly the same when observing native trees planted in restoration projects. These are no more wild than the roses in your grandmother’s garden, regardless of whether they were planted this year or a hundred years ago.
 
 Here in New Zealand there have been decades of poorly documented tree planting in reserves around our cities and towns. Public enthusiasm for planting trees in wild places is only increasing. This means that exploring such reserves now is a confusing jumble of trees of unknown origin. 
 
