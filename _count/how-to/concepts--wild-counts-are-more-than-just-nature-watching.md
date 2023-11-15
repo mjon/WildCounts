@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "What-Where-When-Who-Why-How: wild counts is more than just nature watching."
 sub_title: "The Why and How are often missing from casual nature watching observations, and museum specimen collections, but they’re just as important as What-Where-When-Who."
 author: jonsullivan
