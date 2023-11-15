@@ -23,7 +23,7 @@ It's the consistently recorded <b>Why</b> and <b>How</b> that make wild counts m
 
 Earlier this week, to my great surprise, I saw a [k&#333;tuku](https://nzbirdsonline.org.nz/species/white-heron) flying over a suburban neighbourhood park in southwestern &#332;tautahi-Christchurch, New Zealand. That's very unusual&mdash;I've never seen one before in this suburb&mdash;and that makes it an observation worth sharing.
 
-If I shared that observation by itself, it would be another `What-Where-When-Who observation`: "Today I saw a k&#333;tuku here!" Nature sharing sites like [iNaturalist](https://iNaturalist.org) are filled with observations like this. Mine would tell everyone that there was a k&#333;tuku passing through this part of &#332;tautahi on that day. However, if anything, its coordinate on the map would add unwanted noise to calculations of k&#333;tuku distribution and habitat use. Turning `What-Where-When-Who` observations into robust population maps and trends is very difficult. 
+If I shared that observation by itself, it would be another `What-Where-When-Who` observation: "*Today I saw a k&#333;tuku here!*" Nature sharing sites like [iNaturalist](https://iNaturalist.org) are filled with observations like this. Mine would tell everyone that there was a k&#333;tuku passing through this part of &#332;tautahi on that day. However, if anything, its coordinate on the map would add unwanted noise to calculations of k&#333;tuku distribution and habitat use. Turning `What-Where-When-Who` observations into robust population maps and trends is very difficult. 
 
 That's all because `What-Where-When-Who` does not make it clear exactly how unusual, or common, each sighting was. I could add some text to the description, like "this is the first time I've seen a k&#333;tuku here". However, that could easily go unnoticed by researchers analysing thousands of k&#333;tuku observations. More importantly, it doesn't say exactly how often, when, and how hard I've looked at this site for k&#333;tuku. This is all because the `Why` and `How` are missing.
 
@@ -47,7 +47,7 @@ Some nature watching observations, like some taxonomic specimens, can be incredi
 
 Wild counts should be more than just nature watching. By adding `Why` and `How` to `What-Where-When-Who`, our wild counts are useful for making discoveries (like "that's the first time that species has been recorded here") **and** for monitoring changes. 
 
-Adding the `How` and `Why` to nature watching is just as much fun, and just as easy, as leaving them out. It just takes a bit of care and practise at first to get into the habit. In my case, it's the difference between "Today I saw a k&#333;tuku here!" and "Today I went for my weekly run, looking for all birds, and I saw a k&#333;tuku here!". If you’re keen on nature watching, have a think about how to turn some of your observations into wild counts.
+Adding the `How` and `Why` to nature watching is just as much fun, and just as easy, as leaving them out. It just takes a bit of care and practise at first to get into the habit. In my case, it's the difference between "*Today I saw a k&#333;tuku here!*" and "*Today I went for my weekly run, looking for all birds, and I saw a k&#333;tuku here!*". If you’re keen on nature watching, have a think about how to turn some of your observations into wild counts.
 
 ---
 
