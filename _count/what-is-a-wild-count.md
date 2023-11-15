@@ -19,17 +19,17 @@ For centuries amateur and professional naturalists have been documenting the wil
 
 We call these "**casual observations**" here. That's because they were not collected in a consistent way that can be used to uncover trends and patterns in species. Casual observations make it really difficult to untangle what the species were doing from what the people were doing. For example, was a species really absent from a site in a given year, or did nobody who was there bother to record it? 
 
-### Wild counts are What-Why-Where-When-How-Who counts
+### Wild counts are What-Where-When-Who-Why-How counts
 
-If you really want to know what's going on in nature, you need **What-Why-Where-When-How-Who counts**. These include **what** species were looked for (regardless of whether or not they were found), **why** (the reason for looking), **where** and **when** the species were searched for, **how** they were searched for (your search method), and **who** was searching. 
+If you really want to know what's going on in nature, you need `What-Where-When-Who-Why-How` counts. These include `what` species were looked for (regardless of whether or not they were found), `why` (the reason for looking), `where` and `when` the species were searched for, `how` they were searched for (your search method), and `who` was searching. 
 
 This can be as simple as 
 
 >"I went out for a walk alone along my usual route, on this day between these times, without any special equipment, and looked for my favourite butterfly."
 
-That's it! You're making What-Why-Where-When-How-Who counts when when you write that down each time you're out walking. You just need to do it each walk, regardless of whether or not you find any of your favourite butterfly.
+That's it! You're making `What-Where-When-Who-Why-How` counts when when you write that down each time you're out walking. You just need to do it each walk, regardless of whether or not you find any of your favourite butterfly.
 
-It's silly to keep saying What-Why-Where-When-How-Who counts, so we call them **wild counts**. Wild counts are complete and consistent What-Why-Where-When-How-Who counts of living organisms. They are counts designed to be connected together to document patterns and trends in natures. It's best if they're stored and shared in a consistent, standard format. 
+It's silly to keep saying `What-Where-When-Who-Why-How` counts, so we call them **wild counts**. Wild counts are complete and consistent `What-Where-When-Who-Why-How` counts of living organisms. They are counts designed to be connected together to document patterns and trends in natures. It's best if they're stored and shared in a consistent, standard format. (<a href="../concepts--What-Where-When-Who-Why-How/">You can read more here</a> about why, and how, you should record all of `What-Where-When-Who-Why-How` when you're watching nature.)
 
 **Wild counts data are vastly more useful than casual observations for uncovering changes in nature.** That's because they're comparable in space and time, and they include all the times and places where people looked for species but didn't find them. All of this makes wild counts excellent for documenting trends and patterns in nature.
 
