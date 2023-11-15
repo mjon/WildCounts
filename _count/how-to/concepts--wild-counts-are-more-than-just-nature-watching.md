@@ -25,6 +25,13 @@ Earlier this week, to my great surprise, I saw a [k&#333;tuku](https://nzbirdson
 
 If I shared that observation by itself, it would be another `What-Where-When-Who` observation: "*Today I saw a k&#333;tuku here!*" Nature sharing sites like [iNaturalist](https://iNaturalist.org) are filled with observations like this. Mine would tell everyone that there was a k&#333;tuku passing through this part of &#332;tautahi on that day. However, if anything, its coordinate on the map would add unwanted noise to calculations of k&#333;tuku distribution and habitat use. Turning `What-Where-When-Who` observations into robust population maps and trends is very difficult. 
 
+<div class="indent">
+<figure>
+<a href="https://www.flickr.com/photos/mollivan_jon/53333192641/" title="k&#333;tuku at Willowbank Wildlife Reserve"><img src="https://live.staticflickr.com/65535/53333192641_23596bbd48.jpg" width="60%" alt="k&#333;tuku at Willowbank Wildlife Reserve"></a>
+<figcaption>This is what a k&#333;tuku looks like. They're big, white, distinctive egrets that are hard to confuse with other species. I photographed this one in a wildlife park. I didn't manage to photograph the bird I saw flying over southwestern suburbs of &#332;tautahi-Christchurch (I was out runnning) although I got a clear enough view to be confident of my identification.</figcaption>
+</figure>
+</div>
+
 That's all because `What-Where-When-Who` does not make it clear exactly how unusual, or common, each sighting was. I could add some text to the description, like "this is the first time I've seen a k&#333;tuku here". However, that could easily go unnoticed by researchers analysing thousands of k&#333;tuku observations. More importantly, it doesn't say exactly how often, when, and how hard I've looked at this site for k&#333;tuku. This is all because the `Why` and `How` are missing.
 
 By adding `Why` and `How` to the `What-Where-When-Who`, I can put my observation into proper context. That allows it to be used to calculate robust patterns and trends. It lets people in the future survey this site and connect their observations to mine to assess change. `Why` and `How` are the keys to turning casual nature watching into wild counts.
@@ -89,5 +96,3 @@ You can note the <code>Who-Why-How</code> just once, at the start of a trip, tur
     </tr>
   </tbody>
 </table>
-
----
