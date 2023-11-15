@@ -114,7 +114,7 @@ It's on the left verge (`lv`), I'm unsure whether the roadkill is less than 24 h
 
 This might all sound a bit silly and pedantic. If you're experienced enough to know that it was probably a blackbird, why not just write down "blackbird"? Does it really matter whether or not you record when you're uncertain about your identifications? 
 
-In some cases, it might not matter much. Real population trends, if strong and consistent, and will emerge from your data regardless. Any extra noise caused by varying, inaccurate interpretations will only mean that counts need to be collected for a little longer to reveal reliable population trends.
+In some cases, it might not matter much. Real population trends, if strong and consistent, will emerge from your data regardless. Any extra noise caused by varying, inaccurate interpretations will only mean that counts need to be collected for a little longer to reveal reliable population trends.
 
 However, in other cases, it definitely will matter. Fake trends can emerge caused by gradual changes in observers’ skills. Real trends can be obscured by the noise of variability in the accuracy of observers’ interpretations. 
 
