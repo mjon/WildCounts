@@ -1,5 +1,5 @@
 ---
-title:  "What-Where-When-Who-Why-How: wild counts is more than just nature watching."
+title:  "What-Where-When-Who-Why-How: wild counts is more than just nature watching"
 sub_title: "The Why and How are often missing from casual nature watching observations, and museum specimen collections, but they’re just as important as What-Where-When-Who."
 author: jonsullivan
 date:   2019-02-26 17:30:00 +1300
@@ -53,7 +53,7 @@ Adding the `How` and `Why` to nature watching is just as much fun, and just as e
 
 ### What-Where-When-Who-Why-How: the essentials of wild counting.
 
-Note the <code>Who-Why-How</code> once, at the start of a trip, turn on your GPS, and then focus on making lots of <code>What-Where-When</code> observations along the way.
+You can note the <code>Who-Why-How</code> just once, at the start of a trip, turn on your GPS, and then focus on making lots of <code>What-Where-When</code> observations along the way.
 
 <table class="table table-striped table-hover">
   <thead>
