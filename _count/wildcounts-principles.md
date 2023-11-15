@@ -25,7 +25,7 @@ If you're not sure what one means, or are not sure why it's important, each is e
     </tr>
     <tr class="warning">
       <td>3</td>
-      <td><strong>Always record What-Why-Where-When-How-Who.</strong></td>
+      <td><strong>Always record What-Where-When-Who-Why-How.</strong></td>
     </tr>
     <tr class="info">
       <td>4</td>

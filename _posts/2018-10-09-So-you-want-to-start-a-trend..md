@@ -69,7 +69,7 @@ Regardless, even without making this extra effort, relative counts can reveal pr
 
 ### Today I found
 
-To reveal trends in a species’ occupancy or abundance, we have to record our observation effort in some way. That's means consistently recording What-Why-Where-When-How-Who. These are the essentials of wild counting and other biodiversity surveying. One of the simplest suitable methods I've thought of that ticks all these boxes for mobile species like birds and butterflies is what I call "Today I found".
+To reveal trends in a species’ occupancy or abundance, we have to record our observation effort in some way. That's means consistently recording What-Where-When-Who-Why-How. These are the essentials of wild counting and other biodiversity surveying. One of the simplest suitable methods I've thought of that ticks all these boxes for mobile species like birds and butterflies is what I call "Today I found".
 
 Pick one (or a few) local species you'd like to consistently record (the What), that you're interested in revealing trends for (the Why). Pick one, or a few, places that you're often at, such as your home (the Where). 
 
@@ -96,7 +96,7 @@ Rinse, repeat, and watch the trends emerge.
 
 ### The bells and whistles
 
-Welcome to the top of the slippery slope of wild counting. The essentials of What-Why-Where-When-How-Who can be elaborated on to count much more of the wild, much more frequently. I now use a [Filemaker Go app](../../../../../../../count/wildcounts-app-FilemakerGo/) on my iPhone to count the wild everywhere I go. I'm even doing it right now, while I write this, using an expanded version of "Today I found" that breaks my day into consecutive 20 minute intervals. My office window is open, and I’m noting down any native forest birds I hear or see, or butterflies I see, in each interval. I've been doing that for many years, from work and from home (for example, [here's the first seven years of doing it from my work office](../../../../blog/2018/06/02/Seven-years-of-bird-counting-from-my-office/)).
+Welcome to the top of the slippery slope of wild counting. The essentials of What-Where-When-Who-Why-How can be elaborated on to count much more of the wild, much more frequently. I now use a [Filemaker Go app](../../../../../../../count/wildcounts-app-FilemakerGo/) on my iPhone to count the wild everywhere I go. I'm even doing it right now, while I write this, using an expanded version of "Today I found" that breaks my day into consecutive 20 minute intervals. My office window is open, and I’m noting down any native forest birds I hear or see, or butterflies I see, in each interval. I've been doing that for many years, from work and from home (for example, [here's the first seven years of doing it from my work office](../../../../blog/2018/06/02/Seven-years-of-bird-counting-from-my-office/)).
 
 There are more detals about my complete Wild Counts method [elsewhere on this website](https://wildcounts.org/count/home/). What’s important is that you don’t need to start with a jump into the deep end. There are also simpler, consistent ways to count the wild to reveal trends in nature.
 

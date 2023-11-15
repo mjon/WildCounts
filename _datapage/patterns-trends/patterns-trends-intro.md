@@ -24,7 +24,7 @@ The data pages of WildCounts are currently in development.
 
 ## Turn wild counts into knowledge
 
-When nature observations are made consistently, with all the What-Why-Where-When-How-Who information, then it becomes much simpler to document patterns and reveal trends in the data.
+When nature observations are made consistently, with all the `What-Where-When-Who-Why-How` information, then it becomes much simpler to document patterns and reveal trends in the data.
 
 I won't publish data analysis code until the WildCounts data format has been updated to be compliant with the [Darwin Core](https://dwc.tdwg.org/) standard for biodiversity collection data and the new [Humboldt Core](https://eco.tdwg.org/) standard for ecological survey data. In the meantime, here are some examples of the patterns and trends that can be seen from my 20-years of personal wild counts. All were produced with the free, open-source apps [R](httsp://www.r-project.org) and [QGIS](https://http://qgis.org/).
 
