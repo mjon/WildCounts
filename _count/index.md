@@ -56,6 +56,18 @@ The **WildCounts** website is being constructed online, and there's a lot more c
 </div>
 <div class="panel-body">
     <p>
+    <strong>November 2023</strong>: article uploaded in the "How to count the wild" section on making sure you record all of <a href="../concepts--What-Where-When-Who-Why-How/">What-Where-When-Who-Why-How</a>.
+    </p>
+    <p>
+    <strong>October 2023</strong>: some of the backlog of Blog articles uploaded: <a href="../blog/2018/10/03/What-is-wild/">What exactly is wild?</a>, <a href="../blog/2019/08/16/A-butterfly-flew-through/">A butterfly flew through</a>, <a href="../blog/2019/12/14/My-Wild-Counts-Workflow/">My wild counting workflow</a>, <a href="../blog/2020/09/01/Imagine-counting-the-wild-on-EVERY-street-in-a-city!/">Imagine counting the wild on EVERY street in a city</a>, <a href="../blog/2021/07/26/Adding-a-scale-to-macro-photos/">Adding a scale to macro photos</a>, <a href="../blog/2021/10/16/thats-no-pollinator-thats-a-flower-visitor/">That's no pollinator, that's a flower visitor!</a>, <a href="../blog/2023/04/06/Stop-it-people.-The-plural-of-anecdote-IS-data/">Stop it people, the plural of anecdote IS data!</a>.
+    </p>
+    <p>
+    <strong>October 2023</strong>: guest Blog article on CEBRA uploaded: <a href="../blog/2023/07/21/CEBRA-An-optimised-and-standardised-sampling-protocol-for-bioblitz/">CEBRA: An optimised and standardised sampling protocol for BioBlitz</a>.
+    </p>
+    <p>
+    <strong>March 2023</strong>: some of the backlog of Blog articles uploaded: <a href="../blog/2018/06/17/History-matters-in-ecology-so-be-careful-what-history-you-make-in-ecological-restoration-projects/">History matters in ecology, so be careful what history you make</a>, <a href="../blog/2018/06/16/When-and-where-should-we-plant-trees/">When and where we should, and shouldn't, plant trees</a>, <a href="../blog/2018/06/14/Wait-dont-plant-Forest-restoration-is-not-gardening/">Wait, don't plant! Forest restoration &ne; gardening</a>.
+    </p>
+    <p>
     <strong>29 November 2021</strong>: Count methods: <a href="../predetermine-what-to-count/">Predetermine what to count before you start.</a>.
     </p>
     <p>

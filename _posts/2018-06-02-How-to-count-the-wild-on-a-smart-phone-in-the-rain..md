@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to count the wild on a smart phone in the rain."
+title:  "How to count the wild on a smart phone in the rain"
 sub_title: "A simple and effective low-tech solution to a high-tech conundrum."
 excerpt: "Smart phones are great. All that amazing computing power and knowledge and communication at your finger tips! Unless it's raining. Then touch screens are awful."
 author: jonsullivan
@@ -23,7 +23,9 @@ tags:
 
 ---
 
-Smart phones are great. All that amazing computing power and knowledge and communication at your finger tips! Unless it's raining. Then, touch screens are just awful. Trying to type on a touch screens when there's even a hint of rain is stupidly frustrating.
+Smart phones are great. All that amazing computing power and knowledge and communication at your finger tips!
+
+Unless it's raining. Then, touch screens are just awful. Trying to type on a touch screens when there's even a hint of rain is stupidly frustrating.
 
 I love the convenience and power of counting the wild with my iPhone. I also need to count the wild in all weather. For an embarrassingly long time, I stumbled through various suboptimal solutions for entering counts into my iPhone in the rain. I tried water proof cases but I still couldn't use their screens when it was wet. I then switched to talking my observations onto a continuous recording on my iPhone so I didn't need to enter anything with the screen. I still have a folder of these recordings waiting for me to find the time to process (I need to clip out each observation and sync their geotags with my GPS tracks).
 

@@ -8,7 +8,7 @@ meta:
 permalink: /count/gear-up-intro/
 ---
 
-## A computer, camera, microphone, database, and GPS in every pocket
+### A computer, camera, microphone, database, and GPS in every pocket
 
 These days, you can do it all with a modern smart phone. It can be your camera and microphone and GPS, all in one, plus a database to enter your counts. I currently use an iPhone with Filemaker Go as my database. There are other database apps that you could set up to do the job (for example, [Airtable](https://www.airtable.com/), [Fulcrum](https://www.fulcrumapp.com/), [Tapforms](https://www.tapforms.com/)). I like FileMaker Go because you can enter text, audio, and drawings into its fields, and it works well offline. The downside is that you need access to the expensive FileMaker Pro on a computer to create a new database. One of these days I’d like to build and share a small stand-alone app all setup for wild counting using my method. In the meantime, [my Filemaker Go solution is online](https://github.com/mjon/WildCounts-Filemaker-Go-app).
 

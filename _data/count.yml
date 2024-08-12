@@ -10,12 +10,12 @@
 - title: How to count the wild
   count:
   - how-to-intro
+  - concepts--What-Where-When-Who-Why-How
 
 - title: Decide what to count
   count:
   - what-to-count-intro
   - predetermine-what-to-count
-  - predeterminator
 
 - title: Learn the method
   count:
@@ -27,11 +27,14 @@
   - concepts--the-usual-is-not-the-same
   - concepts--your-friend-the-question-mark
   - concepts--pacing-the-uncountables
+  - concepts--record-honestly-interpret-later
+  - concepts--why-40-to-60-is-better-than-50
+  - concepts--song-then-seen-is-not-seen-then-song
+  - concepts--why-it-is-worth-noting-flying-and-flight-direction
 
 - title: Improve your ID skills
   count:
   - id-intro
-  - id-placeholder
 
 - title: Gear up
   count:

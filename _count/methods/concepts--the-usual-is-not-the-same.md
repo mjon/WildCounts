@@ -122,7 +122,7 @@ In that example, my total count is **2--3** bellbirds, because the third bird is
 
 Importantly, I'm not entering a conservative count of 2. I'm also not entering an optimistic count of 3. I am only entering what I found, which is that I made three sightings of 2 or 3 birds. One of the key [WildCounts principles](../wildcounts-priciples/) is "Never guess and never interpret". If a researcher wants to be conservative and use 2, or optimistic and use 3, in their analyses later, that's their choice. I've just recorded exactly what I saw.
 
-To save time, whenever I'm doing stationary counts, everything is `@!` by default, unless I specify otherwise for a particular observation. This means that when I’m stationary, I just need to tag those observations that are definitely the same (`!`), or definitely different (`@`). Otherwise they'll all be maybe the same.
+To save time, whenever I'm doing stationary counts, everything is `@!` by default, unless I specify otherwise for a particular observation. This means that when I’m stationary, I just need to tag those observations that are definitely the same (`@`), or definitely different (`!`). Otherwise they'll all be maybe the same.
 
 When I'm doing a moving count, everything is instead `!`, unless I specify otherwise. I just then need to add `@!` or `@` when I've possibly or definitely just recounted the same individual. That happens, for example, if a bird is flying faster than I am moving, or if I go around a corner and may have resighted the same individual from a different angle. Otherwise they're all definitely different.
 
@@ -145,35 +145,35 @@ But wait, there's more! There's one extra special case here that you may also fi
 
 I find that it's often useful to separate my standard routes into sections, based on landmarks and  divisions between habitat types. Similarly, I divide my stationary and site exploring surveys into 20 minute intervals, to capture how nature is changing throughout the day.
 
-In both cases, it's possible to find what is definitely, or possibly, the same individual present in two consecutive route sections, or in two adjacent time intervals. In these cases, they are not really the same in the sense of the WildCounts syntax `@`. That would mean that they'd be ignored when summing the total count for that interval or route section. Instead, they are "the same again", which has the syntax `@@`. If they're possibly the same again, that's `@@!`. In both cases, they're still considered a separate count for the total for that interval or route section.
+In both cases, it's possible to find what is definitely, or possibly, the same individual present in two consecutive route sections, or in two adjacent time intervals. In these cases, they are not really the same in the sense of the WildCounts syntax `@`. That would mean that they'd be ignored when summing the total count for that interval or route section. Instead, they are "the same again", which has the syntax `@@`. They're still considered a separate count for the total for that interval or route section.
 
 To make this clearer, here's an example of a 40 minute stationary count, divided into two 20 minute intervals. It illustrates why this subtle distinction can be useful.
 
 ```
 /14:00-
-bellb |n1xmv,n1xmv@*n1xmv!
+bellb |n1xmv,n1xmv@*n2xmv!
 /14:20-
-bellb n1xmv@@,n1xmv@@!|m1xmv
+bellb n1xmv@@,n2xmv@@!|m1xmv
 /-14:40
 ```
 
-This means that, in the first 20-minute interval, starting at 2 PM, male bellbirds were heard singing nearby three times, all after the first five minutes (that's the `|`). The second song (`n1xmv@`) was definitely the same bird as the first song, and it was joined by the song of a definitely different, second bird (`n1xmv!`). The total count for this interval is therefore **2** bellbirds.
+This means that, in the first 20-minute interval, starting at 2 PM, male bellbirds were heard singing nearby three times, all after the first five minutes (that's the `|`). The second song (`n1xmv@`) was definitely the same bird as the first song, and it was joined by the song of two definitely different birds (`n1xmv!`). The total count for this interval is therefore **3** bellbirds.
 
-In the second interval, beginning at 2:20 PM, the two male bellbirds from the previous interval are still about (which I'd know from their locations and sometimes their different song dialects). The first bird from the previous interval sang first (`n1xmv@@`), and then the second bird from the previous interval sang (`n1xmv@@!`). Note that this is flagged as a definitely different bird from the first, using `!`. After the first five minutes, male bellbird song is heard again (`m1xmv`), but it's not clear whether it was the same or a different individual. Remember that `@!` is the default for stationary counts, so it's implied here. The total count for this second interval is therefore **2--3** bellbirds. Also, two of those were definitely recounted from the previous interval, so the total count for the whole survey is also **2--3** bellbirds.
+In the second interval, beginning at 2:20 PM, the three male bellbirds from the previous interval are still about (which I'd know from their locations and sometimes their different song dialects). The first bird from the previous interval sang first (`n1xmv@@`), and then the two other birds from the previous interval sang (`n2xmv@@!`). Note that this is flagged as definitely different birds from the first, using `!`. After the first five minutes, male bellbird song is heard again (`m1xmv`), but it's not clear whether it was the same or a different individual. Remember that `@!` is the default for stationary counts, so it's implied here. The total count for this second interval is therefore **3--4** bellbirds. Also, three of those were definitely recounted from the previous interval, so the total count for the whole survey is also **3--4** bellbirds.
 
 If I had not used "that same again" concept, and had instead just used "the same", my counts would have been entered as follows.
 
 ```
 /14:00-
-bellb |n1xmv,n1xmv@*n1xmv!
+bellb |n1xmv,n1xmv@*n2xmv!
 /14:20-
-bellb n1xmv@,n1xmv@!|m1xmv
+bellb n1xmv@,n2xmv!|m1xmv
 /-14:40
 ```
 
-That second interval would then have been interpreted differently: the first song is the same, but the second song may or may not be the same, and the third song is the default of possibly the same. The total count for the second interval ends up being **1--3** birds, not **2--3**. Also, the total count for the whole survey ends up being **2--4**, not **2--3**.
+That second interval would then have been interpreted differently: the first song is the same, but the second song is different (there would be no way to flag that it's the same again as the pair of birds heard in the first interval), and the third song is the default of possibly the same. The total count for the second interval is still **3--4** birds, but the total count for the whole survey ends up being **3--6**, not **3--4**.
 
-The difference between "the same" and "the same again" is subtle, but useful, as it gives more precise counts.
+The difference between "the same" and "the same again" is subtle, but can be useful, as it gives more precise counts.
 
 To keep the syntax straight, these are always interpreted in the order of "is it the same again?" and then "is it the same?". That was in the example above with `n1xmv@@!`.
 
