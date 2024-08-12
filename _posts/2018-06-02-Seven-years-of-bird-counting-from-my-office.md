@@ -54,7 +54,7 @@ ft song yes|
 
 After seven years of office counting, I can now reveal the seasonal and long-term changes in native forest birds from the Lincoln University’s Burns building. There's quite a lot going on, much more than I'd noticed while making the counts.
 
-First, it's worth mentioning the elephant-shaped hole in the room: there have been very few native forest birds around the Burns building. I've got counts here from 986 days and **on 80% of the days, I saw and heard no native forest birds.** I've never heard or seen a [kerer&#363;](https://inaturalist.nz/taxa/204520) (NZ wood pigeon), [karearea](https://inaturalist.nz/taxa/4690) (NZ falcon), or [tūī](https://inaturalist.nz/taxa/12580) (kōkō). Those are very rarely reported passing through Lincoln. The birds I did sometimes record were the three most adaptable of the landscape’s native forest birds: [fantails](https://inaturalist.nz/taxa/244276) (piwakawaka), [grey warblers](https://inaturalist.nz/taxa/13494) (riorio), and [bellbirds](https://inaturalist.nz/taxa/12612) (korimako). Probably not coincidentally, all three have close relatives in Australia that can cope with open woodland habitats and mammalian predators.
+First, it's worth mentioning the elephant-shaped hole in the room: there have been very few native forest birds around the Burns building. I've got counts here from 986 days and **on 80% of the days, I saw and heard no native forest birds.** I've never heard or seen a [kerer&#363;](https://inaturalist.nz/taxa/204520) (NZ wood pigeon), [karearea](https://inaturalist.nz/taxa/4690) (NZ falcon), or [tūī](https://inaturalist.nz/taxa/12580) (kōkō). Those are very rarely reported passing through Lincoln. The birds I did sometimes record were the three most adaptable of the landscape’s native forest birds: [fantails](https://inaturalist.nz/taxa/244276) (piwakawaka), [grey warblers](https://inaturalist.nz/taxa/13494) (riroriro), and [bellbirds](https://inaturalist.nz/taxa/12612) (korimako). Probably not coincidentally, all three have close relatives in Australia that can cope with open woodland habitats and mammalian predators.
 
 I observed all three much more frequently in the winter months than in summer. Bellbirds only visit Lincoln in the winter months, mostly lone males travelling out from various forested parts of the Christchurch Port Hills. (I can tell they're from the Port Hills by the dialects of their songs.) 
 
@@ -80,7 +80,7 @@ In the last three years, my bellbird encounters halved. At the same time, the ad
 
 ---
 
-Unlike bellbirds, fantails are resident in Lincoln with some birds successfully breeding here. The seasonal effect on fantail numbers is much weaker than for bellbirds. The overall trend is similar to the bellbirds with fantail numbers gradually increasing over the first four years before decreasing in recent years. Again, I expect this is a local effect of the tree removal around the building rather than a campus wide effect.
+Unlike bellbirds, fantails are resident in Lincoln with some birds successfully breeding here. The seasonal effect on fantail numbers is much weaker than for bellbirds. The overall trend is similar to the bellbirds with fantail numbers gradually increasing over the first four years before decreasing in recent years. Again, I expect this is a local effect of the tree removal around the building rather than a campus-wide effect.
 
 <div class="indent">
 <figure>
